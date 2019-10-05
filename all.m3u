@@ -5,3 +5,6 @@ http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, ###### English ######
 #EXTINF:-1, US: ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1, ###### UK ######
+#EXTINF:-1, UK: PTC Punjabi
+https://cdn.iptv.bingo/live/218355?u=1900205&s=fc40f0d0a15e19c9865f83b77aa4e7094bbe8fedf17e45e2974ec76b13f60d1c
