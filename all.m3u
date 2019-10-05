@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/5aab.png" group-title="IN/Punjabi",5aab Music
 http://195.181.169.151:8080/5aabtv_music_pun/playlist.m3u8
-#EXTINF:-1, tvg-id="id N/A" group-title="IN/Punjabi", IN: Pitaara
+#EXTINF:-1, tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
@@ -47,25 +47,25 @@ http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi", Prime Canada TV 
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1, ###### IN/Hindi ######
-#EXTINF:-1, group-title="IN/Hindi", IN: ZeeTvHD
+#EXTINF:-1 ###### IN/Hindi ######
+#EXTINF:-1 group-title="IN/Hindi", IN: ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1, group-title="IN/Hindi", IN: &TvHD
+#EXTINF:-1 group-title="IN/Hindi", IN: &TvHD
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1, group-title="IN/Hindi", IN: ZeeCinemaHD
+#EXTINF:-1 group-title="IN/Hindi", IN: ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1 group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-#EXTINF:-1, ###### US/English ######
-#EXTINF:-1, group-title="US/English",US: ESPN HD
+#EXTINF:-1 ###### US/English ######
+#EXTINF:-1 group-title="US/English",US: ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1, ###### Hindi/Movies ######
-#EXTINF:-1, group-title="Hindi/Movies", Marudhar
+#EXTINF:-1 ###### Hindi/Movies ######
+#EXTINF:-1 group-title="Hindi/Movies", Marudhar
 http://beta.sastatv.com/Hindi/Marudhar%20Express%20(2019)%20HD.mkv
-#EXTINF:-1, group-title="Hindi/Movies",Jabariya Jodi
+#EXTINF:-1 group-title="Hindi/Movies",Jabariya Jodi
 http://beta.sastatv.com/Hindi/Jabariya%20Jodi%20(2019)%20HD.mkv
-#EXTINF:-1, group-title="Hindi/Movies",War Cam Rip
+#EXTINF:-1 group-title="Hindi/Movies",War Cam Rip
 http://beta.sastatv.com/Hindi/War%20(2019)%20PreDVD.mkv
-#EXTINF:-1, ###### Punjabi/Movies ######
-#EXTINF:-1, group-title="Punjabi/Movies", Chandigarh Amritsar 
+#EXTINF:-1 ###### Punjabi/Movies ######
+#EXTINF:-1 group-title="Punjabi/Movies", Chandigarh Amritsar 
 http://beta.sastatv.com/Punjabi/Chandigarh%20Amritsar%20Chandigarh%20(2019)%20Punjabi%20-%20720p%20WEB-DL%20-x264%20-%20DD%205.1%20-%20ESubs%20-%20Sun%20George.mkv
