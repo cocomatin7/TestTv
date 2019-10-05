@@ -1,17 +1,20 @@
 #EXTM3U
 #EXTINF:-1, ###### IN/Punjabi ######
-#EXTINF:-1, IN: Pitaara
+#EXTINF:-1, group-title="IN/Punjabi", IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1, ###### IN/Hindi ######
+#EXTINF:-1, group-title="IN/Punjabi", IN: ZeeTvHD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1, ###### US/English ######
-#EXTINF:-1, US: ESPN HD
+#EXTINF:-1, group-title="US/English",US: ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1, ###### Hindi/Movies ######
-#EXTINF:-1, Marudhar
+#EXTINF:-1, group-title="Hindi/Movies", Marudhar
 http://beta.sastatv.com/Hindi/Marudhar%20Express%20(2019)%20HD.mkv
-#EXTINF:-1, Jabariya Jodi
+#EXTINF:-1, group-title="Hindi/Movies",Jabariya Jodi
 http://beta.sastatv.com/Hindi/Jabariya%20Jodi%20(2019)%20HD.mkv
-#EXTINF:-1, War Cam Rip
+#EXTINF:-1, group-title="Hindi/Movies",War Cam Rip
 http://beta.sastatv.com/Hindi/War%20(2019)%20PreDVD.mkv
 #EXTINF:-1, ###### Punjabi/Movies ######
-#EXTINF:-1, Chandigarh Amritsar 
+#EXTINF:-1, group-title="Punjabi/Movies", Chandigarh Amritsar 
 http://beta.sastatv.com/Punjabi/Chandigarh%20Amritsar%20Chandigarh%20(2019)%20Punjabi%20-%20720p%20WEB-DL%20-x264%20-%20DD%205.1%20-%20ESubs%20-%20Sun%20George.mkv
