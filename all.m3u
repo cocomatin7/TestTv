@@ -1,4 +1,12 @@
 #EXTM3U
+http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
+http://104.237.60.234/live/gabruutv.m3u8
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8 ##desichannel
+http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://sc.dish.com/shared/images/station-logos/apunj.png",ATN Alpha ETC Punjabi
 http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
