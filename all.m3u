@@ -70,7 +70,8 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Canada TV 
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: StarGold HD
+http://212.8.253.141:7071/ind2019/stargoldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6NDg6NDYgUE0maGFzaF92YWx1ZT1LM2tlYWlHa29sbFJodkx5V2ZpQnBBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: Mob ZeeTV US 
