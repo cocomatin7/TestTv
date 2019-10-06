@@ -55,13 +55,32 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &TvHD
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Plus HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8604
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Plus HD
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",Zee Cinema US 
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8593
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8626
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/13509
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors UK
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8633
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8640
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Six HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8618
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: India TV
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8636
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: NDTV
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8643
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",US: ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
