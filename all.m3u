@@ -12,7 +12,7 @@ http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/5aab.png" group-title="IN/Punjabi",IN: 5aab Music
 http://195.181.169.151:8080/5aabtv_music_pun/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Pitaara
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/1e/3a/f41e3a39-b021-4859-df07-b057fc129b73/AppIcon-0-1x_U007emarketing-0-85-220-0-5.jpeg/1200x630wa.png",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
