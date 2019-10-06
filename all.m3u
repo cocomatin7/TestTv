@@ -86,24 +86,41 @@ http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8643
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",US: ESPN 1 HD
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN 1 HD
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",US: ESPN 2 HD
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN 2 HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/24957.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",UK:Sky_Sports_ACTION_HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/632.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",&Flix HD 
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NHL HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2524.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NFL HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2542.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3214.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: &Flix HD 
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",Zee Cafe HD 
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Zee Cafe HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",&Prive HD 
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: &Prive HD 
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",Weather Channel
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",Weather Nation
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",MLB Network
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WWE
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2126.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2463.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3215.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Syfy
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2587.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Starz
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/21332.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Showtime HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/5225.m3u8
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
@@ -122,3 +139,14 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 8
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
 
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: FOOTBALL HD
+http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: LIVERPOOL FC
+http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2498.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: SKY SPORTS PREMIER LEAGUE FHD
+http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50180.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: SKY SPORTS CRICKET FHD
+http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50185.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/English" tvg-logo="logo N/A",UK:Sky_Sports_ACTION_HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/632.m3u8
