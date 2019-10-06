@@ -69,6 +69,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",&Prive HD 
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 
