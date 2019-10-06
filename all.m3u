@@ -1,36 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHindiHD1 HD
-http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHD2 HD
-http://red.watchtvlive.ml/StarSportsHD2.m3u8
 
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://sc.dish.com/shared/images/station-logos/apunj.png",ATN Alpha ETC Punjabi
+http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_5kG9QsOErihqvKU0hUD9ICmyXR67mu4ZiHg=s288-c-k-c0xffffffff-no-rj-mo",PTC Music
+http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599236s.png",PTC News
+http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLd97lV6l4psYGLB1kvFITdH9Txi1Domo9pBXyZ4jCRSk0Xmf",PTC Punjabi
+http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://yt3.ggpht.com/a/AGF-l79BokvEDLya_Jlgji8NJYm4QJCHemDvbumi0w=s900-c-k-c0xffffffff-no-rj-mo",PTC Punjabi Gold
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/5aab.png" group-title="IN/Punjabi",IN: 5aab Music
 http://195.181.169.151:8080/5aabtv_music_pun/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 
-http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Zee Punjabi 
-http://pockettv.xyz/api/zee.m3u8?c=punjabi
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",ATN Alpha ETC Punjabi
-http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Music
-http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC News
-http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Punjabi
-http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Punjabi Gold
-http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Simran
-http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",Jus Hindi
-http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",Jus One
-http://jiocgwhub.jio.ril.com/JUSOne/JUSOne.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Canada TV 
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: TV 16 Toronto 
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: P Tunes 
@@ -39,37 +26,48 @@ https://streamer.multitvsolution.in/PTunes-d/playlist.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Punjabi TadkaMusic
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Simran
+http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",Jus Hindi
+http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",Jus One
+http://jiocgwhub.jio.ril.com/JUSOne/JUSOne.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Zee Punjabi 
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Asia TV
 http://jiocgehub.jio.ril.com:80/Prime_Asia_Tv/Prime_Asia_Tv_600.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Wah Punjabi
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Wah Punjabi(Mob)
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  NEWS18 PUNJAB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  TV 16 Toronto 
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Tehlka TV
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Tehlka TV (Mob)
 http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Sardari TV
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Kabaddi365 TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Sabrang TV
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Sabrang TV (Mob)
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Punjabi Zindabad
-http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Punjabi Tadkaa
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  PTV Pardesi
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Canada TV 
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8593
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8626
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/13509
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8640
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: NDTV
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8643
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: StarGold HD
 http://212.8.253.141:7071/ind2019/stargoldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6NDg6NDYgUE0maGFzaF92YWx1ZT1LM2tlYWlHa29sbFJodkx5V2ZpQnBBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
@@ -78,36 +76,21 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob &TvHD
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8604
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: Mob Zee Cinema US 
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Sony HD+
 http://red.watchtvlive.ml/SonyHD.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Colors HD+
 http://red.watchtvlive.ml/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8593
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8626
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/13509
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors UK
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8633
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8640
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Six HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8618
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: India TV
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8636
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: NDTV
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8643
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8604
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
@@ -177,3 +160,12 @@ http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50180.m3u8
 http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50185.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/English" tvg-logo="logo N/A",UK:Sky_Sports_ACTION_HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/632.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHindiHD1 HD
+http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHD2 HD
+http://red.watchtvlive.ml/StarSportsHD2.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports",IN: Sony Six HD+
+http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8618
