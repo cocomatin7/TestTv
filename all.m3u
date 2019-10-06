@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHindiHD1 HD
+http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHD2 HD
+http://red.watchtvlive.ml/StarSportsHD2.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/5aab.png" group-title="IN/Punjabi",IN: 5aab Music
 http://195.181.169.151:8080/5aabtv_music_pun/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Pitaara
@@ -63,22 +71,26 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTvHD
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: ZeeTV US 
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: Mob ZeeTV US 
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &TvHD
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob &TvHD
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Plus HD+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD+
 http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8604
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Plus HD
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD
 http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",Zee Cinema US 
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: Mob Zee Cinema US 
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeCinemaHD
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD+
+http://red.watchtvlive.ml/SonyHD.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD+
+http://red.watchtvlive.ml/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema HD+
 http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8593
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
