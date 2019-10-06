@@ -1,13 +1,4 @@
 #EXTM3U
-http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
-http://104.237.60.234/live/gabruutv.m3u8
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8 ##desichannel
-http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://sc.dish.com/shared/images/station-logos/apunj.png",ATN Alpha ETC Punjabi
 http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_5kG9QsOErihqvKU0hUD9ICmyXR67mu4ZiHg=s288-c-k-c0xffffffff-no-rj-mo",PTC Music
@@ -36,6 +27,20 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  BritAsia
+http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Gabrru TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  CineVoice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Desi Channel
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Empee Punjabi
+http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",PTC Simran
