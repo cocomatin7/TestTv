@@ -113,11 +113,7 @@ http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN 1 HD
-http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN 2 HD
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/24957.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NHL HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2524.m3u8
@@ -125,12 +121,34 @@ http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2524.m3u8
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2542.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3214.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: &Flix HD 
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Zee Cafe HD 
-http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: &Prive HD 
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD 2
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1081/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: AMC HD 2
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1083/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sundance TV
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1084/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Tru TV
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1085/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ABC HD
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1087/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Fox 5 WNYW
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1086/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: BBC America
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1092/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WPIX-TV
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1090/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: USA
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1101/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1102/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1103/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1105/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: FXM en
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1106/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: A&E
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1108/index.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
