@@ -113,6 +113,10 @@ http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: FIGHT SPORTS HD
+http://221.178.148.115:9981/stream/channelid/1749356553?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MLB Network HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN HD
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/24957.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NHL HD
@@ -149,6 +153,8 @@ http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1105/index.m3u8
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1106/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: A&E
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1108/index.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Cartoon Network
+http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/143/index.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
