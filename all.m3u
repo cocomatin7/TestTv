@@ -77,18 +77,11 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8593
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8626
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/13509
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8640
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: NDTV
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8643
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: StarGold HD
-http://212.8.253.141:7071/ind2019/stargoldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6NDg6NDYgUE0maGFzaF92YWx1ZT1LM2tlYWlHa29sbFJodkx5V2ZpQnBBPT0mdmFsaWRtaW51dGVzPTI=
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="logo N/A",IN: Mob ZeeTV US 
@@ -113,18 +106,22 @@ http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: FIGHT SPORTS HD
-http://221.178.148.115:9981/stream/channelid/1749356553?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MLB Network HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ESPN HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/24957.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NHL HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2524.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NFL HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2542.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3214.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 4
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 5
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 7
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 8
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD 2
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1081/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: AMC HD 2
@@ -155,6 +152,12 @@ http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1106/index.m3u8
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1108/index.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Cartoon Network
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/143/index.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Movies Now 1
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Star Movies 1
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Star World 1
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
@@ -175,40 +178,8 @@ http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/21332.m3u8
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/5225.m3u8
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 4
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 5
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 7
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 8
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: FOOTBALL HD
 http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: LIVERPOOL FC
-http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2498.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: SKY SPORTS PREMIER LEAGUE FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50180.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: SKY SPORTS CRICKET FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50185.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/English" tvg-logo="logo N/A",UK:Sky_Sports_ACTION_HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/632.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHindiHD1 HD
-http://red.watchtvlive.ml/StarSportsHindiHD1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: StartSportsHD2 HD
-http://red.watchtvlive.ml/StarSportsHD2.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports",IN: Sony Six HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8618
