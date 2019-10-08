@@ -193,3 +193,5 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/Desi" tvg-logo="logo N/A",IN: Colors HD
 http://enndy.live:2015/live/mustafa/21062019/1871.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/Desi" tvg-logo="logo N/A",IN: ZeeCinema HD
+http://enndy.live:2015/live/mustafa/21062019/1824.ts
