@@ -82,10 +82,24 @@ https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema UK
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10239.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema India
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2261.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema USA
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2267.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (Canada)
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2262.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (India)
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6242.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (UK)
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2237.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/18806.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD UK
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2240.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SetMax HD
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2257.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: StarGold HD
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2259.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & TV HD
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6234.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & Pictures HD
@@ -96,6 +110,10 @@ http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6219.ts
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6245.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: UTV Bindass
 http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6236.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zoom India
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2255.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zing
+http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2256.ts
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
