@@ -59,12 +59,10 @@ http://jiocgwhub.jio.ril.com/JUSOne/JUSOne.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=punjabi
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Asia TV
 http://jiocgehub.jio.ril.com:80/Prime_Asia_Tv/Prime_Asia_Tv_600.m3u8
+EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Zee Pun/Har/Him
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6244.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Wah Punjabi(Mob)
-http://cdn.samtv.ca/wahpunjabi/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  NEWS18 PUNJAB
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Tehlka TV (Mob)
@@ -73,8 +71,6 @@ http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Kabaddi365 TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Sabrang TV (Mob)
-http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 
 
 
@@ -84,9 +80,22 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="https://i.imgur.com/ToK6PqP.jpg",& Pictures HD
 http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
-
-
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema UK
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10239.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (India)
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6242.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/18806.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & TV HD
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6234.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & Pictures HD
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10134.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6219.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Music India
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6245.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: UTV Bindass
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6236.ts
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
@@ -105,10 +114,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 http://red.watchtvlive.ml/SonyHD.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Colors HD+
 http://red.watchtvlive.ml/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD+
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8604
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Star Plus HD
-http://6070.nl:88/U1OuRXbzIg/Pbmj0z4QVP/8605
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
@@ -188,8 +193,12 @@ http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/5225.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: FOOTBALL HD
 http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
 
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: Start Sports 2 HD
+http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10165.ts
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/Desi" tvg-logo="logo N/A",IN: Colors HD
 http://enndy.live:2015/live/mustafa/21062019/1871.ts
