@@ -190,3 +190,6 @@ http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/Desi" tvg-logo="logo N/A",IN: Colors HD
+http://enndy.live:2015/live/mustafa/21062019/1871.ts
