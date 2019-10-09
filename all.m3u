@@ -11,6 +11,10 @@ http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/5aab.png" group-title="IN/Punjabi",IN: 5aab Music
 http://195.181.169.151:8080/5aabtv_music_pun/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IN/Punjabi",IN: 5aab Tv
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IN/Punjabi",IN: Balle Balle Tv
+http://live.cloud6.in:1935/balleballe/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/1e/3a/f41e3a39-b021-4859-df07-b057fc129b73/AppIcon-0-1x_U007emarketing-0-85-220-0-5.jpeg/1200x630wa.png",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  PTV Pardesi
@@ -78,42 +82,40 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="https://i.imgur.com/ToK6PqP.jpg",& Pictures HD
-http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema UK
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10239.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema India
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2261.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema USA
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2267.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (Canada)
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2262.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (India)
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6242.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZeeTv HD (UK)
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2237.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/18806.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD UK
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2240.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SetMax HD
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2257.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: StarGold HD
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2259.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & TV HD
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6234.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: & Pictures HD
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10134.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: MTV India
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6219.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Music India
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6245.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: UTV Bindass
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/6236.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zoom India
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2255.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zing
-http://www.samrapro.eu:8000/live/cHgWr9nXJl/uIOszNsXJm/2256.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Hungama Digital Network
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: STAR PLUS
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42438
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZEE TV
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/945
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZEE CINEMA
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/946
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY TV HD
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/959
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: STAR GOLD
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/3647
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZING
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/3646
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: COLORS
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42446
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U MOVIES
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42443
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U MUSIC
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42444
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: STAR BHARAT
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/57119
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: BRIT ASIA TV
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42445
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY MAX HD
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42459
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY SAB
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42460
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: VENUS TV
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42461
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: RISHTEY
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42456
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: RISHTEY CINE
+http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42457
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
