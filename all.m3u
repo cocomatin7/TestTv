@@ -33,6 +33,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",IN: 9X Tashan 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/29326.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  BritAsia
 http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Gabrru TV 1
