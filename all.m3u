@@ -150,34 +150,8 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 8
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: NBC HD 2
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1081/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: AMC HD 2
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1083/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sundance TV
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1084/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Tru TV
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1085/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: ABC HD
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1087/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Fox 5 WNYW
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1086/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: BBC America
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1092/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WPIX-TV
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1090/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: USA
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1101/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1102/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1103/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/175.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: FXM en
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1106/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: A&E
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1108/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/69.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: SyFy
@@ -186,24 +160,84 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/92.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/117.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Comedy Central
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/6.ts
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Cartoon Network
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/143/index.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Movies Now 1
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Star Movies 1
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Star World 1
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Premier-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/153.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Hits-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/10.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Greats-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/37.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Family-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/152.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Action-And-Adventure-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/35.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Comedy-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/9.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Crime-and-Thriller-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/151.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Drama-and-Romance-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/14.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Sci-Fi-and-Horror-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/38.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Select-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/95.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Animal-Planet-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/13.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Crime-Investigation
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/22.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Discovery-Channel
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/163.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Discovery-History
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/192.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Discovery-Science
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/46.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Discovery-Turbo
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/7.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: H2-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/133.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: History-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/164.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Nat-Geo-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/47.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Nat-Geo-Wild-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/78.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/39.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV-Base
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/181.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV-Dance
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/68.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV-Hits
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/125.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV-Music
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/155.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MTV-Rocks
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/182.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Cartoon Network
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/25.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Disney-Channel-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/106.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Disney-Junior
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/135.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Disney-XD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/165.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Nick-Junior
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/195.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Nick-Junior-Too
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/49.ts
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Nick-Toons
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/80.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Fox News
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/132.ts
-
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: FOOTBALL HD
-http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
-
 
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -217,8 +251,6 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/185.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/159.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports F1 HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/186.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports F1 HD
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/128.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Action HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/128.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Arena HD
@@ -235,8 +267,10 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/161.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/41.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: BoxNation HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/126.ts
-
-
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Fox-Sport-1-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/113.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Fox-Sport-2-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/139.ts
 
 
 
