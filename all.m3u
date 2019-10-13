@@ -112,7 +112,8 @@ http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42461
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42456
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: RISHTEY CINE
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42457
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
+http://89.187.181.233:25461/Edward/Edward/39237
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
@@ -124,8 +125,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andtvsd
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Sony HD+
 http://red.watchtvlive.ml/SonyHD.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Colors HD+
@@ -156,8 +155,6 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/175.ts
 http://89.187.181.233:25461/Edward/Edward/19668
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1 720
 http://89.187.181.233:25461/Edward/Edward/1476
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: SyFy
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/92.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Universal
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/117.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Comedy Central
@@ -243,6 +240,8 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/132.ts
 
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: Star Sports HD2
+http://89.187.181.233:25461/Edward/Edward/38823
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Premier League HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/129.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Football HD
