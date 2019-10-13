@@ -173,11 +173,19 @@ http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1102/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1103/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC
-http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1105/index.m3u8
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/175.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: FXM en
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1106/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: A&E
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/1108/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/69.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: SyFy
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/92.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Universal
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/117.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Comedy Central
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/6.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Cartoon Network
 http://f32e1ec7.ulkakak.pw/iptv/EKHDRYAWWG769E/143/index.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Movies Now 1
@@ -190,30 +198,46 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WWE
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2126.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2463.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3215.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Syfy
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2587.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Starz
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/21332.m3u8
-#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Showtime HD
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/5225.m3u8
-
+#EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Fox News
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/132.ts
 
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/English",UK: FOOTBALL HD
 http://5u.best-ul.com:8000/live/McCRyrHuZ0/u7foz09TrC/2684.ts
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: DSports HD
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports" tvg-logo="logo N/A",IN: Start Sports 2 HD
-http://89.187.191.241:8000/live/Iq8Megl037/8Htw7g965/10165.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Premier League HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/129.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Football HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/99.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Cricket HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/185.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Golf HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/159.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports F1 HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/186.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports F1 HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/128.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Action HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/128.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Arena HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/157.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: UFC HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/188.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: BT SPORTS 1 HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/43.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: BT SPORTS 2 HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/101.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: BT SPORTS 3 HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/161.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Liverpool Football HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/41.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: BoxNation HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/126.ts
+
+
+
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="UK/Desi" tvg-logo="logo N/A",IN: Colors HD
