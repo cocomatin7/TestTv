@@ -155,20 +155,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="https://i.imgur.com/NENJFAa.png",Hollywood Movies 8
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS Local
-http://73.240.113.224:9981/stream/channelid/2121385848?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS WEST Local
-http://73.240.113.224:9981/stream/channelid/1040582192?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC WEST Local
-http://73.240.113.224:9981/stream/channelid/441107830?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT Local
-http://73.240.113.224:9981/stream/channelid/1983486081?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT WEST Local
-http://73.240.113.224:9981/stream/channelid/1749404660?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: USA NETWORK Local
-http://73.240.113.224:9981/stream/channelid/830158047?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WGN 9 (CHI) Local
-http://73.240.113.224:9981/stream/channelid/587820546?profile=pass
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: CINEMAX 5STAR MAX Low BW
 http://73.240.113.224:9981/stream/channelid/165137040?profile=pass
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: SHOWTIME SHOWCASE Low BW
@@ -181,20 +167,6 @@ http://73.240.113.224:9981/stream/channelid/1112375815?profile=pass
 http://73.240.113.224:9981/stream/channelid/780770988?profile=pass
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: SKY CINEMA HITS | VIP
 http://73.240.113.224:9981/stream/channelid/678590683?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: AMC
-http://73.240.113.224:9981/stream/channelid/805770543?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: BBC AMERICA
-http://73.240.113.224:9981/stream/channelid/1811730145?profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/175.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1 HD
-http://89.187.181.233:25461/Edward/Edward/19668
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1 720
-http://89.187.181.233:25461/Edward/Edward/1476
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Universal
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/117.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Comedy Central
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/6.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Movies Now 1
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Star Movies 1
@@ -221,6 +193,38 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/14.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/38.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Sky-Cinema-Select-HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/95.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Fxmovies
+http://73.240.113.224:9981/stream/channelid/1250467515?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS Local
+http://73.240.113.224:9981/stream/channelid/2121385848?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TBS WEST Local
+http://73.240.113.224:9981/stream/channelid/1040582192?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC WEST Local
+http://73.240.113.224:9981/stream/channelid/441107830?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT Local
+http://73.240.113.224:9981/stream/channelid/1983486081?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TNT WEST Local
+http://73.240.113.224:9981/stream/channelid/1749404660?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: USA NETWORK Local
+http://73.240.113.224:9981/stream/channelid/830158047?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: WGN 9 (CHI) Local
+http://73.240.113.224:9981/stream/channelid/587820546?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: MotorTrend
+http://73.240.113.224:9981/stream/channelid/1569146827?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: AMC
+http://73.240.113.224:9981/stream/channelid/805770543?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: BBC AMERICA
+http://73.240.113.224:9981/stream/channelid/1811730145?profile=pass
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: TLC
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/175.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1 HD
+http://89.187.181.233:25461/Edward/Edward/19668
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: VH1 720
+http://89.187.181.233:25461/Edward/Edward/1476
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Universal
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/117.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Comedy Central
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/6.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Crime-Investigation
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/22.ts
 #EXTINF:0 tvg-id="id N/A" group-title="US/English" tvg-logo="logo N/A",USA: Animal-Planet-HD
