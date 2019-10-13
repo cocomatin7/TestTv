@@ -60,7 +60,7 @@ http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Jus One
 http://jiocgwhub.jio.ril.com/JUSOne/JUSOne.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN: Zee Punjabi 
-http://pockettv.xyz/api/zee.m3u8?c=punjabi
+http://euroiptv.livehdtv.xyz:8000/azetm5/Ajmatmgtja7d3Gs/4865
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Prime Asia TV
 http://jiocgehub.jio.ril.com:80/Prime_Asia_Tv/Prime_Asia_Tv_600.m3u8
 EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi" tvg-logo="logo N/A",IN:  Zee Pun/Har/Him
@@ -88,6 +88,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/42438
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZEE TV
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/945
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZEE TV HD
+http://euroiptv.livehdtv.xyz:8000/azetm5/Ajmatmgtja7d3Gs/4861
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: ZEE CINEMA
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/946
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY TV HD
@@ -244,6 +246,8 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/132.ts
 
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: SonySix
+http://euroiptv.livehdtv.xyz:8000/azetm5/Ajmatmgtja7d3Gs/11630
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",IN: Star Sports HD2
 http://89.187.181.233:25461/Edward/Edward/38823
 #EXTINF:-1 tvg-id="id N/A" group-title="All/Sports" tvg-logo="logo N/A",US: Sky Sports Premier League HD
