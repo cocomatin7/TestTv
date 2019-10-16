@@ -1,133 +1,129 @@
 #EXTM3U
-#EXTINF:-1,IN: 5aab Tv
+#EXTINF:-1 group-title="IN/Punjabi",IN: 5aab Tv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1,IN: Balle Balle Tv
+#EXTINF:-1 group-title="IN/Punjabi",IN: Balle Balle Tv
 http://live.cloud6.in:1935/balleballe/Live/playlist.m3u8
-#EXTINF:-1,IN: Pitaara
+#EXTINF:-1 group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1,IN:  PTV Pardesi
+#EXTINF:-1 group-title="IN/Punjabi",IN:  PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN:  Prime Canada TV
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1,IN: TV 16 Toronto
+#EXTINF:-1 group-title="IN/Punjabi",IN: TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1,IN: PunjabiTvCanada
+#EXTINF:-1 group-title="IN/Punjabi",IN: PunjabiTvCanada
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1,IN: P Tunes
+#EXTINF:-1group-title="IN/Punjabi" ,IN: P Tunes
 https://streamer.multitvsolution.in/PTunes-d/playlist.m3u8
-#EXTINF:-1,IN:  SteelBird Music
+#EXTINF:-1 group-title="IN/Punjabi",IN:  SteelBird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1,IN:  Punjabi TadkaMusic
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Punjabi TadkaMusic
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1,IN: 9X Tashan
+#EXTINF:-1 group-title="IN/Punjabi",IN: 9X Tashan MobileOnly
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1,IN: 9X Tashan 2
-http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/29326.ts
-#EXTINF:-1,IN:  Gabrru TV 1
+#EXTINF:-1 group-title="IN/Punjabi",IN: 9X Tashan 2
+http://nitro.ltd:25461/Harmon/Harmon/39257
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,IN:  Gabrru TV 2
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,IN:  JattTV (HQ)
+#EXTINF:-1 group-title="IN/Punjabi",IN:  JattTV (HQ)
 https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:-1,IN:  Gaunda Punjab
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1,IN:  Boogle Bollywood
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1,IN:  CineVoice
+#EXTINF:-1 group-title="IN/Punjabi",IN:  CineVoice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1,IN:  Desi Channel
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Desi Channel
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1,IN: Chanenl Y
+#EXTINF:-1 group-title="IN/Punjabi",IN: Chanenl Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1,IN: Jus Hindi
+#EXTINF:-1 group-title="IN/Punjabi",IN: Jus Hindi
 http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7.m3u8
-#EXTINF:-1,IN:  News18 Pun/Har/Him
+#EXTINF:-1 group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1,IN:  Toronto 360
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1,IN:  SSTV
+#EXTINF:-1 group-title="IN/Punjabi",IN:  SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,IN:  Kabaddi365 TV
+#EXTINF:-1 group-title="IN/Punjabi",IN:  Kabaddi365 TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,IN: B4U Movies
+
+
+#EXTINF:-1 group-title="IN/Hindi",IN: B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,IN: Bollywood Now
+#EXTINF:-1 group-title="IN/Hindi",IN: Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1,IN: Hungama Digital Network
+#EXTINF:-1 group-title="IN/Hindi",IN: Hungama Digital Network
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1,UK: SONY TV HD
+#EXTINF:-1 group-title="IN/Hindi",UK: SONY TV HD
 http://89.187.181.233:25461/Edward/Edward/3409
-#EXTINF:-1,And Pictures HD
+#EXTINF:-1 group-title="IN/Hindi",And Pictures HD
 http://89.187.181.233:25461/Edward/Edward/39237
-#EXTINF:-1,IN: Mob ZeeTvHD
+#EXTINF:-1 group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1,IN: Mob ZeeTV US
+#EXTINF:-1 group-title="IN/Hindi",IN: Mob ZeeTV US
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
-#EXTINF:-1,IN: Mob &TvHD
+#EXTINF:-1 group-title="IN/Hindi",IN: Mob &TvHD
 http://pockettv.xyz/api/zee.m3u8?c=andtvsd
-#EXTINF:-1,IN: Mob Zee Cinema US
+#EXTINF:-1 group-title="IN/Hindi",IN: Mob Zee Cinema US
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
-#EXTINF:-1,IN: Mob ZeeCinemaHD
+#EXTINF:-1 group-title="IN/Hindi",IN: Mob ZeeCinemaHD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 
 
-#EXTINF:-1,America's Funniest Videos
+#EXTINF:-1 group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,Hollywood Movies 1
+#EXTINF:-1 group-title="English",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 2
+#EXTINF:-1 group-title="Englishh",Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 3
+#EXTINF:-1 group-title="English",Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 4
+#EXTINF:-1 group-title="English",Hollywood Movies 4
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 5
+#EXTINF:-1 group-title="English",Hollywood Movies 5
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 6
+#EXTINF:-1 group-title="English",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Hollywood Movies 7
+#EXTINF:-1 group-title="English",Hollywood Movies 7
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1,Hollywood Movies 8
+#EXTINF:-1 group-title="English",Hollywood Movies 8
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1,USA: CINEMAX 5STAR MAX Low BW
+#EXTINF:-1 group-title="English",USA: CINEMAX 5STAR MAX Low BW
 http://73.240.113.224:9981/stream/channelid/165137040?profile=pass
-#EXTINF:-1,USA: SHOWTIME SHOWCASE Low BW
+#EXTINF:-1 group-title="English",USA: SHOWTIME SHOWCASE Low BW
 http://73.240.113.224:9981/stream/channelid/528842327?profile=pass
-#EXTINF:-1,USA: STARZ Local
+#EXTINF:-1 group-title="English",USA: STARZ Local
 http://73.240.113.224:9981/stream/channelid/1093856909?profile=pass
-#EXTINF:-1,USA: Star Movies 1
+#EXTINF:-1 group-title="English",USA: Star Movies 1
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1,USA: Star World 1
+#EXTINF:-1 group-title="English",USA: Star World 1
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1,USA: Fxmovies
+#EXTINF:-1 group-title="English",USA: Fxmovies
 http://73.240.113.224:9981/stream/channelid/1250467515?profile=pass
-#EXTINF:-1,USA: TBS Local
+#EXTINF:-1 group-title="English",USA: TBS Local
 http://73.240.113.224:9981/stream/channelid/2121385848?profile=pass
-#EXTINF:-1,USA: TBS WEST Local
+#EXTINF:-1 group-title="English",USA: TBS WEST Local
 http://73.240.113.224:9981/stream/channelid/1040582192?profile=pass
-#EXTINF:-1,USA: TNT WEST Local
+#EXTINF:-1 group-title="English",USA: TNT WEST Local
 http://73.240.113.224:9981/stream/channelid/1749404660?profile=pass
-#EXTINF:-1,USA: USA NETWORK Local
+#EXTINF:-1 group-title="English",USA: USA NETWORK Local
 http://73.240.113.224:9981/stream/channelid/830158047?profile=pass
-#EXTINF:-1,USA: WGN 9 (CHI) Local
+#EXTINF:-1 group-title="English",USA: WGN 9 (CHI) Local
 http://73.240.113.224:9981/stream/channelid/587820546?profile=pass
-#EXTINF:-1,USA: MotorTrend
+#EXTINF:-1 group-title="English",USA: MotorTrend
 http://73.240.113.224:9981/stream/channelid/1569146827?profile=pass
-#EXTINF:-1,USA: AMC
+#EXTINF:-1 group-title="English",USA: AMC
 http://73.240.113.224:9981/stream/channelid/805770543?profile=pass
-#EXTINF:-1,USA: Weather Channel
+#EXTINF:-1 group-title="English",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,USA: Weather Nation
+#EXTINF:-1 group-title="English",USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
-#EXTINF:-1,IN: DSports HD
+#EXTINF:-1 group-title="IN/Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,IN: Star Sports HD2
 http://89.187.181.233:25461/Edward/Edward/38823
 
 
-#EXTINF:-1,IN: Colors HD
-http://enndy.live:2015/live/mustafa/21062019/1871.ts
-#EXTINF:-1,IN: ZeeCinema HD
-http://enndy.live:2015/live/mustafa/21062019/1824.ts
