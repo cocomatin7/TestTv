@@ -3,6 +3,10 @@
 http://nitro.ltd:25461/Harmon/Harmon/38912
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PTC Chak De
 http://nitro.ltd:25461/Harmon/Harmon/38914
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: MH1
+http://nitro.ltd:25461/Harmon/Harmon/38977
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan HD
+http://nitro.ltd:25461/Harmon/Harmon/39257
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Tv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Balle Balle Tv
@@ -25,8 +29,7 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan MobileOnly
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan 2
-http://nitro.ltd:25461/Harmon/Harmon/39257
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  JattTV (HQ)
@@ -65,6 +68,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 http://89.187.181.233:25461/Edward/Edward/3409
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: And Pictures HD
 http://89.187.181.233:25461/Edward/Edward/39237
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: And Tv HD
+http://nitro.ltd:25461/Harmon/Harmon/39236
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Tv HD
 http://nitro.ltd:25461/Harmon/Harmon/38924
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Tv HD
