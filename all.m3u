@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Football",US: GAME 1
+http://www.streameast.live/cb9a9972-3d29-410b-b1f9-32b45b36fba9
+
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PTC Punjabi
 http://nitro.ltd:25461/Harmon/Harmon/38912
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PTC Chak De
