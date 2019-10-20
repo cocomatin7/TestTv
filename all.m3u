@@ -177,6 +177,22 @@ http://nitro.ltd:25461/Harmon/Harmon/38749
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Sports",IN: Sony Six HD
 http://nitro.ltd:25461/Harmon/Harmon/38838
 
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: Fox Sports HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/54952
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: FS1 HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/64261
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: FS2 HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/34770
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: ESPN HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/34784
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: VIP ESPN HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/34782
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: ESPN 2 HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/34783
+#EXTINF:-1 tvg-id="id N/A" group-title="US/Sports",IN: VIP ESPN 2 HD
+http://hottest.link:80/919889861209/9lmS7MfAAo/34781
+
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/English",USA: Adult Swim
 http://nitro.ltd:25461/Harmon/Harmon/40887
