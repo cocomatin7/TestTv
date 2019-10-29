@@ -1729,6 +1729,10 @@ http://livegopanel.club:8080/pan123/pan123/26122
 #EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",VIP US: Cinema 30 PPV
 http://livegopanel.club:8080/pan123/pan123/26121
 
+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/Movies",Chandigarh Amritsar 
+http://beta.sastatv.com/Punjabi/Chandigarh%20Amritsar%20Chandigarh%20(2019)%20Punjabi%20-%20720p%20WEB-DL%20-x264%20-%20DD%205.1%20-%20ESubs%20-%20Sun%20George.mkv
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PTC Punjabi
 http://nitro.ltd:25461/Harmon/Harmon/38912
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PTC Chak De
