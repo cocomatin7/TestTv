@@ -3,11 +3,6 @@
 #EXTINF:-1 tvg-id="id N/A" group-title="Football",US: Test
 http://109.169.56.170/hls/starsports1.m3u8
 
-
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",&TV FHD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15879
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",9X Jhakaas IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2871
 #EXTINF:-1 tvg-id="id N/A" group-title="India/New",9XM IN
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2870
 #EXTINF:-1 tvg-id="id N/A" group-title="India/New",9XM Jalwa IN
