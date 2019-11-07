@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Football",US: Test
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: START SPORTS HINDI hd
 http://109.169.56.170/hls/starsports1.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Life Ok
 http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/89314
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: PTV PRIME
-http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3714
 #EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: COLORS HD
 http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2742
 #EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: B4U PLUS
