@@ -3,656 +3,978 @@
 #EXTINF:-1 tvg-id="id N/A" group-title="Football",US: Test
 http://109.169.56.170/hls/starsports1.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",9XM IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2870
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",9XM Jalwa IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2869
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",9xTashan IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2868
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",B4U Music IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2866
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",B4U Plus IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2841
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",&pictures HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2867
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",And TV HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2865
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Colors TV HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2856
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Plus HD US IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2814
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zing TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2815
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Studio IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2817
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Gold IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2819
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Six HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2820
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Pal IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2822
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",SetMax2 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2825
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sab TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2826
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Rishtey IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2828
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Sab HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4742
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4760
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Plus UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4757
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",UTV Movies Inter IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4746
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Colors TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6010
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Colors UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5994
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Rishtey Cine UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5986
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Rishtey UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6011
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sab TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6014
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Max HD UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5984
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Sab UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5983
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony TV Asia UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5982
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6012
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Gold UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5981
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Life OK UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5980
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Utsav UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5979
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Cinema HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6015
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6013
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zing UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6016
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zoom UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6017
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony MIX IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1352
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",UTV Bindas IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2803
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",HollyWood Classic IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2802
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Action IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2797
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Business IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2794
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Living IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2791
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Zindagi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2785
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",ZeeNews IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2784
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Classic IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1346
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Cinema IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1347
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Life OK HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4744
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zindagi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4763
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zoom IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4751
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Plus IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2816
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee ETC IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4762
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Living Foodz 2 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4753
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Times Now IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4749
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",AAJ TAK UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5999
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",ABP News UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5998
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",And TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5997
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",NDTV 24x7 UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5988
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",AAJ TAK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4752
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",India TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4743
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee News IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4759
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",NDTV GoodTimes IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4755
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Discovery IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2857
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Ten Action IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2808
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 1 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2813
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 2 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2812
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 3 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2811
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 4 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2810
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Eleven Sport Network Asia IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1340
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",HBO IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2852
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony ESPN IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2823
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 1 HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1344
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 2 HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1343
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 3 HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1342
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Sports 4 HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1341
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",TEN Golf HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2806
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Ten Sports IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2805
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Akkal Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5900
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sangat TV Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5910
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PTC Chak DE Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5907
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PTC News Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5908
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PTC Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2829
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sikh Channel Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5911
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sanjh TV Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5889
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PTC Chakde IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2830
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Punjab TV Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5909
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",9X Tashan Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5899
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",AOne Music Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5897
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",AOne Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5913
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Britasia Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5901
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",ChakDE TV Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5896
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Chardiala Time TV Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5902
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",MH1 SHARDDHA Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5891
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PBN Music Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5890
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",ChakDE IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2864
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Dabang TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2863
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",DD Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2862
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Desi TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2860
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",PBN Music IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2832
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",MH1 Music IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2844
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Media Punjab IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2845
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Manoranjan TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2846
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Britasia TV UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5995
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Jalsha IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4765
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2788
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sun TV HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1348
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Plus HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1349
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Gold HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1350
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Movies HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2818
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony TV HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1351
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Bindass Play IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4750
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Food Food IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2853
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Housefull Action IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2851
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Manoranjan Movies IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2847
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Akaal Channel Punjabi IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5898
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sangat UK IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/5985
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15884
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee Cinema FHD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15883
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee TV HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/9519
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Zee TV FHD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15886
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Max HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/15885
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Animal Planet HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16015
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Big Magic IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16031
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Desi Plus HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16043
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Discovery Jeet IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16033
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Discovery Science IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16011
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Discovery Turbo IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16010
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Discovery World HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16014
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",DSport IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16025
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",E24 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16035
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Enterr 10 IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16028
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Masti TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16034
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Rishtey Cineplex IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16017
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony MAX IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16036
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony SAB IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16038
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony Ten 1 FHD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16041
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony TV IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16037
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony WAH IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16039
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Star Utsav IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16018
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Sony YAY IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/24717
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Steel Bird Music HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16042
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",Travel XP HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16013
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",WOW Cinema IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16026
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",WOW Music IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16040
-#EXTINF:-1 tvg-id="id N/A" group-title="India/New",& Flix HD IN
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16046
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Life Ok
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/89314
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: PTV PRIME
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3714
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: COLORS HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2742
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: B4U PLUS
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3747
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: B4U Music
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3776
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: B4U Movie
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3777
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Zee Punjabi
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3729
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: ZEE BOLYWOOD HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3742
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: ZEE CINEMA
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2246
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: ZEE TV HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2652
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Zee Action
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3725
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: UTV Movies US
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3751
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star plus+ HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3766
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Jalsha
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3739
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony Sab
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3768
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: SONY MIX
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94403
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: & Picture HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94405
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3769
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Set Mx
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/3770
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: ZOOM
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2669
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: STAR PLUS
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2693
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: SONY TV HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2687
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: STAR SPORTS 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2685
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: SET MAX
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2683
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: RISHTEY
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2678
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: PTC PUNJABI
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2675
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: DESI CHANNEL
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2739
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: AONE PUNJABI
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2758
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: 9X TASHAN
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2761
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: 9X JHAKAAS
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2762
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: 9X JALWA
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/2763
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: & Pictures HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94470
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: 9xM
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94471
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Aaj Tak
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94472
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: ABP News
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94475
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: B4U Movies
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94488
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Bindass Play
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94485
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Discovery Channel
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94474
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: HBO
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94468
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Life OK HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94482
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Living Food
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94476
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: MTV India
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94453
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Music India
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94477
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: NDTV India
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94452
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: PTV Sports
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94450
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sonic Nickelodeon
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94448
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony Entertainment HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94484
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony ESPN
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94449
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony Pal
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94451
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony Pix HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94457
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Sony Six HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94455
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Gold
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94480
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Sports 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94437
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Sports 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94436
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Sports 3 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94435
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Star Sports 4 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94434
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Ten 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94444
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Ten 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94443
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Ten 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94442
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Ten Golf HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94441
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Times Now
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94440
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Zee News
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94489
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Zee TV US HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94438
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: DESI BEATS
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/135692
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: SAB TV
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/134451
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: Zing
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94479
+#EXTINF:-1 tvg-id="id N/A" group-title="India/New",IN: MTA INTERNATIONAL
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/94620
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",A&E HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/550
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",A&E TV HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7771
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ABC FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7592
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ABC HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/539
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ABC News HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/540
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",AFN Spectrum HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7726
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",AFN Sport 1 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1136
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",AFN Sport 2 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1135
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",AMC HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/521
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",AMC US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7792
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Amazing Discoveries HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/551
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Animal Planet US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7791
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",beINSports HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/506
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",BET HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7770
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",BYU TV US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/522
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Bloomberg Europe US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/503
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Bloomberg TV HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/489
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Boomerang US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/502
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Bravo HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/541
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Bravo US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7790
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",C-Span 1 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/564
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",C-Span 2 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/565
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",C-Span 3 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/566
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CBS US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/486
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CBSN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/524
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CNBC US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/525
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CNN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/568
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CW HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/543
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CW US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7777
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CW11 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/500
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Cable News Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7769
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Cartoon Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/523
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Chiller HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7717
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CineMax 5 StarMax US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/507
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CineMax Action HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/567
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CineMax ActionMax East US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/508
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CineMax East US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/509
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",CineMax MoreMax US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/501
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Cinemax Action US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7789
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Cinemax More HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7768
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Comedy Central FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/542
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Comedy Central US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7788
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",DIY Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7728
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",DIY Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/482
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",DW US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/528
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery Channel CA FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7580
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7767
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery HD Showcase US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/499
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/526
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery Science HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/510
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Discovery Velocity US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/527
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Disney Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7766
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Disney XD HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7765
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",E! Entertainment HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7764
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ESPN 1 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7763
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ESPN 1 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/552
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ESPN 2 FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/569
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ESPN 2 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7787
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",ESPN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/544
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",El Rey Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7715
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",FOX 43 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/570
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",FX HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/513
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",FX US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7784
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fashion One HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/498
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fight HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/529
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fight Sport HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/584
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fine Living US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/497
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Food Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/511
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Food Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7783
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/512
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox News HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/545
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Soccer Plus HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6206
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Soccer Plus US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7785
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports 1 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/553
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports 1 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7786
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports 2 FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/554
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports 2 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7759
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports 506 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/571
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports College Central HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7756
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7760
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fox Sports North HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7752
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Free Form HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/572
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",FreeForm HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7688
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Fuel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/496
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",GSN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7749
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",H2 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/514
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO Comedy HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/530
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO East US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/483
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO Family HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7748
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/531
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO Signature HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7747
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO Signature US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/484
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7776
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HBO Zone US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/532
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HGTV HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/495
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HGTV US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7782
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",HIFI US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/516
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Hallmark Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7746
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Hallmark US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/515
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Hallmark Movies & Mysteries HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/46888
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",History HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/546
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",History US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7781
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",IFC HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7710
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Investigation Discovery HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7693
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Lifetime HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7745
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MLB HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/573
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MLB Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7701
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MLB Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/574
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MSNBC HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/575
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MTV Base HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7744
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",MTV Rocks US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/494
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/533
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC Golf Channel FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6147
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC Golf Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6146
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC Golf HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7743
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC News HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7742
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC SN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7741
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBC US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/490
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBCSN HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/555
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Network 1 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/504
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Network FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/505
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/556
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7793
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Now HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7773
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NFL Redzone HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7772
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NHL Network US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/576
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Nat Geo Wild HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7692
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Nat Geographic HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7691
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",National Geographic US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/517
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Oprah Winfrey Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7740
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Outdoor Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/493
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",PAC-12 Arizona US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/557
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",PAC-12 Bay Area US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/558
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",PAC-12 Los Angeles FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/559
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",PAC-12 Oregon FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/560
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",PAC-12 Washington FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/561
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Reelz HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7739
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",SEC Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7707
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Science HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7738
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime 2 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7737
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime 2 US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/534
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime East HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7736
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/535
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime Showcase HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7735
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Showtime West US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/485
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Smile Of A Child US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/492
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Spike HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/518
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Spike TV HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7727
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Cinema US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/536
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Comedy US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/537
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Edge HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/519
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Edge US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7780
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Encore HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7731
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Starz Encore US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/538
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",SyFy HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/548
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",SyFy US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7779
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",TBS HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/578
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",TNT HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/549
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Travel Channel HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7694
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",truTV HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7705
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",UFC Fight Pass US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6421
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/520
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",USA HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7729
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",USA Network HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/547
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Univision HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7704
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",VH1 Classic US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/491
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",WWE HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/562
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",WWE Network FHD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7544
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",WWE US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/7778
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Zee Cinema US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2792
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 1 HD US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8538
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 2 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8537
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 3 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8536
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 4 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8535
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 5 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8534
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 6 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8533
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 7 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8532
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",NBA Live 8 HD US [ Match Time Only ]
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/8531
-#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",Smithsonian Channel US
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/41479
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: A&E HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137339
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/8191
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC news
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130946
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC New York HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210548
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Atlanta
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211774
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Baltimore
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211758
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Boston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211773
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Charlotte
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211764
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Chicago
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211779
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Cleveland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211762
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Connecticut
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211775
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Dallas
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211770
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Denver
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211769
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Detroit
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211772
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC durham
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211778
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Fresno
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211776
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC houston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211777
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Indianapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211761
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Kansas City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211754
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Los Angeles
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211783
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Miami
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211765
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Milwaukee
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211753
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Nashville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211767
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC New York
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211780
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Orlando
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211766
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Philadelphia
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211781
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Phoenix
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211760
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Pittsburgh
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211771
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Sacramento
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211763
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Saint Paul
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211757
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Salt lake city
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211756
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC San Antonio
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211755
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC San Diego
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211768
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC San Francisco
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211782
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ABC Tampa Bay
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211759
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: AMC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137332
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Animal Planet
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130904
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Animal Planet FHD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137421
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: BET HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137447
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Bloomberg HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137420
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Boomerang HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137419
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Bravo HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130926
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: C-Span 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137318
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: C-Span 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137317
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: C-Span 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/208691
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS New York HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210550
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Baltimore
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211816
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Boston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211815
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Charlotte
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211814
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Chicago
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211813
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Cleveland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211812
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Columbus
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211811
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Dallas
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211810
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Denver
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211809
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Detroit
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211808
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Greensboro
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211807
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Hartford
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211806
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Houston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211805
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Jacksonville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211804
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Kansas City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211803
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Los Angeles
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211802
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Miami
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211801
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Milwaukee
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211799
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Minneapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211800
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Nashville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211798
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS New Orleans
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211797
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS New York
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211796
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Orlando
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211795
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Philadelphia
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211794
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Phoenix
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211793
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Pittsburgh
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211792
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Sacramento
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211791
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS San Antonio
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211790
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS San Diego
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211789
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS San Francisco
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211788
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Seattle
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211787
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS St Louis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211786
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Tampas
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211785
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Washington
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211784
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBSN
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130944
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBSN HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130942
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CMT HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/171546
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CNBC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137326
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CNN News HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130940
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CNN News SD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137236
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Cartoon Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137446
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Comedy Central HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137234
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: DIY Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137405
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: OXYGEN HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137404
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Daystar HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137414
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Channel
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137415
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137443
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Science
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137269
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Science HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137410
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Showcase HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137409
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Velocity
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137408
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Discovery Velocity HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137407
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Disney Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137442
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Disney XD HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137441
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: E! Entertainment HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137403
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: E! Entertainment SD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137440
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX New York HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210551
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox News HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137438
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Atlanta
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211849
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Austin
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211848
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Belmont
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211847
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Boston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211846
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Chicago
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211845
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Cleveland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211844
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Columbus
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211842
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Dallas
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211843
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Denver
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211841
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Detroit
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211840
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Hartford
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211839
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Houston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211838
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Indianapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211837
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Jacksonville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211836
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Kansas City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211835
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Los Angeles
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211834
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Miami
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211833
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Milwaukee
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211832
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Minneapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211831
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX New Orleans
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211830
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX New York
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211829
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Ocala
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211828
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Orlando
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211827
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Philadelphia
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211826
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Phoenix
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211825
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Sacramento
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211824
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Salt Lake City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211823
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX San Diego
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211822
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX San Francisco
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211821
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Seattle
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211820
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX St Louis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211819
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Tampa
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211818
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FOX Washington
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211817
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: KTVU Plus
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211850
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FX
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137207
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FX HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137206
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FXM HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137205
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FXX HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137204
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fashion TV
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137220
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Hallmark M & M HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/198470
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Food Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137215
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Business HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/169918
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130937
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: FreeForm FHD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137210
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: GRIT HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137201
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HGTV HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137435
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HLN HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137363
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: History HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137433
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ID Extra
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137432
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ID Extra HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137360
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: IFC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137359
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Investigation Discovery HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137358
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Lifetime HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137431
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MSNBC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137428
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MTV HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137239
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MTV Live HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137241
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130935
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC New York HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210549
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC News
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137345
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Atlanta
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211885
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Baltimore
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211884
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Boston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211883
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Buffalo
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211882
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Charlotte
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211881
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Chicago
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211880
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Cincinnati
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211879
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Cleveland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211878
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Dallas
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211877
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Denver
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211876
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Detroit
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211875
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Green Bay
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211874
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Hartford
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211873
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Houston
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211872
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Indianapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211871
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Jacksonville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211870
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Kansas City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211869
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Los Angeles
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211868
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Miami
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211867
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Milwaukee
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211866
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Minneapolis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211865
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Nashville
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211864
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC New Orleans
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211863
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC New York
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211862
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Philadelphia
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211861
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Phoenix
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211860
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Pittsburgh
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211859
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Portland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211858
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Raleigh
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211857
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sacramento
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211856
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Salt Lake City
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211855
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC San Diego
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211854
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Seattle
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211853
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC St Louis
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211852
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Washington
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211851
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: National Geographic
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130900
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: National Geographic Wild HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137353
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Nick Jr HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137250
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Nickelodeon HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130920
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: OWN - The Oprah Winfrey Network
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137278
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Outdoor Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137279
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PBS HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137272
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PBS Kids
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137445
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: AMERICA HEROES HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130898
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Spike - Paramount Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137297
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Sundance HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137267
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: SyFy HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130907
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TBS HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130932
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: THE CW HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/193244
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TLC HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137284
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TNT HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130906
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Travel Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137283
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Tru TV
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137281
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: USA Network FHD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137247
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Univision HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137263
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Univision Kids
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137262
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: VH 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137244
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Velocity HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137245
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Viceland
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130930
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: World Fashion HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130896
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: byu tv
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137328
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: AFN Prime HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137228
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CineMax 5StarMax
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137311
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CineMax HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137308
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CineMax MovieMax HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137309
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Cinemax ActionMax East
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130918
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Cinemax MoreMax HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137307
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Cinemax ThrillerMax HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130917
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130916
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137369
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO Comedy HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137370
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO Family HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137368
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137367
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO Signature HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137366
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HBO Zone HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130912
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Hallmark Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137436
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Showtime 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137322
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Showtime 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137302
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: HALLMARK HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137301
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Showtime Extreme HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137300
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Showtime Showcase HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137299
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Starz Cinema HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130909
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Starz Comedy HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137291
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Starz Edge HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137290
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Starz Encore HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137289
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Starz Kids & Family HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137287
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Big Ten Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137390
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Game Show Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137200
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137251
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: CBS Sports Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137444
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN + HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130892
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137225
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137224
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137223
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130891
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN NEWS
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137324
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: ESPN U HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137221
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Eleven Sports 1 FHD US
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202404
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fight Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137218
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fuel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137208
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Soccer Plus HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137395
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sport 1 HD (FS1)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130890
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sport 2 HD (FS2)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130889
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports 1 HD (FS1)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137437
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports 2 HD (FS2)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137392
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Arizona HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210517
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Atlanta HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210518
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Carolina HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210519
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Carolinas HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210520
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Cincinnati HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210521
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Clevland HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210522
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports College Central HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137387
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Detroit HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210523
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Florida HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210524
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Indiana HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210525
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Kanas City HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210526
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Mid West HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210527
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Net HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210528
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports North HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210529
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Ohio HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210530
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Plus HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210532
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Prime Ticket HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210533
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports San Diego HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210534
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports South East HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210535
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports South HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210536
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports South West HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210537
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Sportstime Ohio HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210538
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Sun HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210539
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Tennessee HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210540
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Ohio HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210531
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports West HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210541
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports West Plus HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137380
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Wisconsin HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137372
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fox Sports Yes HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210542
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Fight Sport
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137217
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Longhorn Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137381
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137357
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137429
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130888
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA TV HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137427
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Golf Channel
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130887
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Golf Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137382
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sports GOLD 1 (EPL Live Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/183212
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sports GOLD 3 (EPL Live Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/183210
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sports GOLD 4 (EPL Live Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/183209
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sports GOLD 5 (EPL Live Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/183208
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBC Sports Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137426
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBCSN
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137343
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137256
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Now HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137255
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Redzone HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137254
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Olympic Channel HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137378
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137305
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12 Arizona HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210543
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12 Bay Area HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210547
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12 Los Angeles HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210544
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12 Oregon HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210545
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: PAC-12 Washington HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/210546
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 01 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202414
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 02 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202413
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 03 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202412
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 04 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202411
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 05 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202410
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 06 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202409
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 07 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202408
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 08 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202407
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 09 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202406
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Rugby Pass 10 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202405
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: SEC Network HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137268
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: SportsNet East HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137296
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: SportsNet One HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130885
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Sportsnet 360 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137315
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Stadium
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202438
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Stadium 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202437
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Stadium 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202436
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Stadium 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202435
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TSN 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130883
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TSN 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130882
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TSN 3 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130881
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TSN 4 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130880
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: TSN 5 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130879
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Tennies Channel
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137375
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC Fight Pass PPV
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137264
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: WWE HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/137341
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: Willow Cricket HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130878
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports FHD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/130893
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect Ñ HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202448
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 1 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202458
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 10 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202449
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 2 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202457
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 3 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202456
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 4 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202455
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 5 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202454
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 6 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202453
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 7 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202452
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 8 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202451
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: beIN Sports Connect 9 FHD (Live During Events Only)
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/202450
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211933
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211934
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211935
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 4
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211936
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 5
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211937
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 6
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211938
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 7
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211939
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 8
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211940
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 9
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211941
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NBA League Pass 10
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211942
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212001
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212002
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212003
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 4
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212004
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 5
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212005
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 6
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212006
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 7
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212007
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 8
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212008
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 9
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212009
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 10
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212010
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 11
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212011
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 12
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212012
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 13
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212013
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 14
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212014
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 15
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212015
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: MLB Extra Innings HD 16
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212016
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 1 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211973
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 2 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211974
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 3 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211975
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 4 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211976
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 5 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211977
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 6 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211978
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 7 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211979
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 8 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211980
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 9 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211981
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 10 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211982
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 11 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211983
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 12 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211984
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 13 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211985
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 14 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211986
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NFL Arena 15 HD
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211987
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211988
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211989
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211990
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 4
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211991
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 5
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211992
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 6
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211993
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 7
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211994
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 8
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211995
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 9
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211996
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 10
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211997
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 11
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211998
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 12
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211999
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: NHL League Pass HD 13
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/212000
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC FIGHT League Pass 1
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211968
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC FIGHT League Pass 2
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211969
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC FIGHT League Pass 3
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211972
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC FIGHT League Pass 4
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211970
+#EXTINF:-1 tvg-id="id N/A" group-title="USA/New",US: UFC FIGHT League Pass 5
+http://liveline.nu:8000/Mqjv61TyKC/NreUhx7OdQ/211971
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Tv
