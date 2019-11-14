@@ -3,8 +3,2006 @@
 #EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: START SPORTS HINDI hd
 http://109.169.56.170/hls/starsports1.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: DSports HD
-
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| GENERAL |======
+http://195.154.26.166:8000/marwan/marwan/77375
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 HD
+http://195.154.26.166:8000/marwan/marwan/30581
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 2 HD
+http://195.154.26.166:8000/marwan/marwan/30580
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 3 HD
+http://195.154.26.166:8000/marwan/marwan/45336
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 4 HD
+http://195.154.26.166:8000/marwan/marwan/45335
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE NORTHERN IRELAND HD
+http://195.154.26.166:8000/marwan/marwan/45332
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC WALES HD
+http://195.154.26.166:8000/marwan/marwan/45329
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC SCOTLAND HD
+http://195.154.26.166:8000/marwan/marwan/45330
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1 HD
+http://195.154.26.166:8000/marwan/marwan/30533
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 2 HD
+http://195.154.26.166:8000/marwan/marwan/30532
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 3 HD
+http://195.154.26.166:8000/marwan/marwan/30531
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 4 HD
+http://195.154.26.166:8000/marwan/marwan/30530
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1 LONDON
+http://195.154.26.166:8000/marwan/marwan/56989
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1 GRANADA
+http://195.154.26.166:8000/marwan/marwan/56990
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1 ANGLIA EAST
+http://195.154.26.166:8000/marwan/marwan/56991
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1 CENTRAL WEST
+http://195.154.26.166:8000/marwan/marwan/56993
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RTE ONE FHD
+http://195.154.26.166:8000/marwan/marwan/30522
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RTE TWO HD
+http://195.154.26.166:8000/marwan/marwan/30521
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QUEST FHD
+http://195.154.26.166:8000/marwan/marwan/45334
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK SD| GENERAL |======
+http://195.154.26.166:8000/marwan/marwan/79665
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1
+http://195.154.26.166:8000/marwan/marwan/79455
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 2
+http://195.154.26.166:8000/marwan/marwan/79450
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 3
+http://195.154.26.166:8000/marwan/marwan/79726
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 4
+http://195.154.26.166:8000/marwan/marwan/79460
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 1
+http://195.154.26.166:8000/marwan/marwan/79725
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 2
+http://195.154.26.166:8000/marwan/marwan/79724
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 3
+http://195.154.26.166:8000/marwan/marwan/79723
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV 4
+http://195.154.26.166:8000/marwan/marwan/79722
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RTE ONE
+http://195.154.26.166:8000/marwan/marwan/79729
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RTE TWO
+http://195.154.26.166:8000/marwan/marwan/79728
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QUEST
+http://195.154.26.166:8000/marwan/marwan/79706
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| NEWS |======
+http://195.154.26.166:8000/marwan/marwan/79666
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CNN FHD
+http://195.154.26.166:8000/marwan/marwan/30553
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC NEWS HD
+http://195.154.26.166:8000/marwan/marwan/45331
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RT NEWS HD
+http://195.154.26.166:8000/marwan/marwan/79727
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BLOOMBERG HD
+http://195.154.26.166:8000/marwan/marwan/49214
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC WORLD NEWS
+http://195.154.26.166:8000/marwan/marwan/75865
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EURONEWS
+http://195.154.26.166:8000/marwan/marwan/75866
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FOX NEWS
+http://195.154.26.166:8000/marwan/marwan/79733
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DW ENGLISH
+http://195.154.26.166:8000/marwan/marwan/75867
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| LOCAL BBC |======
+http://195.154.26.166:8000/marwan/marwan/79668
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ALBA
+http://195.154.26.166:8000/marwan/marwan/45317
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE CAMBRIDGE
+http://195.154.26.166:8000/marwan/marwan/45315
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE CUMBRIA
+http://195.154.26.166:8000/marwan/marwan/45314
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE EAST MIDLANDS
+http://195.154.26.166:8000/marwan/marwan/45313
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE ISLANDS
+http://195.154.26.166:8000/marwan/marwan/45312
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE LONDON
+http://195.154.26.166:8000/marwan/marwan/45311
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE MIDLANDS
+http://195.154.26.166:8000/marwan/marwan/45310
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE NI
+http://195.154.26.166:8000/marwan/marwan/45309
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE NORTH EAST
+http://195.154.26.166:8000/marwan/marwan/45308
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE NORTH WEST
+http://195.154.26.166:8000/marwan/marwan/45307
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE OXFORD
+http://195.154.26.166:8000/marwan/marwan/45306
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE SCOTLAND
+http://195.154.26.166:8000/marwan/marwan/45305
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE SOUTH
+http://195.154.26.166:8000/marwan/marwan/45304
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE SOUTH EAST (ALT)
+http://195.154.26.166:8000/marwan/marwan/45303
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE WALES
+http://195.154.26.166:8000/marwan/marwan/45302
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE WEST
+http://195.154.26.166:8000/marwan/marwan/45301
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC ONE YORKSHIRE
+http://195.154.26.166:8000/marwan/marwan/45300
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON
+http://195.154.26.166:8000/marwan/marwan/45299
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC TWO ENGLAND
+http://195.154.26.166:8000/marwan/marwan/45298
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC TWO NI
+http://195.154.26.166:8000/marwan/marwan/45297
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC TWO SCOTLAND
+http://195.154.26.166:8000/marwan/marwan/45296
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 CHANNEL ISLANDS
+http://195.154.26.166:8000/marwan/marwan/79459
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 NORTHERN IRELAND
+http://195.154.26.166:8000/marwan/marwan/79458
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 OXFORD
+http://195.154.26.166:8000/marwan/marwan/79457
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 SCOTLAND
+http://195.154.26.166:8000/marwan/marwan/79456
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 WALES
+http://195.154.26.166:8000/marwan/marwan/79454
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 1 YORK
+http://195.154.26.166:8000/marwan/marwan/79453
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC 2 SCOTLAND
+http://195.154.26.166:8000/marwan/marwan/79451
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC PARLIAMENT
+http://195.154.26.166:8000/marwan/marwan/79452
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| BBC RED BUTTON |======
+http://195.154.26.166:8000/marwan/marwan/79948
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 1
+http://195.154.26.166:8000/marwan/marwan/79942
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 2
+http://195.154.26.166:8000/marwan/marwan/79941
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 3
+http://195.154.26.166:8000/marwan/marwan/79940
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 4
+http://195.154.26.166:8000/marwan/marwan/79939
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 5
+http://195.154.26.166:8000/marwan/marwan/79938
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BBC RED BUTTON HD 6
+http://195.154.26.166:8000/marwan/marwan/79937
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| KIDS |======
+http://195.154.26.166:8000/marwan/marwan/77376
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISNEY CHANNEL FHD
+http://195.154.26.166:8000/marwan/marwan/30548
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISNEY JUNIOR FHD
+http://195.154.26.166:8000/marwan/marwan/30547
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISNEY XD FHD
+http://195.154.26.166:8000/marwan/marwan/30546
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CBEEBIES HD
+http://195.154.26.166:8000/marwan/marwan/45328
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NICKELODEON FHD
+http://195.154.26.166:8000/marwan/marwan/30524
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CARTOON NETWORK FHD
+http://195.154.26.166:8000/marwan/marwan/30556
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| COMEDY CENTRAL FHD
+http://195.154.26.166:8000/marwan/marwan/30552
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| COMEDY CENTRAL EXTRA
+http://195.154.26.166:8000/marwan/marwan/45285
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK SD| KIDS |======
+http://195.154.26.166:8000/marwan/marwan/79669
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BABY TV
+http://195.154.26.166:8000/marwan/marwan/45318
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NICK JUNIOR TOO
+http://195.154.26.166:8000/marwan/marwan/45261
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NICK TOONS
+http://195.154.26.166:8000/marwan/marwan/45258
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NICK JUNIOR
+http://195.154.26.166:8000/marwan/marwan/45260
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NICK JUNIOR +1
+http://195.154.26.166:8000/marwan/marwan/45259
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BOOMERANG
+http://195.154.26.166:8000/marwan/marwan/45295
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| POP
+http://195.154.26.166:8000/marwan/marwan/45254
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| POP +1
+http://195.154.26.166:8000/marwan/marwan/79705
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TINY POP
+http://195.154.26.166:8000/marwan/marwan/45240
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TINY POP +1
+http://195.154.26.166:8000/marwan/marwan/77374
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| ENTERTAINMENT |======
+http://195.154.26.166:8000/marwan/marwan/77377
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| AMC FHD
+http://195.154.26.166:8000/marwan/marwan/30583
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BLAZE FHD
+http://195.154.26.166:8000/marwan/marwan/30569
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| GOLD FHD
+http://195.154.26.166:8000/marwan/marwan/30537
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FOX FHD
+http://195.154.26.166:8000/marwan/marwan/30538
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SYFY FHD
+http://195.154.26.166:8000/marwan/marwan/30492
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TCM FHD
+http://195.154.26.166:8000/marwan/marwan/30491
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TLC FHD
+http://195.154.26.166:8000/marwan/marwan/30489
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| UNIVERSAL FHD
+http://195.154.26.166:8000/marwan/marwan/30488
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| E4 FHD
+http://195.154.26.166:8000/marwan/marwan/30545
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TG 4 HD
+http://195.154.26.166:8000/marwan/marwan/30490
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHANNEL 4 FHD
+http://195.154.26.166:8000/marwan/marwan/30555
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHANNEL 5 FHD
+http://195.154.26.166:8000/marwan/marwan/30554
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FILM 4 FHD
+http://195.154.26.166:8000/marwan/marwan/30539
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ALIBI FHD
+http://195.154.26.166:8000/marwan/marwan/30584
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DAVE FHD
+http://195.154.26.166:8000/marwan/marwan/30550
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EDEN FHD
+http://195.154.26.166:8000/marwan/marwan/30544
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MORE 4 FHD
+http://195.154.26.166:8000/marwan/marwan/30528
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MORE4
+http://195.154.26.166:8000/marwan/marwan/30527
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ITV BE HD
+http://195.154.26.166:8000/marwan/marwan/45333
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| STV FHD
+http://195.154.26.166:8000/marwan/marwan/45323
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TV3
+http://195.154.26.166:8000/marwan/marwan/45236
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIFETIME FHD
+http://195.154.26.166:8000/marwan/marwan/30529
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| VIRGIN MEDIA ONE
+http://195.154.26.166:8000/marwan/marwan/79944
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| VIRGIN MEDIA TWO
+http://195.154.26.166:8000/marwan/marwan/79943
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| VIRGIN MEDIA THREE
+http://195.154.26.166:8000/marwan/marwan/79945
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK SD|  ENTERTAINMENT |======
+http://195.154.26.166:8000/marwan/marwan/79670
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHANNEL 5
+http://195.154.26.166:8000/marwan/marwan/81999
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHANNEL 5 +1
+http://195.154.26.166:8000/marwan/marwan/45286
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| E4
+http://195.154.26.166:8000/marwan/marwan/79732
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| E4 +1
+http://195.154.26.166:8000/marwan/marwan/79731
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SPIKE UK
+http://195.154.26.166:8000/marwan/marwan/45241
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SPIKE +1
+http://195.154.26.166:8000/marwan/marwan/49213
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FOX
+http://195.154.26.166:8000/marwan/marwan/79734
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHALLENGE
+http://195.154.26.166:8000/marwan/marwan/45287
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PICK TV
+http://195.154.26.166:8000/marwan/marwan/45255
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DAVE
+http://195.154.26.166:8000/marwan/marwan/79696
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EDEN
+http://195.154.26.166:8000/marwan/marwan/79730
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| YESTERDAY
+http://195.154.26.166:8000/marwan/marwan/45232
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| E! ENTERTAINMENT
+http://195.154.26.166:8000/marwan/marwan/45278
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 3E/VIRGIN2
+http://195.154.26.166:8000/marwan/marwan/45322
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HOME
+http://195.154.26.166:8000/marwan/marwan/79701
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HORROR CHANNEL
+http://195.154.26.166:8000/marwan/marwan/45272
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HORROR CHANNEL +1
+http://195.154.26.166:8000/marwan/marwan/45271
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PARAMOUNT NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/79737
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PBS AMERICA
+http://195.154.26.166:8000/marwan/marwan/79736
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 STAR
+http://195.154.26.166:8000/marwan/marwan/45320
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 STAR+1
+http://195.154.26.166:8000/marwan/marwan/79693
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 USA
+http://195.154.26.166:8000/marwan/marwan/45319
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 USA +1
+http://195.154.26.166:8000/marwan/marwan/79694
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 SPIKE
+http://195.154.26.166:8000/marwan/marwan/79691
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 SPIKE +1
+http://195.154.26.166:8000/marwan/marwan/79692
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 5 SELECT
+http://195.154.26.166:8000/marwan/marwan/79690
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CBS ACTION
+http://195.154.26.166:8000/marwan/marwan/45291
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CBS DRAMA
+http://195.154.26.166:8000/marwan/marwan/45290
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CBS REALITY
+http://195.154.26.166:8000/marwan/marwan/45289
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CBS REALITY +1
+http://195.154.26.166:8000/marwan/marwan/45288
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TRUE ENTERTAINMENT
+http://195.154.26.166:8000/marwan/marwan/45239
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SONY CRIME
+http://195.154.26.166:8000/marwan/marwan/45242
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SONY CRIME +1
+http://195.154.26.166:8000/marwan/marwan/79712
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| S4C
+http://195.154.26.166:8000/marwan/marwan/79711
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DRAMA
+http://195.154.26.166:8000/marwan/marwan/79699
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| REALLY
+http://195.154.26.166:8000/marwan/marwan/79710
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| KISS TV
+http://195.154.26.166:8000/marwan/marwan/79735
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QVC BEAUTY
+http://195.154.26.166:8000/marwan/marwan/45250
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QVC EXTRA
+http://195.154.26.166:8000/marwan/marwan/45249
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QVC STYLE
+http://195.154.26.166:8000/marwan/marwan/45248
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QVC UK.
+http://195.154.26.166:8000/marwan/marwan/45247
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK |COOKING |======
+http://195.154.26.166:8000/marwan/marwan/79667
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| GOOD FOOD FHD
+http://195.154.26.166:8000/marwan/marwan/30536
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FOOD NETWORK
+http://195.154.26.166:8000/marwan/marwan/45275
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| FOOD NETWORK +1
+http://195.154.26.166:8000/marwan/marwan/45274
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TRUE MOVIES
+http://195.154.26.166:8000/marwan/marwan/45238
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TRUE MOVIES +1
+http://195.154.26.166:8000/marwan/marwan/45237
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MOVIES4MEN
+http://195.154.26.166:8000/marwan/marwan/79703
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| SONY MOVIES
+http://195.154.26.166:8000/marwan/marwan/79713
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| DOCUMENTARY |======
+http://195.154.26.166:8000/marwan/marwan/77379
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY FHD
+http://195.154.26.166:8000/marwan/marwan/30549
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| VICELAND
+http://195.154.26.166:8000/marwan/marwan/30487
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ANIMAL PLANET FHD
+http://195.154.26.166:8000/marwan/marwan/30582
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CRIME INVESTIGATION FHD
+http://195.154.26.166:8000/marwan/marwan/30551
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HISTORY FHD
+http://195.154.26.166:8000/marwan/marwan/30534
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HISTORY 2 FHD
+http://195.154.26.166:8000/marwan/marwan/30535
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NAT GEO FHD
+http://195.154.26.166:8000/marwan/marwan/30526
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| NAT GEO WILD FHD
+http://195.154.26.166:8000/marwan/marwan/30525
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK SD| DOCUMENTARY |======
+http://195.154.26.166:8000/marwan/marwan/79673
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QUEST RED
+http://195.154.26.166:8000/marwan/marwan/79708
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| QUEST RED +1
+http://195.154.26.166:8000/marwan/marwan/79709
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY HISTORY
+http://195.154.26.166:8000/marwan/marwan/45283
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY HOME HEALTH
+http://195.154.26.166:8000/marwan/marwan/45282
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY SCIENCE
+http://195.154.26.166:8000/marwan/marwan/45281
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY SHED
+http://195.154.26.166:8000/marwan/marwan/45280
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DISCOVERY TURBO
+http://195.154.26.166:8000/marwan/marwan/45279
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| TRAVEL CHANNEL
+http://195.154.26.166:8000/marwan/marwan/79718
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| HOME AND HEALTH
+http://195.154.26.166:8000/marwan/marwan/45273
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| INVESTIGATION DISCOVERY
+http://195.154.26.166:8000/marwan/marwan/45270
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DMAX
+http://195.154.26.166:8000/marwan/marwan/79697
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| YOURTV
+http://195.154.26.166:8000/marwan/marwan/79720
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| MUSIC |======
+http://195.154.26.166:8000/marwan/marwan/77380
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV FHD
+http://195.154.26.166:8000/marwan/marwan/45326
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV LIVE FHD
+http://195.154.26.166:8000/marwan/marwan/45325
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK SD| MUSIC |======
+http://195.154.26.166:8000/marwan/marwan/79672
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV BASE
+http://195.154.26.166:8000/marwan/marwan/45267
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV CLASSIC
+http://195.154.26.166:8000/marwan/marwan/45266
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV DANCE
+http://195.154.26.166:8000/marwan/marwan/45265
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV HITS
+http://195.154.26.166:8000/marwan/marwan/45264
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV OMG
+http://195.154.26.166:8000/marwan/marwan/45263
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MTV ROCKS
+http://195.154.26.166:8000/marwan/marwan/45262
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| VH1
+http://195.154.26.166:8000/marwan/marwan/45234
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BOX HITS
+http://195.154.26.166:8000/marwan/marwan/45293
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BOX UPFRONT
+http://195.154.26.166:8000/marwan/marwan/45292
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| 4 MUSIC
+http://195.154.26.166:8000/marwan/marwan/45321
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS ESPN FHD
+http://195.154.26.166:8000/marwan/marwan/30564
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 1 FHD
+http://195.154.26.166:8000/marwan/marwan/30567
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 2 FHD
+http://195.154.26.166:8000/marwan/marwan/30566
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 3 FHD
+http://195.154.26.166:8000/marwan/marwan/30565
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BEIN SPORT 11 HD EN
+http://195.154.26.166:8000/marwan/marwan/49226
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BEIN SPORT 12 HD EN
+http://195.154.26.166:8000/marwan/marwan/49225
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BEIN SPORT 13 HD EN
+http://195.154.26.166:8000/marwan/marwan/49224
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ELEVEN SPORTS 1 FHD
+http://195.154.26.166:8000/marwan/marwan/30543
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS ESPN
+http://195.154.26.166:8000/marwan/marwan/79483
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 1
+http://195.154.26.166:8000/marwan/marwan/79486
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 2
+http://195.154.26.166:8000/marwan/marwan/79485
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BT SPORTS 3
+http://195.154.26.166:8000/marwan/marwan/79484
+
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK| SPORTS |=====
+http://195.154.26.166:8000/marwan/marwan/49223
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| BOXNATION FHD
+http://195.154.26.166:8000/marwan/marwan/30568
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CHELSEA TV HD
+http://195.154.26.166:8000/marwan/marwan/45327
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| MU FHD
+http://195.154.26.166:8000/marwan/marwan/45324
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LFC TV
+http://195.154.26.166:8000/marwan/marwan/45268
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EUROSPORT 1 FHD
+http://195.154.26.166:8000/marwan/marwan/30541
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EUROSPORT 2 FHD
+http://195.154.26.166:8000/marwan/marwan/30540
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RACING UK FHD
+http://195.154.26.166:8000/marwan/marwan/30523
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EIR SPORTS 1 FHD
+http://195.154.26.166:8000/marwan/marwan/45277
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| EIR SPORTS 2 FHD
+http://195.154.26.166:8000/marwan/marwan/45276
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PREMIER SPORTS 1 HD
+http://195.154.26.166:8000/marwan/marwan/45235
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PREMIER SPORTS 2 FHD
+http://195.154.26.166:8000/marwan/marwan/45251
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",=====|UK HD| ONLY LIVE EVENT |======
+http://195.154.26.166:8000/marwan/marwan/83445
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| ABERDEEN FC TV [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83444
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CELTIC FC TV [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83443
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| DUNDEE FC TV [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83442
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| RANGERS FC TV [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83441
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 1 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83430
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 2 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83429
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 3 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83428
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 4 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83427
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 5 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83426
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",||UK||BT SPORTS EXTRA 6 HD [ LIVE EVENT ]
+http://195.154.26.166:8000/marwan/marwan/83425
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PPV (ONLY DURING LIVE EVENT)
+http://195.154.26.166:8000/marwan/marwan/80501
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PPV 2 FHD (ONLY DURING LIVE EVENT)
+http://195.154.26.166:8000/marwan/marwan/80502
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| PPV 2 HD (ONLY DURING LIVE EVENT)
+http://195.154.26.166:8000/marwan/marwan/80503
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 1
+http://195.154.26.166:8000/marwan/marwan/83440
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 2
+http://195.154.26.166:8000/marwan/marwan/83439
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 3
+http://195.154.26.166:8000/marwan/marwan/83438
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 4
+http://195.154.26.166:8000/marwan/marwan/83437
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 5
+http://195.154.26.166:8000/marwan/marwan/83436
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 6
+http://195.154.26.166:8000/marwan/marwan/83435
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 7
+http://195.154.26.166:8000/marwan/marwan/83434
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 8
+http://195.154.26.166:8000/marwan/marwan/83433
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 9
+http://195.154.26.166:8000/marwan/marwan/83432
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| LIVE EVENT 10
+http://195.154.26.166:8000/marwan/marwan/83431
+#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK| CLASSIC FM
+http://195.154.26.166:8000/marwan/marwan/52949
+
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",=====|US| UNITED STATES |=====
+http://195.154.26.166:8000/marwan/marwan/45815
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| 5 STARMAX HD
+http://195.154.26.166:8000/marwan/marwan/45620
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| A&E HD
+http://195.154.26.166:8000/marwan/marwan/45619
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ABC HD
+http://195.154.26.166:8000/marwan/marwan/45439
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ABC NEWS
+http://195.154.26.166:8000/marwan/marwan/45438
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ACC NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/90960
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ACCUWEATHER HD
+http://195.154.26.166:8000/marwan/marwan/91946
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ACTION MAX HD
+http://195.154.26.166:8000/marwan/marwan/45618
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AL JAZEERA ENGLISH
+http://195.154.26.166:8000/marwan/marwan/45614
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AMC HD
+http://195.154.26.166:8000/marwan/marwan/45445
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AMERICA HEROES HD
+http://195.154.26.166:8000/marwan/marwan/45613
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ANIMAL PLANET HD
+http://195.154.26.166:8000/marwan/marwan/45447
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ANIMAL PLANET WEST HD
+http://195.154.26.166:8000/marwan/marwan/91762
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ASPIRE HD
+http://195.154.26.166:8000/marwan/marwan/91763
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AT&T SPORTSNET SOUTHWEST HD
+http://195.154.26.166:8000/marwan/marwan/91892
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AUDIENCE HD
+http://195.154.26.166:8000/marwan/marwan/91945
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AWE HD
+http://195.154.26.166:8000/marwan/marwan/91955
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| AXS TV HD
+http://195.154.26.166:8000/marwan/marwan/91760
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BABY FIRST HD
+http://195.154.26.166:8000/marwan/marwan/91764
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BABY TV HD
+http://195.154.26.166:8000/marwan/marwan/91765
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BBC AMERICA HD
+http://195.154.26.166:8000/marwan/marwan/45612
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BBC WORLD NEWS
+http://195.154.26.166:8000/marwan/marwan/91766
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS HD
+http://195.154.26.166:8000/marwan/marwan/45611
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 2 HD
+http://195.154.26.166:8000/marwan/marwan/83953
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 4 HD
+http://195.154.26.166:8000/marwan/marwan/83954
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 5 HD
+http://195.154.26.166:8000/marwan/marwan/83955
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 6 HD
+http://195.154.26.166:8000/marwan/marwan/83956
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 7 HD
+http://195.154.26.166:8000/marwan/marwan/83957
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BEIN SPORTS 8 HD
+http://195.154.26.166:8000/marwan/marwan/83958
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BET HD
+http://195.154.26.166:8000/marwan/marwan/45610
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BET GOSPEL
+http://195.154.26.166:8000/marwan/marwan/91767
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BET HER HD
+http://195.154.26.166:8000/marwan/marwan/91768
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BET JAMS HD
+http://195.154.26.166:8000/marwan/marwan/91769
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BET SOUL
+http://195.154.26.166:8000/marwan/marwan/91770
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BIG TEN NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45609
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BLOOMBERG HD
+http://195.154.26.166:8000/marwan/marwan/91936
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BOOMERANG HD
+http://195.154.26.166:8000/marwan/marwan/45608
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BOUNCE TV HD
+http://195.154.26.166:8000/marwan/marwan/91771
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BRAVO HD
+http://195.154.26.166:8000/marwan/marwan/45446
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| BRAVO WEST HD
+http://195.154.26.166:8000/marwan/marwan/91772
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| C-SPAN 1 HD
+http://195.154.26.166:8000/marwan/marwan/91952
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| C-SPAN 2 HD
+http://195.154.26.166:8000/marwan/marwan/91953
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CARTOON NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45607
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CARTOON NETWORK WEST HD
+http://195.154.26.166:8000/marwan/marwan/91781
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CBS HD
+http://195.154.26.166:8000/marwan/marwan/45604
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CBS NEWS
+http://195.154.26.166:8000/marwan/marwan/45603
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CBS PHILADELPHIA
+http://195.154.26.166:8000/marwan/marwan/45605
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CBS SN
+http://195.154.26.166:8000/marwan/marwan/45602
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CBS SPORTS NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45601
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CHEDDAR BUSINESS HD
+http://195.154.26.166:8000/marwan/marwan/91784
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CHEDDAR NEWS HD
+http://195.154.26.166:8000/marwan/marwan/91783
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX HD
+http://195.154.26.166:8000/marwan/marwan/45597
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX EAST HD
+http://195.154.26.166:8000/marwan/marwan/45598
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX WEST HD
+http://195.154.26.166:8000/marwan/marwan/45594
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX ACTION EAST HD
+http://195.154.26.166:8000/marwan/marwan/45599
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX MOREMAX HD
+http://195.154.26.166:8000/marwan/marwan/45596
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CINEMAX THRILLERMAX HD
+http://195.154.26.166:8000/marwan/marwan/45595
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CLEO TV HD
+http://195.154.26.166:8000/marwan/marwan/91806
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CMT HD
+http://195.154.26.166:8000/marwan/marwan/90937
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CNBC HD
+http://195.154.26.166:8000/marwan/marwan/45593
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CNBC WORLD HD
+http://195.154.26.166:8000/marwan/marwan/91782
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CNN HD
+http://195.154.26.166:8000/marwan/marwan/45592
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COMEDY CENTRAL HD
+http://195.154.26.166:8000/marwan/marwan/45448
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COMEDY TV HD
+http://195.154.26.166:8000/marwan/marwan/91944
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COMET HD
+http://195.154.26.166:8000/marwan/marwan/91807
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COOKING CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/45591
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COWBOY CHANNEL
+http://195.154.26.166:8000/marwan/marwan/91951
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| COZI
+http://195.154.26.166:8000/marwan/marwan/45590
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CRIME & INVESTIGATION HD
+http://195.154.26.166:8000/marwan/marwan/90938
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN BAY AREA HD
+http://195.154.26.166:8000/marwan/marwan/91893
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN BOSTON HD
+http://195.154.26.166:8000/marwan/marwan/90945
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN CALIFORNIA HD
+http://195.154.26.166:8000/marwan/marwan/91894
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN CHICAGO HD
+http://195.154.26.166:8000/marwan/marwan/90942
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN CHICAGO PLUS HD
+http://195.154.26.166:8000/marwan/marwan/90944
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN PHILADELPHIA HD
+http://195.154.26.166:8000/marwan/marwan/90939
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN PHILADELPHIA PLUS HD
+http://195.154.26.166:8000/marwan/marwan/90943
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN WASHINGTON HD
+http://195.154.26.166:8000/marwan/marwan/90940
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CSN WASHINGTON PLUS HD
+http://195.154.26.166:8000/marwan/marwan/90941
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW ATLANTA HD
+http://195.154.26.166:8000/marwan/marwan/90948
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW CHICAGO HD
+http://195.154.26.166:8000/marwan/marwan/45589
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW PHILADELPHIA HD
+http://195.154.26.166:8000/marwan/marwan/90947
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW PITTSBURGH
+http://195.154.26.166:8000/marwan/marwan/90953
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW SACRAMENTO HD
+http://195.154.26.166:8000/marwan/marwan/90952
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW SAN FRANCISCO HD
+http://195.154.26.166:8000/marwan/marwan/90949
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW SEATTLE HD
+http://195.154.26.166:8000/marwan/marwan/90950
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| CW TAMPA BAY HD
+http://195.154.26.166:8000/marwan/marwan/90951
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DAYSTAR HD
+http://195.154.26.166:8000/marwan/marwan/91813
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DESTINATION AMERICA HD
+http://195.154.26.166:8000/marwan/marwan/90954
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY FAMILY HD
+http://195.154.26.166:8000/marwan/marwan/45443
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY HD
+http://195.154.26.166:8000/marwan/marwan/45442
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY LIFE HD
+http://195.154.26.166:8000/marwan/marwan/91820
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY SCIENCE HD
+http://195.154.26.166:8000/marwan/marwan/45441
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY VELOCITY
+http://195.154.26.166:8000/marwan/marwan/45440
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISCOVERY WEST HD
+http://195.154.26.166:8000/marwan/marwan/91819
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/45588
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY CHANNEL WEST HD
+http://195.154.26.166:8000/marwan/marwan/91829
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY JR HD
+http://195.154.26.166:8000/marwan/marwan/45587
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY JR WEST HD
+http://195.154.26.166:8000/marwan/marwan/91832
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY XD HD
+http://195.154.26.166:8000/marwan/marwan/45586
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DISNEY XD WEST HD
+http://195.154.26.166:8000/marwan/marwan/91833
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DIY HD
+http://195.154.26.166:8000/marwan/marwan/45585
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| DOG TV HD
+http://195.154.26.166:8000/marwan/marwan/91950
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| E! ENTERTAINMENT HD
+http://195.154.26.166:8000/marwan/marwan/45584
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| E! ENTERTAINMENT WEST HD
+http://195.154.26.166:8000/marwan/marwan/91834
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| EL REY HD
+http://195.154.26.166:8000/marwan/marwan/91835
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ELEVEN SPORTS HD
+http://195.154.26.166:8000/marwan/marwan/45583
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| EPIX 2
+http://195.154.26.166:8000/marwan/marwan/90955
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| EPIX DRIVE IN
+http://195.154.26.166:8000/marwan/marwan/90957
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| EPIX HD
+http://195.154.26.166:8000/marwan/marwan/45582
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| EPIX HITS
+http://195.154.26.166:8000/marwan/marwan/90956
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN 2 HD
+http://195.154.26.166:8000/marwan/marwan/45580
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN CLASSIC
+http://195.154.26.166:8000/marwan/marwan/91891
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 1
+http://195.154.26.166:8000/marwan/marwan/91927
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 2
+http://195.154.26.166:8000/marwan/marwan/91928
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 3
+http://195.154.26.166:8000/marwan/marwan/91929
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 4
+http://195.154.26.166:8000/marwan/marwan/91930
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 5
+http://195.154.26.166:8000/marwan/marwan/91931
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 6
+http://195.154.26.166:8000/marwan/marwan/91932
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 7
+http://195.154.26.166:8000/marwan/marwan/91933
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN COLLEGE EXTRA 8
+http://195.154.26.166:8000/marwan/marwan/91934
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN GOAL LINE HD
+http://195.154.26.166:8000/marwan/marwan/91916
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN HD
+http://195.154.26.166:8000/marwan/marwan/45579
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN NEWS HD
+http://195.154.26.166:8000/marwan/marwan/45578
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ESPN U
+http://195.154.26.166:8000/marwan/marwan/90958
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FANTASY SPORTS NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/91895
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FIGHT NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/91897
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FIVESTAR MAX HD
+http://195.154.26.166:8000/marwan/marwan/91883
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOOD NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45577
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOOD NETWORK WEST HD
+http://195.154.26.166:8000/marwan/marwan/91850
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX 29
+http://195.154.26.166:8000/marwan/marwan/45576
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX BUSINESS NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45575
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX HD
+http://195.154.26.166:8000/marwan/marwan/90959
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX KANSAS HD
+http://195.154.26.166:8000/marwan/marwan/45574
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX LIFE HD
+http://195.154.26.166:8000/marwan/marwan/91851
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX NEWS HD
+http://195.154.26.166:8000/marwan/marwan/45573
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SOCCER PLUS HD
+http://195.154.26.166:8000/marwan/marwan/45572
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS 1 HD
+http://195.154.26.166:8000/marwan/marwan/45571
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS 2 HD
+http://195.154.26.166:8000/marwan/marwan/45570
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS ARIZONA HD
+http://195.154.26.166:8000/marwan/marwan/45569
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS ARIZONA PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91678
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS CAROLINAS HD
+http://195.154.26.166:8000/marwan/marwan/91679
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS DETROIT HD
+http://195.154.26.166:8000/marwan/marwan/45568
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS DETROIT PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91680
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS FLORIDA HD
+http://195.154.26.166:8000/marwan/marwan/45567
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS FLORIDA MIAMI HD
+http://195.154.26.166:8000/marwan/marwan/91681
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS FLORIDA NORTH HD
+http://195.154.26.166:8000/marwan/marwan/91682
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS HOUSTON HD
+http://195.154.26.166:8000/marwan/marwan/91683
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS INDIANA HD
+http://195.154.26.166:8000/marwan/marwan/91684
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS INDIANA PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91685
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS KANSAS HD
+http://195.154.26.166:8000/marwan/marwan/91686
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS KANSAS PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91687
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS MIDWEST HD
+http://195.154.26.166:8000/marwan/marwan/91688
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS NEW ORLEANS HD
+http://195.154.26.166:8000/marwan/marwan/91689
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS NEW ORLEANS PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91690
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS NORTH HD
+http://195.154.26.166:8000/marwan/marwan/45566
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS OHIO HD
+http://195.154.26.166:8000/marwan/marwan/84908
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS OHIO PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91691
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS OKLAHOMA HD
+http://195.154.26.166:8000/marwan/marwan/91692
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS OKLAHOMA PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91693
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS PRIME TICKET HD
+http://195.154.26.166:8000/marwan/marwan/45565
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SAN ANTONIO HD
+http://195.154.26.166:8000/marwan/marwan/91694
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SAN DIEGO HD
+http://195.154.26.166:8000/marwan/marwan/45564
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SOUTH HD
+http://195.154.26.166:8000/marwan/marwan/45563
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SOUTHEAST HD
+http://195.154.26.166:8000/marwan/marwan/45562
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SOUTHWEST HD
+http://195.154.26.166:8000/marwan/marwan/45561
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SOUTHWEST PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91695
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS SUN HD
+http://195.154.26.166:8000/marwan/marwan/45560
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS TENNESSEE HD
+http://195.154.26.166:8000/marwan/marwan/91696
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS WEST
+http://195.154.26.166:8000/marwan/marwan/45559
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS WISCONSIN HD
+http://195.154.26.166:8000/marwan/marwan/45558
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS WISCONSIN PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91697
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTS YES HD
+http://195.154.26.166:8000/marwan/marwan/91698
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FOX SPORTSTIME OHIO HD
+http://195.154.26.166:8000/marwan/marwan/91699
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FREEFORM HD
+http://195.154.26.166:8000/marwan/marwan/45557
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FREEFORM WEST HD
+http://195.154.26.166:8000/marwan/marwan/91849
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FUSE HD
+http://195.154.26.166:8000/marwan/marwan/91910
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FUSE MUSIC HD
+http://195.154.26.166:8000/marwan/marwan/91941
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FUSION HD
+http://195.154.26.166:8000/marwan/marwan/45556
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FX HD
+http://195.154.26.166:8000/marwan/marwan/45451
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FX WEST HD
+http://195.154.26.166:8000/marwan/marwan/91852
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FXM HD
+http://195.154.26.166:8000/marwan/marwan/45450
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FXX HD
+http://195.154.26.166:8000/marwan/marwan/45449
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FXX WEST HD
+http://195.154.26.166:8000/marwan/marwan/91853
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| FYI HD
+http://195.154.26.166:8000/marwan/marwan/45555
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GINX ESPORTS HD
+http://195.154.26.166:8000/marwan/marwan/91854
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GOL TV HD
+http://195.154.26.166:8000/marwan/marwan/91896
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GOLF CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/45554
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GREAT AMERICAN COUNTRY HD
+http://195.154.26.166:8000/marwan/marwan/91855
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GRIT
+http://195.154.26.166:8000/marwan/marwan/91856
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| GSN HD
+http://195.154.26.166:8000/marwan/marwan/45553
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HALLMARK DRAMA HD
+http://195.154.26.166:8000/marwan/marwan/90961
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HALLMARK HD
+http://195.154.26.166:8000/marwan/marwan/45458
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HALLMARK M & M HD
+http://195.154.26.166:8000/marwan/marwan/45457
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO HD
+http://195.154.26.166:8000/marwan/marwan/45549
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO 2 HD
+http://195.154.26.166:8000/marwan/marwan/45552
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO COMEDY HD
+http://195.154.26.166:8000/marwan/marwan/45551
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO FAMILY HD
+http://195.154.26.166:8000/marwan/marwan/45550
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO PLUS WEST HD
+http://195.154.26.166:8000/marwan/marwan/45548
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO SIGNATURE HD
+http://195.154.26.166:8000/marwan/marwan/45547
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO WEST HD
+http://195.154.26.166:8000/marwan/marwan/91884
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HBO ZONE HD
+http://195.154.26.166:8000/marwan/marwan/45546
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HD NET MOVIES HD
+http://195.154.26.166:8000/marwan/marwan/91885
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HGTV HD
+http://195.154.26.166:8000/marwan/marwan/45459
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HGTV WEST HD
+http://195.154.26.166:8000/marwan/marwan/91925
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HISTORY HD
+http://195.154.26.166:8000/marwan/marwan/45444
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| HLN HD
+http://195.154.26.166:8000/marwan/marwan/91857
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ID HD
+http://195.154.26.166:8000/marwan/marwan/45545
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ID WEST HD
+http://195.154.26.166:8000/marwan/marwan/91858
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| IFC HD
+http://195.154.26.166:8000/marwan/marwan/45544
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| INDIEPLEX HD
+http://195.154.26.166:8000/marwan/marwan/45543
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| INSP HD
+http://195.154.26.166:8000/marwan/marwan/91914
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ION HD
+http://195.154.26.166:8000/marwan/marwan/91859
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| JUSTICE CENTRAL HD
+http://195.154.26.166:8000/marwan/marwan/91943
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LAFF
+http://195.154.26.166:8000/marwan/marwan/91860
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LAW AND CRIME HD
+http://195.154.26.166:8000/marwan/marwan/91861
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LIFETIME HD
+http://195.154.26.166:8000/marwan/marwan/45541
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LMN HD
+http://195.154.26.166:8000/marwan/marwan/45456
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LOCAL NOW HD
+http://195.154.26.166:8000/marwan/marwan/91909
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LOGO HD
+http://195.154.26.166:8000/marwan/marwan/91862
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| LONGHORN NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45540
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MAV TV HD
+http://195.154.26.166:8000/marwan/marwan/91898
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ME TV
+http://195.154.26.166:8000/marwan/marwan/91863
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MGM HD
+http://195.154.26.166:8000/marwan/marwan/91886
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MILITARY HISTORY
+http://195.154.26.166:8000/marwan/marwan/91864
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MLB NETWORK
+http://195.154.26.166:8000/marwan/marwan/45539
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MLB STRIKE ZONE HD
+http://195.154.26.166:8000/marwan/marwan/91899
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MOREMAX HD
+http://195.154.26.166:8000/marwan/marwan/45538
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MOTORTREND HD
+http://195.154.26.166:8000/marwan/marwan/90962
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MOVIEMAX HD
+http://195.154.26.166:8000/marwan/marwan/45537
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MOVIEPLEX HD
+http://195.154.26.166:8000/marwan/marwan/45536
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MSG 2 HD
+http://195.154.26.166:8000/marwan/marwan/91901
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MSG 2 PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91902
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MSG HD
+http://195.154.26.166:8000/marwan/marwan/91900
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MSG PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91922
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MSNBC HD
+http://195.154.26.166:8000/marwan/marwan/45535
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MTV 2 HD
+http://195.154.26.166:8000/marwan/marwan/90963
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MTV HD
+http://195.154.26.166:8000/marwan/marwan/45461
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MTV LIVE HD
+http://195.154.26.166:8000/marwan/marwan/45460
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| MTV U
+http://195.154.26.166:8000/marwan/marwan/91913
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NAT GEO HD
+http://195.154.26.166:8000/marwan/marwan/45453
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NAT GEO WEST HD
+http://195.154.26.166:8000/marwan/marwan/91865
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NAT GEO WILD HD
+http://195.154.26.166:8000/marwan/marwan/45452
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NATURE VISION HD
+http://195.154.26.166:8000/marwan/marwan/91956
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NAUTICAL CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91954
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA TV HD
+http://195.154.26.166:8000/marwan/marwan/45534
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBC GOLF
+http://195.154.26.166:8000/marwan/marwan/45532
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBC LOS ANGELES
+http://195.154.26.166:8000/marwan/marwan/45533
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBC PHILADELPHIA HD
+http://195.154.26.166:8000/marwan/marwan/45531
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBC SN HD
+http://195.154.26.166:8000/marwan/marwan/45530
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NECN HD
+http://195.154.26.166:8000/marwan/marwan/45529
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NESN HD
+http://195.154.26.166:8000/marwan/marwan/45528
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NESN PLUS HD
+http://195.154.26.166:8000/marwan/marwan/91903
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NEWS 12 BROOKLYN
+http://195.154.26.166:8000/marwan/marwan/45527
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NEWS Y HD
+http://195.154.26.166:8000/marwan/marwan/91908
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45526
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL NOW
+http://195.154.26.166:8000/marwan/marwan/45525
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL REDZONE HD
+http://195.154.26.166:8000/marwan/marwan/45524
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45523
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| Nick JR HD
+http://195.154.26.166:8000/marwan/marwan/45522
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NICK TOONS HD
+http://195.154.26.166:8000/marwan/marwan/45520
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NICKELODEON HD
+http://195.154.26.166:8000/marwan/marwan/45521
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| ONE AMERICAN NEWS NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/91942
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OUTDOOR CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/90964
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OUTERMAX HD
+http://195.154.26.166:8000/marwan/marwan/45519
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OUTSIDE TV HD
+http://195.154.26.166:8000/marwan/marwan/91866
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OVATION HD
+http://195.154.26.166:8000/marwan/marwan/91867
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OWN HD
+http://195.154.26.166:8000/marwan/marwan/45518
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OXYGEN HD
+http://195.154.26.166:8000/marwan/marwan/45517
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| OXYGEN WEST HD
+http://195.154.26.166:8000/marwan/marwan/91868
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 ARIZONA HD
+http://195.154.26.166:8000/marwan/marwan/45516
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 BAY AREA HD
+http://195.154.26.166:8000/marwan/marwan/45515
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 LOS ANGELES HD
+http://195.154.26.166:8000/marwan/marwan/45514
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 MOUNTAIN HD
+http://195.154.26.166:8000/marwan/marwan/45513
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 NATIONAL HD
+http://195.154.26.166:8000/marwan/marwan/84041
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 OREGON HD
+http://195.154.26.166:8000/marwan/marwan/45512
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PAC 12 WASHINGTON HD
+http://195.154.26.166:8000/marwan/marwan/45511
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PARAMOUNT HD
+http://195.154.26.166:8000/marwan/marwan/45500
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PBS HD
+http://195.154.26.166:8000/marwan/marwan/45510
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PBS KIDS
+http://195.154.26.166:8000/marwan/marwan/90965
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PEOPLE TV
+http://195.154.26.166:8000/marwan/marwan/91911
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PIXL HD
+http://195.154.26.166:8000/marwan/marwan/91937
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| POP HD
+http://195.154.26.166:8000/marwan/marwan/45509
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| PURSUIT CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91869
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| QVC 2 HD
+http://195.154.26.166:8000/marwan/marwan/90967
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| QVC HD
+http://195.154.26.166:8000/marwan/marwan/90966
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| REELZ HD
+http://195.154.26.166:8000/marwan/marwan/45508
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| RETROPLEX HD
+http://195.154.26.166:8000/marwan/marwan/45507
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| REVOLT HD
+http://195.154.26.166:8000/marwan/marwan/91915
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| RFD TV HD
+http://195.154.26.166:8000/marwan/marwan/91870
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| RIDE TV HD
+http://195.154.26.166:8000/marwan/marwan/91871
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| RT NEWS HD
+http://195.154.26.166:8000/marwan/marwan/91935
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SEC NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45506
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME HD
+http://195.154.26.166:8000/marwan/marwan/45503
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME EAST HD
+http://195.154.26.166:8000/marwan/marwan/45504
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME WEST HD
+http://195.154.26.166:8000/marwan/marwan/45501
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME 2 HD
+http://195.154.26.166:8000/marwan/marwan/45505
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME BEYOND HD
+http://195.154.26.166:8000/marwan/marwan/92020
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME EXTREME HD
+http://195.154.26.166:8000/marwan/marwan/91887
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME FAMILY ZONE HD
+http://195.154.26.166:8000/marwan/marwan/91888
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME NEXT HD
+http://195.154.26.166:8000/marwan/marwan/92019
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME SHOWCASE HD
+http://195.154.26.166:8000/marwan/marwan/45502
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SHOWTIME WOMEN HD
+http://195.154.26.166:8000/marwan/marwan/92018
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SMITHSONIAN CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91872
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SMITHSONIAN CHANNEL WEST HD
+http://195.154.26.166:8000/marwan/marwan/91926
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SNY HD
+http://195.154.26.166:8000/marwan/marwan/90946
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SONY MOVIE CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91789
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SPORTS ILLUSTRATED
+http://195.154.26.166:8000/marwan/marwan/91921
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SPORTSMAN CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91873
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SPORTSNET LA DODGERS HD
+http://195.154.26.166:8000/marwan/marwan/91905
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SPORTSNET LA LAKERS HD
+http://195.154.26.166:8000/marwan/marwan/91904
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STADIUM HD
+http://195.154.26.166:8000/marwan/marwan/91917
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STADIUM 1 HD
+http://195.154.26.166:8000/marwan/marwan/91918
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STADIUM 2 HD
+http://195.154.26.166:8000/marwan/marwan/91919
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STADIUM 3 HD
+http://195.154.26.166:8000/marwan/marwan/91920
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| START TV
+http://195.154.26.166:8000/marwan/marwan/91874
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ HD
+http://195.154.26.166:8000/marwan/marwan/45480
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ EAST HD
+http://195.154.26.166:8000/marwan/marwan/45493
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ WEST HD
+http://195.154.26.166:8000/marwan/marwan/45478
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ BLACK HD
+http://195.154.26.166:8000/marwan/marwan/45498
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ CINEMA HD
+http://195.154.26.166:8000/marwan/marwan/45496
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ CINEMA EAST HD
+http://195.154.26.166:8000/marwan/marwan/45497
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ COMEDY HD
+http://195.154.26.166:8000/marwan/marwan/45494
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ Family HD
+http://195.154.26.166:8000/marwan/marwan/45481
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ KIDS & FAMILY HD
+http://195.154.26.166:8000/marwan/marwan/45479
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ EDGE HD
+http://195.154.26.166:8000/marwan/marwan/45492
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE HD
+http://195.154.26.166:8000/marwan/marwan/45484
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE EAST HD
+http://195.154.26.166:8000/marwan/marwan/45486
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE WEST HD
+http://195.154.26.166:8000/marwan/marwan/45482
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE 2 EAST HD
+http://195.154.26.166:8000/marwan/marwan/45490
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE ACTION HD
+http://195.154.26.166:8000/marwan/marwan/45489
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE BLACK HD
+http://195.154.26.166:8000/marwan/marwan/45488
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE CLASSIC HD
+http://195.154.26.166:8000/marwan/marwan/45487
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE FAMILY HD
+http://195.154.26.166:8000/marwan/marwan/45485
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE SUSPENSE HD
+http://195.154.26.166:8000/marwan/marwan/91948
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| STARZ ENCORE WESTERNS HD
+http://195.154.26.166:8000/marwan/marwan/91947
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SUNDANCE HD
+http://195.154.26.166:8000/marwan/marwan/45477
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SYFY HD
+http://195.154.26.166:8000/marwan/marwan/45476
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| SYFY WEST HD
+http://195.154.26.166:8000/marwan/marwan/91875
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TASTEMADE
+http://195.154.26.166:8000/marwan/marwan/91876
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TBS HD
+http://195.154.26.166:8000/marwan/marwan/45475
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TBS WEST HD
+http://195.154.26.166:8000/marwan/marwan/91924
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TCM HD
+http://195.154.26.166:8000/marwan/marwan/90968
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TEEN NICK
+http://195.154.26.166:8000/marwan/marwan/91877
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TENNIS HD
+http://195.154.26.166:8000/marwan/marwan/45474
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| THE BLAZE HD
+http://195.154.26.166:8000/marwan/marwan/91938
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| THE MOVIE CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/91889
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| THE MOVIE CHANNEL XTRA HD
+http://195.154.26.166:8000/marwan/marwan/91890
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| THE SHOPPING CHANNEL
+http://195.154.26.166:8000/marwan/marwan/45472
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| The WEATHER CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/45455
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TLC
+http://195.154.26.166:8000/marwan/marwan/45471
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TLC WEST
+http://195.154.26.166:8000/marwan/marwan/91912
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TNT
+http://195.154.26.166:8000/marwan/marwan/45470
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TNT HD
+http://195.154.26.166:8000/marwan/marwan/45469
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TNT WEST HD
+http://195.154.26.166:8000/marwan/marwan/91879
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TRAVEL CHANNEL HD
+http://195.154.26.166:8000/marwan/marwan/45437
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TRAVEL CHANNEL WEST HD
+http://195.154.26.166:8000/marwan/marwan/91880
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TRUTV HD
+http://195.154.26.166:8000/marwan/marwan/45468
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TRUTV WEST HD
+http://195.154.26.166:8000/marwan/marwan/91878
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TV LAND HD
+http://195.154.26.166:8000/marwan/marwan/45467
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TV ONE HD
+http://195.154.26.166:8000/marwan/marwan/90969
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TVG NETWORK
+http://195.154.26.166:8000/marwan/marwan/91939
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| TVG NETWORK 2
+http://195.154.26.166:8000/marwan/marwan/91940
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| UFC HD
+http://195.154.26.166:8000/marwan/marwan/91949
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| UNIVERSAL KIDS HD
+http://195.154.26.166:8000/marwan/marwan/45499
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| UP TV HD
+http://195.154.26.166:8000/marwan/marwan/91881
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| USA NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/45466
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| USA NETWORK WEST HD
+http://195.154.26.166:8000/marwan/marwan/91882
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| VELOCITY HD
+http://195.154.26.166:8000/marwan/marwan/45454
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| VH1 HD
+http://195.154.26.166:8000/marwan/marwan/45436
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| VICELAND HD
+http://195.154.26.166:8000/marwan/marwan/45465
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| VSIN
+http://195.154.26.166:8000/marwan/marwan/91923
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| WE TV HD
+http://195.154.26.166:8000/marwan/marwan/45464
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| WILLOW CRICKET
+http://195.154.26.166:8000/marwan/marwan/45463
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| WORLD FISHING NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/91906
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| WWE HD
+http://195.154.26.166:8000/marwan/marwan/45462
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| YES NETWORK HD
+http://195.154.26.166:8000/marwan/marwan/90970
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET ARIZONA CARDINALS
+http://195.154.26.166:8000/marwan/marwan/90410
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET ATLANTA FALCONS
+http://195.154.26.166:8000/marwan/marwan/90409
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET BALTIMORE RAVENS
+http://195.154.26.166:8000/marwan/marwan/90408
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET BUFFALO BILLS
+http://195.154.26.166:8000/marwan/marwan/90407
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET CAROLINA PANTHERS
+http://195.154.26.166:8000/marwan/marwan/90406
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET CHICAGO BEARS
+http://195.154.26.166:8000/marwan/marwan/90405
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET CINCINNATI BENGALS
+http://195.154.26.166:8000/marwan/marwan/90404
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET CLEVELAND BROWNS
+http://195.154.26.166:8000/marwan/marwan/90403
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET DALLAS COWBOYS
+http://195.154.26.166:8000/marwan/marwan/90402
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET DENVER BRONCOS
+http://195.154.26.166:8000/marwan/marwan/90401
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET DETROIT LIONS
+http://195.154.26.166:8000/marwan/marwan/90400
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET GREEN BAY PACKERS
+http://195.154.26.166:8000/marwan/marwan/90399
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET HOUSTON TEXANS
+http://195.154.26.166:8000/marwan/marwan/90398
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET INDIANAPOLIS COLTS
+http://195.154.26.166:8000/marwan/marwan/90397
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET JACKSONVILLEJAGUARS
+http://195.154.26.166:8000/marwan/marwan/90396
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET KANSAS CITY CHIEFS
+http://195.154.26.166:8000/marwan/marwan/90395
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET LOS ANGELES CHARGERS
+http://195.154.26.166:8000/marwan/marwan/90394
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET LOS ANGELES RAMS
+http://195.154.26.166:8000/marwan/marwan/90393
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET MIAMI DOLPHINS
+http://195.154.26.166:8000/marwan/marwan/90392
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET MINNESOTA VIKINGS
+http://195.154.26.166:8000/marwan/marwan/90391
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET NEW ENGLAND PATRIOTS
+http://195.154.26.166:8000/marwan/marwan/90390
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET NEW ORLEANS SAINTS
+http://195.154.26.166:8000/marwan/marwan/90389
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET NEW YORK GIANTS
+http://195.154.26.166:8000/marwan/marwan/90388
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET NEW YORK JETS
+http://195.154.26.166:8000/marwan/marwan/90387
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET OAKLAND RAIDERS
+http://195.154.26.166:8000/marwan/marwan/90386
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET PHILADELPHIA EAGLES
+http://195.154.26.166:8000/marwan/marwan/90385
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET PITTSBURGH STEELERS
+http://195.154.26.166:8000/marwan/marwan/90384
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET SAN FRANCISCO 49ERS
+http://195.154.26.166:8000/marwan/marwan/90383
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET SEATTLE SEAHAWKS
+http://195.154.26.166:8000/marwan/marwan/90382
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET TAMPA BAY BUCCANEERS
+http://195.154.26.166:8000/marwan/marwan/90381
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET TENNESSEE TITANS
+http://195.154.26.166:8000/marwan/marwan/90380
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL TICKET WASHINGTON REDSKINS
+http://195.154.26.166:8000/marwan/marwan/90379
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 1
+http://195.154.26.166:8000/marwan/marwan/89249
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 2
+http://195.154.26.166:8000/marwan/marwan/89248
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 3
+http://195.154.26.166:8000/marwan/marwan/89247
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 4
+http://195.154.26.166:8000/marwan/marwan/89246
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 5
+http://195.154.26.166:8000/marwan/marwan/89245
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 6
+http://195.154.26.166:8000/marwan/marwan/89244
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 7
+http://195.154.26.166:8000/marwan/marwan/89243
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 8
+http://195.154.26.166:8000/marwan/marwan/89242
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 9
+http://195.154.26.166:8000/marwan/marwan/89241
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 10
+http://195.154.26.166:8000/marwan/marwan/89240
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 11
+http://195.154.26.166:8000/marwan/marwan/89239
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 12
+http://195.154.26.166:8000/marwan/marwan/89238
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 13
+http://195.154.26.166:8000/marwan/marwan/89237
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 14
+http://195.154.26.166:8000/marwan/marwan/89236
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NFL SUNDAY TICKET 15
+http://195.154.26.166:8000/marwan/marwan/89235
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA ATLANTA HAWKS
+http://195.154.26.166:8000/marwan/marwan/91957
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA BOSTON CELTICS
+http://195.154.26.166:8000/marwan/marwan/91958
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA BROOKLYN NETS
+http://195.154.26.166:8000/marwan/marwan/91959
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA CELVELAND CAVELIERS
+http://195.154.26.166:8000/marwan/marwan/91960
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA CHARLOTTE HORNETS
+http://195.154.26.166:8000/marwan/marwan/91961
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA CHICAGO BULLS
+http://195.154.26.166:8000/marwan/marwan/91962
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA DALLAS MAVERICKS
+http://195.154.26.166:8000/marwan/marwan/91963
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA DENVER NUGGETS
+http://195.154.26.166:8000/marwan/marwan/91964
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA DETROIT PISTONS
+http://195.154.26.166:8000/marwan/marwan/91965
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA GOLDEN STATE WARRIORS
+http://195.154.26.166:8000/marwan/marwan/91966
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA HOUSTON ROCKETS
+http://195.154.26.166:8000/marwan/marwan/91967
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA INDIANA PACERS
+http://195.154.26.166:8000/marwan/marwan/91968
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA LOS ANGELES CLIPPERS
+http://195.154.26.166:8000/marwan/marwan/91969
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA LOS ANGELES LAKERS
+http://195.154.26.166:8000/marwan/marwan/91970
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA MEMPHIS GRIZZLIES
+http://195.154.26.166:8000/marwan/marwan/91971
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA MIAMI HEAT
+http://195.154.26.166:8000/marwan/marwan/91972
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA MILWAUKEE BUCKS
+http://195.154.26.166:8000/marwan/marwan/91973
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA MINNESOTA TIMBERWOLVES
+http://195.154.26.166:8000/marwan/marwan/91974
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA NEW ORLEANS PELICANS
+http://195.154.26.166:8000/marwan/marwan/91975
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA NEW YORK KNICKS
+http://195.154.26.166:8000/marwan/marwan/91976
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA OKLAHOMA CITY THUNDER
+http://195.154.26.166:8000/marwan/marwan/91977
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA ORLANDO MAGIC
+http://195.154.26.166:8000/marwan/marwan/91978
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA PHILADEHIA 76ERS
+http://195.154.26.166:8000/marwan/marwan/91979
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA PHOENIX SUNS
+http://195.154.26.166:8000/marwan/marwan/91980
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA PORTLAND TRAILBLAZERS
+http://195.154.26.166:8000/marwan/marwan/91981
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA SACRAMENTO KINGS
+http://195.154.26.166:8000/marwan/marwan/91982
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA SAN ANTONIO SPURS
+http://195.154.26.166:8000/marwan/marwan/91983
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA TORONTO RAPTORS
+http://195.154.26.166:8000/marwan/marwan/91984
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA UTAH JAZZ
+http://195.154.26.166:8000/marwan/marwan/91985
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NBA WASHINGTON WIZARDS
+http://195.154.26.166:8000/marwan/marwan/91986
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL ANAHEIM DUCKS
+http://195.154.26.166:8000/marwan/marwan/92006
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL ARIZONA COYOTES
+http://195.154.26.166:8000/marwan/marwan/92001
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL BOSTON BRUINS
+http://195.154.26.166:8000/marwan/marwan/92014
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL BUFFALO SABRES
+http://195.154.26.166:8000/marwan/marwan/92015
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL CALGARY FLAMES
+http://195.154.26.166:8000/marwan/marwan/92012
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL CAROLINA HURRICANES
+http://195.154.26.166:8000/marwan/marwan/91999
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL CHICAGO BLACKHAWKS
+http://195.154.26.166:8000/marwan/marwan/91994
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL COLORADO AVALANCHE
+http://195.154.26.166:8000/marwan/marwan/91988
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL COLUMBUS BLUE JACKETS
+http://195.154.26.166:8000/marwan/marwan/91990
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL DALLAS STARS
+http://195.154.26.166:8000/marwan/marwan/92016
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL DETROIT RED WINGS
+http://195.154.26.166:8000/marwan/marwan/91987
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL EDMONTON OILERS
+http://195.154.26.166:8000/marwan/marwan/92003
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL FLORIDA PANTHERS
+http://195.154.26.166:8000/marwan/marwan/92009
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL LOS ANGELES KINGS
+http://195.154.26.166:8000/marwan/marwan/92013
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL MINNESOTA WILD
+http://195.154.26.166:8000/marwan/marwan/91991
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL MONTREAL CANADIENS
+http://195.154.26.166:8000/marwan/marwan/91996
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL NASHVILLE PREDATORS
+http://195.154.26.166:8000/marwan/marwan/92000
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL NEW JERSEY DEVILS
+http://195.154.26.166:8000/marwan/marwan/92007
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL NEW YORK ISLANDERS
+http://195.154.26.166:8000/marwan/marwan/91989
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL NEW YORK RANGERS
+http://195.154.26.166:8000/marwan/marwan/91992
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL OTTAWA SENATORS
+http://195.154.26.166:8000/marwan/marwan/91995
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL PHILADELPHIA FLYERS
+http://195.154.26.166:8000/marwan/marwan/92011
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL PITTSBURGH PENGUINS
+http://195.154.26.166:8000/marwan/marwan/92008
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL SAN JOSE SHARKS
+http://195.154.26.166:8000/marwan/marwan/92005
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL ST LOUIS BLUES
+http://195.154.26.166:8000/marwan/marwan/92002
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL TAMPA BAY LIGHTNING
+http://195.154.26.166:8000/marwan/marwan/91997
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL TORONTO MAPLE LEAFS
+http://195.154.26.166:8000/marwan/marwan/91993
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL VANCOUVER CANUCKS
+http://195.154.26.166:8000/marwan/marwan/92004
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL VEGAS GOLDEN KNIGHTS
+http://195.154.26.166:8000/marwan/marwan/92017
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL WASHINGTON CAPITALS
+http://195.154.26.166:8000/marwan/marwan/91998
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US| NHL WINNIPEG JETS
+http://195.154.26.166:8000/marwan/marwan/92010
+
+#EXTINF:-1,=====|IN| INDIA EU |=====
+http://195.154.26.166:8000/marwan/marwan/45787
+#EXTINF:-1,IN| STAR PLUS
+http://195.154.26.166:8000/marwan/marwan/42438
+#EXTINF:-1,IN| ZEE TV
+http://195.154.26.166:8000/marwan/marwan/945
+#EXTINF:-1,IN| ZEE CINEMA
+http://195.154.26.166:8000/marwan/marwan/946
+#EXTINF:-1,IN| SONY TV HD
+http://195.154.26.166:8000/marwan/marwan/959
+#EXTINF:-1,IN| STAR GOLD
+http://195.154.26.166:8000/marwan/marwan/3647
+#EXTINF:-1,IN| ZING
+http://195.154.26.166:8000/marwan/marwan/3646
+#EXTINF:-1,IN| COLORS
+http://195.154.26.166:8000/marwan/marwan/42446
+#EXTINF:-1,IN| B4U MOVIES
+http://195.154.26.166:8000/marwan/marwan/42443
+#EXTINF:-1,IN| B4U MUSIC
+http://195.154.26.166:8000/marwan/marwan/42444
+#EXTINF:-1,IN| STAR BHARAT
+http://195.154.26.166:8000/marwan/marwan/57119
+#EXTINF:-1,IN| BRIT ASIA TV
+http://195.154.26.166:8000/marwan/marwan/42445
+#EXTINF:-1,IN| SONY MAX HD
+http://195.154.26.166:8000/marwan/marwan/42459
+#EXTINF:-1,IN| SONY MAX 2
+http://195.154.26.166:8000/marwan/marwan/71912
+#EXTINF:-1,IN| SONY SAB
+http://195.154.26.166:8000/marwan/marwan/42460
+#EXTINF:-1,IN| VENUS TV
+http://195.154.26.166:8000/marwan/marwan/42461
+#EXTINF:-1,IN| RISHTEY
+http://195.154.26.166:8000/marwan/marwan/42456
+#EXTINF:-1,IN| RISHTEY CINE
+http://195.154.26.166:8000/marwan/marwan/42457
+#EXTINF:-1,IN| AASTHA
+http://195.154.26.166:8000/marwan/marwan/61600
+#EXTINF:-1,IN| AAJ TAK
+http://195.154.26.166:8000/marwan/marwan/42439
+#EXTINF:-1,IN| ABP NEWS
+http://195.154.26.166:8000/marwan/marwan/42440
+#EXTINF:-1,IN| ARISE NEWS
+http://195.154.26.166:8000/marwan/marwan/42441
+#EXTINF:-1,IN| ARY DIGITAL
+http://195.154.26.166:8000/marwan/marwan/42467
+#EXTINF:-1,IN| ARY FAMILY
+http://195.154.26.166:8000/marwan/marwan/42442
+#EXTINF:-1,IN| HUM EUROPE
+http://195.154.26.166:8000/marwan/marwan/42469
+#EXTINF:-1,IN| DUNYA NEWS
+http://195.154.26.166:8000/marwan/marwan/42447
+#EXTINF:-1,IN| GEO TV
+http://195.154.26.166:8000/marwan/marwan/42449
+#EXTINF:-1,IN| GEO NEWS
+http://195.154.26.166:8000/marwan/marwan/42448
+#EXTINF:-1,IN| BRITSH MUSLIM
+http://195.154.26.166:8000/marwan/marwan/58954
+#EXTINF:-1,IN| ISLAM CHANNEL
+http://195.154.26.166:8000/marwan/marwan/42451
+#EXTINF:-1,IN| TAKBEER TV
+http://195.154.26.166:8000/marwan/marwan/42470
+#EXTINF:-1,IN| HIDAYAT TV
+http://195.154.26.166:8000/marwan/marwan/42450
+#EXTINF:-1,IN| MADANI CHNL
+http://195.154.26.166:8000/marwan/marwan/42453
+#EXTINF:-1,IN| NEW VISION TV
+http://195.154.26.166:8000/marwan/marwan/42454
+#EXTINF:-1,IN| PTV GLOBAL
+http://195.154.26.166:8000/marwan/marwan/42455
+#EXTINF:-1,IN| SAMAA
+http://195.154.26.166:8000/marwan/marwan/42458
+#EXTINF:-1,IN| KANSHI TV
+http://195.154.26.166:8000/marwan/marwan/42452
+#EXTINF:-1,IN| AL JAZEERA UK
+http://195.154.26.166:8000/marwan/marwan/42465
+#EXTINF:-1,IN| NDTV 24x7
+http://195.154.26.166:8000/marwan/marwan/42477
+#EXTINF:-1,IN| NOOR TV
+http://195.154.26.166:8000/marwan/marwan/42463
+#EXTINF:-1,IN| NTV BANGLA
+http://195.154.26.166:8000/marwan/marwan/42462
+#EXTINF:-1,IN| PTC PUNJABI
+http://195.154.26.166:8000/marwan/marwan/42475
+#EXTINF:-1,IN| SANGAT
+http://195.154.26.166:8000/marwan/marwan/42471
+#EXTINF:-1,IN| SIKH CHANNEL
+http://195.154.26.166:8000/marwan/marwan/42473
+#EXTINF:-1,IN| AKAAL
+http://195.154.26.166:8000/marwan/marwan/79495
+#EXTINF:-1,=====|HINDI| ASIA HINDI |=====
+http://195.154.26.166:8000/marwan/marwan/45786
+#EXTINF:-1,HINDI| ZEE TV HD
+http://195.154.26.166:8000/marwan/marwan/80994
+#EXTINF:-1,HINDI| ZEE CINEMA HD
+http://195.154.26.166:8000/marwan/marwan/80995
+#EXTINF:-1,HINDI| STAR BHARAT HD
+http://195.154.26.166:8000/marwan/marwan/81003
+#EXTINF:-1,HINDI| STAR PLUS HD
+http://195.154.26.166:8000/marwan/marwan/80997
+#EXTINF:-1,HINDI| STAR GOLD HD
+http://195.154.26.166:8000/marwan/marwan/81002
+#EXTINF:-1,HINDI| STAR GOLD SELECT HD
+http://195.154.26.166:8000/marwan/marwan/81001
+#EXTINF:-1,HINDI| STAR JALSHA HD
+http://195.154.26.166:8000/marwan/marwan/80998
+#EXTINF:-1,HINDI| STAR MAA GOLD TV HD
+http://195.154.26.166:8000/marwan/marwan/81000
+#EXTINF:-1,HINDI| STAR PRAVAH HD
+http://195.154.26.166:8000/marwan/marwan/80999
+#EXTINF:-1,HINDI| COLORS TV HD
+http://195.154.26.166:8000/marwan/marwan/81017
+#EXTINF:-1,HINDI| B4U MOVIES INDIA
+http://195.154.26.166:8000/marwan/marwan/80983
+#EXTINF:-1,HINDI| B4U MUSIC INDIA
+http://195.154.26.166:8000/marwan/marwan/80982
+#EXTINF:-1,HINDI| B4U KADAK
+http://195.154.26.166:8000/marwan/marwan/80984
+#EXTINF:-1,HINDI| SONY TV HD
+http://195.154.26.166:8000/marwan/marwan/81004
+#EXTINF:-1,HINDI| SONY SAB HD
+http://195.154.26.166:8000/marwan/marwan/81006
+#EXTINF:-1,HINDI| SONY SETMAX HD
+http://195.154.26.166:8000/marwan/marwan/81005
+#EXTINF:-1,HINDI| SONY WAH
+http://195.154.26.166:8000/marwan/marwan/80911
+#EXTINF:-1,HINDI| AND PICTURE HD
+http://195.154.26.166:8000/marwan/marwan/81022
+#EXTINF:-1,HINDI| AND PICTURE HEVC
+http://195.154.26.166:8000/marwan/marwan/83007
+#EXTINF:-1,HINDI| AND TV HD
+http://195.154.26.166:8000/marwan/marwan/81021
+#EXTINF:-1,HINDI| AND TV HEVC
+http://195.154.26.166:8000/marwan/marwan/83006
+#EXTINF:-1,HINDI| CINEPLEX HD
+http://195.154.26.166:8000/marwan/marwan/81019
+#EXTINF:-1,HINDI| CINEPLEX HEVC
+http://195.154.26.166:8000/marwan/marwan/83005
+#EXTINF:-1,HINDI| NAT GEO HINDI HD
+http://195.154.26.166:8000/marwan/marwan/81008
+#EXTINF:-1,HINDI| NAT GEO CH HEVC
+http://195.154.26.166:8000/marwan/marwan/83029
+#EXTINF:-1,HINDI| NAT GEO WILD HD
+http://195.154.26.166:8000/marwan/marwan/81007
+#EXTINF:-1,HINDI| D2H CINEMA HD
+http://195.154.26.166:8000/marwan/marwan/81016
+#EXTINF:-1,HINDI| D2H KIDS RHYMES HD
+http://195.154.26.166:8000/marwan/marwan/81015
+#EXTINF:-1,HINDI| D2H MOVIES HD
+http://195.154.26.166:8000/marwan/marwan/81014
+#EXTINF:-1,HINDI| MTV BEATS HD
+http://195.154.26.166:8000/marwan/marwan/81010
+#EXTINF:-1,HINDI| MTV BEATS HEVC
+http://195.154.26.166:8000/marwan/marwan/83027
+#EXTINF:-1,HINDI| MTV PLUS HD
+http://195.154.26.166:8000/marwan/marwan/81009
+#EXTINF:-1,HINDI| DD BHARATI
+http://195.154.26.166:8000/marwan/marwan/83118
+#EXTINF:-1,HINDI| DD BIHAR
+http://195.154.26.166:8000/marwan/marwan/83117
+#EXTINF:-1,HINDI| DD INDIA
+http://195.154.26.166:8000/marwan/marwan/83116
+#EXTINF:-1,HINDI| DD MADHYA PRADESH
+http://195.154.26.166:8000/marwan/marwan/83115
+#EXTINF:-1,HINDI| DD NATIONAL
+http://195.154.26.166:8000/marwan/marwan/83114
+#EXTINF:-1,HINDI| DD NEWS
+http://195.154.26.166:8000/marwan/marwan/83113
+#EXTINF:-1,HINDI| DD ORIYA
+http://195.154.26.166:8000/marwan/marwan/83112
+#EXTINF:-1,HINDI| DD SAPTAGIRI
+http://195.154.26.166:8000/marwan/marwan/83111
+#EXTINF:-1,HINDI| DD SPORTS
+http://195.154.26.166:8000/marwan/marwan/83110
+#EXTINF:-1,HINDI| DD UP
+http://195.154.26.166:8000/marwan/marwan/83109
+#EXTINF:-1,HINDI| DELHI AAJ TAK HD
+http://195.154.26.166:8000/marwan/marwan/83073
+#EXTINF:-1,HINDI| DESI CHANNEL
+http://195.154.26.166:8000/marwan/marwan/83075
+#EXTINF:-1,HINDI| DESI PLUS HD
+http://195.154.26.166:8000/marwan/marwan/83074
+#EXTINF:-1,HINDI| HARE KRISHNA HD
+http://195.154.26.166:8000/marwan/marwan/83064
+#EXTINF:-1,HINDI| HARE KRISHNA MUSIC
+http://195.154.26.166:8000/marwan/marwan/83063
+#EXTINF:-1,HINDI| HARE KRISHNA PRAVACHAN
+http://195.154.26.166:8000/marwan/marwan/83062
+#EXTINF:-1,HINDI| HUNGAMA AMRIT VANI HD
+http://195.154.26.166:8000/marwan/marwan/83072
+#EXTINF:-1,HINDI| HUNGAMA BHAKTI SAGAR HD
+http://195.154.26.166:8000/marwan/marwan/83071
+#EXTINF:-1,HINDI| HUNGAMA BOL HADIPPA HD
+http://195.154.26.166:8000/marwan/marwan/83070
+#EXTINF:-1,HINDI| HUNGAMA DIL SE HD
+http://195.154.26.166:8000/marwan/marwan/83069
+#EXTINF:-1,HINDI| HUNGAMA KADAK HITS HD
+http://195.154.26.166:8000/marwan/marwan/83068
+#EXTINF:-1,HINDI| HUNGAMA NAZRANA HD
+http://195.154.26.166:8000/marwan/marwan/83067
+#EXTINF:-1,HINDI| HUNGAMA POP PATAKA HD
+http://195.154.26.166:8000/marwan/marwan/83066
+#EXTINF:-1,HINDI| HUNGAMA SAKKAT HD
+http://195.154.26.166:8000/marwan/marwan/83065
+#EXTINF:-1,HINDI| NEWS 18 INDIA
+http://195.154.26.166:8000/marwan/marwan/83061
+#EXTINF:-1,HINDI| NEWS 18 MP & CHATTISGARH
+http://195.154.26.166:8000/marwan/marwan/83060
+#EXTINF:-1,HINDI| UTV ACTION
+http://195.154.26.166:8000/marwan/marwan/83059
+#EXTINF:-1,HINDI| UTV HD
+http://195.154.26.166:8000/marwan/marwan/83058
+#EXTINF:-1,HINDI| UTV MOVIES
+http://195.154.26.166:8000/marwan/marwan/83057
+#EXTINF:-1,HINDI| 1ST NEWS
+http://195.154.26.166:8000/marwan/marwan/80993
+#EXTINF:-1,HINDI| 9X JALWA
+http://195.154.26.166:8000/marwan/marwan/80992
+#EXTINF:-1,HINDI| 9XM
+http://195.154.26.166:8000/marwan/marwan/80991
+#EXTINF:-1,HINDI| ABP NEWS
+http://195.154.26.166:8000/marwan/marwan/80990
+#EXTINF:-1,HINDI| ADHYATM
+http://195.154.26.166:8000/marwan/marwan/80989
+#EXTINF:-1,HINDI| ANJAN TV
+http://195.154.26.166:8000/marwan/marwan/80988
+#EXTINF:-1,HINDI| APN NEWS
+http://195.154.26.166:8000/marwan/marwan/80987
+#EXTINF:-1,HINDI| ARIHANT
+http://195.154.26.166:8000/marwan/marwan/80986
+#EXTINF:-1,HINDI| ARYAN TV
+http://195.154.26.166:8000/marwan/marwan/80985
+#EXTINF:-1,HINDI| BFLIX MOVIES
+http://195.154.26.166:8000/marwan/marwan/80981
+#EXTINF:-1,HINDI| BHAKTI SAGAR 2
+http://195.154.26.166:8000/marwan/marwan/80980
+#EXTINF:-1,HINDI| BHARAT SAMACHAR
+http://195.154.26.166:8000/marwan/marwan/80979
+#EXTINF:-1,HINDI| BOX CINEMA
+http://195.154.26.166:8000/marwan/marwan/80978
+#EXTINF:-1,HINDI| CARE WORLD
+http://195.154.26.166:8000/marwan/marwan/80977
+#EXTINF:-1,HINDI| CLASSIC CINEMA HD
+http://195.154.26.166:8000/marwan/marwan/81018
+#EXTINF:-1,HINDI| DABANGG
+http://195.154.26.166:8000/marwan/marwan/80976
+#EXTINF:-1,HINDI| DANGAL
+http://195.154.26.166:8000/marwan/marwan/80975
+#EXTINF:-1,HINDI| DARSHAN 24
+http://195.154.26.166:8000/marwan/marwan/80974
+#EXTINF:-1,HINDI| DHAMAAL
+http://195.154.26.166:8000/marwan/marwan/80973
+#EXTINF:-1,HINDI| DILLAGIII
+http://195.154.26.166:8000/marwan/marwan/80972
+#EXTINF:-1,HINDI| DISCOVERY WORLD HD
+http://195.154.26.166:8000/marwan/marwan/81013
+#EXTINF:-1,HINDI| DISHA TV
+http://195.154.26.166:8000/marwan/marwan/80971
+#EXTINF:-1,HINDI| DIVYA TV
+http://195.154.26.166:8000/marwan/marwan/80970
+#EXTINF:-1,HINDI| DNN
+http://195.154.26.166:8000/marwan/marwan/81337
+#EXTINF:-1,HINDI| E24
+http://195.154.26.166:8000/marwan/marwan/80969
+#EXTINF:-1,HINDI| ENTERR 10
+http://195.154.26.166:8000/marwan/marwan/80968
+#EXTINF:-1,HINDI| EPIC HD
+http://195.154.26.166:8000/marwan/marwan/81012
+#EXTINF:-1,HINDI| ETC
+http://195.154.26.166:8000/marwan/marwan/80967
+#EXTINF:-1,HINDI| FIRANGI
+http://195.154.26.166:8000/marwan/marwan/80966
+#EXTINF:-1,HINDI| FM NEWS
+http://195.154.26.166:8000/marwan/marwan/80965
+#EXTINF:-1,HINDI| HINDI KHABAR
+http://195.154.26.166:8000/marwan/marwan/80964
+#EXTINF:-1,HINDI| HISTORY TV18 HD
+http://195.154.26.166:8000/marwan/marwan/81011
+#EXTINF:-1,HINDI| HOLIDAYZ
+http://195.154.26.166:8000/marwan/marwan/80963
+#EXTINF:-1,HINDI| HOUSEFULL ACTION
+http://195.154.26.166:8000/marwan/marwan/80962
+#EXTINF:-1,HINDI| HOUSEFULL MOVIES
+http://195.154.26.166:8000/marwan/marwan/80961
+#EXTINF:-1,HINDI| IBC 24 NEWS
+http://195.154.26.166:8000/marwan/marwan/80960
+#EXTINF:-1,HINDI| IND 24
+http://195.154.26.166:8000/marwan/marwan/80959
+#EXTINF:-1,HINDI| INDIA NEWS
+http://195.154.26.166:8000/marwan/marwan/80958
+#EXTINF:-1,HINDI| INDIA WATCH
+http://195.154.26.166:8000/marwan/marwan/80957
+#EXTINF:-1,HINDI| INDIAN FASHION TV
+http://195.154.26.166:8000/marwan/marwan/80956
+#EXTINF:-1,HINDI| INDOLOGY
+http://195.154.26.166:8000/marwan/marwan/80955
+#EXTINF:-1,HINDI| INH 24x7
+http://195.154.26.166:8000/marwan/marwan/80954
+#EXTINF:-1,HINDI| JINVANI CHANNEL
+http://195.154.26.166:8000/marwan/marwan/80953
+#EXTINF:-1,HINDI| K NEWS INDIA
+http://195.154.26.166:8000/marwan/marwan/80952
+#EXTINF:-1,HINDI| KAATYAYANI
+http://195.154.26.166:8000/marwan/marwan/80951
+#EXTINF:-1,HINDI| KALINGA TV
+http://195.154.26.166:8000/marwan/marwan/81331
+#EXTINF:-1,HINDI| CARTOON NETWORK HEVC
+http://195.154.26.166:8000/marwan/marwan/83028
+#EXTINF:-1,HINDI| KHABREIN ABHI TAK
+http://195.154.26.166:8000/marwan/marwan/80950
+#EXTINF:-1,HINDI| LIVING INDIA NEWS
+http://195.154.26.166:8000/marwan/marwan/80949
+#EXTINF:-1,HINDI| MANORANGAN TV
+http://195.154.26.166:8000/marwan/marwan/80948
+#EXTINF:-1,HINDI| MANORANJAN MUSIC
+http://195.154.26.166:8000/marwan/marwan/80947
+#EXTINF:-1,HINDI| MASTIII
+http://195.154.26.166:8000/marwan/marwan/80946
+#EXTINF:-1,HINDI| MTUNES PLUS
+http://195.154.26.166:8000/marwan/marwan/80945
+#EXTINF:-1,HINDI| MULTIPLEX
+http://195.154.26.166:8000/marwan/marwan/80944
+#EXTINF:-1,HINDI| MUSIC INDIA
+http://195.154.26.166:8000/marwan/marwan/80943
+#EXTINF:-1,HINDI| NAXATRA
+http://195.154.26.166:8000/marwan/marwan/81330
+#EXTINF:-1,HINDI| NETWORK 10
+http://195.154.26.166:8000/marwan/marwan/80942
+#EXTINF:-1,HINDI| NEWS 1 INDIA
+http://195.154.26.166:8000/marwan/marwan/80941
+#EXTINF:-1,HINDI| NEWS 30
+http://195.154.26.166:8000/marwan/marwan/80940
+#EXTINF:-1,HINDI| NEWS INDIA 24x7
+http://195.154.26.166:8000/marwan/marwan/80939
+#EXTINF:-1,HINDI| NEWS NATION
+http://195.154.26.166:8000/marwan/marwan/80938
+#EXTINF:-1,HINDI| NEWS STATE MP CHG
+http://195.154.26.166:8000/marwan/marwan/80937
+#EXTINF:-1,HINDI| NEWS STATE UP UK
+http://195.154.26.166:8000/marwan/marwan/80936
+#EXTINF:-1,HINDI| NEWS24
+http://195.154.26.166:8000/marwan/marwan/80935
+#EXTINF:-1,HINDI| OK INDIA
+http://195.154.26.166:8000/marwan/marwan/80934
+#EXTINF:-1,HINDI| PARAS GOLD
+http://195.154.26.166:8000/marwan/marwan/80933
+#EXTINF:-1,HINDI| PEACE OF MIND
+http://195.154.26.166:8000/marwan/marwan/80932
+#EXTINF:-1,HINDI| PRAMEYA NEWS 7
+http://195.154.26.166:8000/marwan/marwan/81329
+#EXTINF:-1,HINDI| REPUBLIC BHARAT
+http://195.154.26.166:8000/marwan/marwan/80931
+#EXTINF:-1,HINDI| RT NEWS
+http://195.154.26.166:8000/marwan/marwan/81336
+#EXTINF:-1,HINDI| SADHNA NATIONAL
+http://195.154.26.166:8000/marwan/marwan/80930
+#EXTINF:-1,HINDI| SADHNA PRIME NEWS
+http://195.154.26.166:8000/marwan/marwan/80929
+#EXTINF:-1,HINDI| SAHARA ALAMI
+http://195.154.26.166:8000/marwan/marwan/80928
+#EXTINF:-1,HINDI| SAHARA BIHAR
+http://195.154.26.166:8000/marwan/marwan/80927
+#EXTINF:-1,HINDI| SAHARA FILMY
+http://195.154.26.166:8000/marwan/marwan/80926
+#EXTINF:-1,HINDI| SAHARA MUM
+http://195.154.26.166:8000/marwan/marwan/80925
+#EXTINF:-1,HINDI| SAHARA NAT
+http://195.154.26.166:8000/marwan/marwan/80924
+#EXTINF:-1,HINDI| SAHARA NCR
+http://195.154.26.166:8000/marwan/marwan/80923
+#EXTINF:-1,HINDI| SAHARA ONE
+http://195.154.26.166:8000/marwan/marwan/80922
+#EXTINF:-1,HINDI| SAHARA UP
+http://195.154.26.166:8000/marwan/marwan/80921
+#EXTINF:-1,HINDI| SARV DHARM SANGAMINTELSAT
+http://195.154.26.166:8000/marwan/marwan/80920
+#EXTINF:-1,HINDI| SHAANDAAR CINEMA
+http://195.154.26.166:8000/marwan/marwan/80919
+#EXTINF:-1,HINDI| SHRI NAVGRAH TV
+http://195.154.26.166:8000/marwan/marwan/80918
+#EXTINF:-1,HINDI| SHUBH CINEMA
+http://195.154.26.166:8000/marwan/marwan/80917
+#EXTINF:-1,HINDI| SHUBH TV
+http://195.154.26.166:8000/marwan/marwan/80916
+#EXTINF:-1,HINDI| SKYSTAR BANGLA
+http://195.154.26.166:8000/marwan/marwan/80915
+#EXTINF:-1,HINDI| SKYSTAR MOVIES
+http://195.154.26.166:8000/marwan/marwan/80914
+#EXTINF:-1,HINDI| SKYSTAR TELUGU
+http://195.154.26.166:8000/marwan/marwan/80913
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/HINDI/New",HINDI| SOHAM
+http://195.154.26.166:8000/marwan/marwan/80912
+#EXTINF:-1,HINDI| SUDARSHAN NEWS
+http://195.154.26.166:8000/marwan/marwan/80910
+#EXTINF:-1,HINDI| SWADESH NEWS
+http://195.154.26.166:8000/marwan/marwan/80909
+#EXTINF:-1,HINDI| TEHZEEB TV
+http://195.154.26.166:8000/marwan/marwan/80907
+#EXTINF:-1,HINDI| TLC WORLD HD
+http://195.154.26.166:8000/marwan/marwan/80996
+#EXTINF:-1,HINDI| TRUE SPORTS
+http://195.154.26.166:8000/marwan/marwan/80906
+#EXTINF:-1,HINDI| TV9 BHARATVARSH
+http://195.154.26.166:8000/marwan/marwan/80905
+#EXTINF:-1,HINDI| VAA MOVIES
+http://195.154.26.166:8000/marwan/marwan/80904
+#EXTINF:-1,HINDI| WOW
+http://195.154.26.166:8000/marwan/marwan/80903
+#EXTINF:-1,HINDI| WOW CINEMA ONE
+http://195.154.26.166:8000/marwan/marwan/80902
+#EXTINF:-1,HINDI| ZEE BIHAR JHARKHAND
+http://195.154.26.166:8000/marwan/marwan/80901
+#EXTINF:-1,HINDI| ZEE HINDUSTAN
+http://195.154.26.166:8000/marwan/marwan/80900
+#EXTINF:-1,HINDI| ZEE MP CHHATTISGARH
+http://195.154.26.166:8000/marwan/marwan/80899
+#EXTINF:-1,HINDI| ZEE NEWS
+http://195.154.26.166:8000/marwan/marwan/80898
+#EXTINF:-1,HINDI| ZEE RAJASTHAN NEWS
+http://195.154.26.166:8000/marwan/marwan/80897
+#EXTINF:-1,HINDI| ZING
+http://195.154.26.166:8000/marwan/marwan/80896
+#EXTINF:-1,HINDI| BTL INDIA
+http://195.154.26.166:8000/marwan/marwan/82007
+
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",=====|PUNJABI| ASIA |=====
+http://195.154.26.166:8000/marwan/marwan/75308
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| BIG MAGIC HD
+http://195.154.26.166:8000/marwan/marwan/83178
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| CHARDIKLA TIMES TV
+http://195.154.26.166:8000/marwan/marwan/83177
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| GARV GURBANI HD
+http://195.154.26.166:8000/marwan/marwan/83175
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| GARV PUNJABI INDIA
+http://195.154.26.166:8000/marwan/marwan/83174
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| GAUNDA PUNJAB HD
+http://195.154.26.166:8000/marwan/marwan/83173
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| GLOBAL PUNJAB HD
+http://195.154.26.166:8000/marwan/marwan/83172
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| HUNGAMA AMRIT VANI HD
+http://195.154.26.166:8000/marwan/marwan/83171
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| INDIA NEWS PUNJAB
+http://195.154.26.166:8000/marwan/marwan/83170
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| JUS 24x7
+http://195.154.26.166:8000/marwan/marwan/83169
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| JUS ONE
+http://195.154.26.166:8000/marwan/marwan/83168
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| JUS PUNJABI INDIA HD
+http://195.154.26.166:8000/marwan/marwan/83167
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| NEWS 18 PUNJAB HARYANA
+http://195.154.26.166:8000/marwan/marwan/83166
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PBN MUSIC
+http://195.154.26.166:8000/marwan/marwan/83165
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PITAARA TV
+http://195.154.26.166:8000/marwan/marwan/83164
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PRIME ASIA HD
+http://195.154.26.166:8000/marwan/marwan/83162
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PRIME ASIA HEVC
+http://195.154.26.166:8000/marwan/marwan/83163
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| SSTV HD
+http://195.154.26.166:8000/marwan/marwan/83161
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| TOHAR TV HD
+http://195.154.26.166:8000/marwan/marwan/83160
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| ZEE PUNJAB HH
+http://195.154.26.166:8000/marwan/marwan/81234
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| AAHO MUSIC
+http://195.154.26.166:8000/marwan/marwan/81247
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| BALLE BALLE NON-STOP MUSIC
+http://195.154.26.166:8000/marwan/marwan/81246
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| CHARDIKLA TIME
+http://195.154.26.166:8000/marwan/marwan/81245
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| FATEH TV
+http://195.154.26.166:8000/marwan/marwan/81244
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| FRONTIER TV
+http://195.154.26.166:8000/marwan/marwan/81243
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| GULISTAN NEWS
+http://195.154.26.166:8000/marwan/marwan/81242
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| INDIAN NEWS PUNJABI
+http://195.154.26.166:8000/marwan/marwan/81241
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| MH1
+http://195.154.26.166:8000/marwan/marwan/81240
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| MH1 NEWS
+http://195.154.26.166:8000/marwan/marwan/81239
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| MH1 SHARDHA
+http://195.154.26.166:8000/marwan/marwan/81238
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PITAARA
+http://195.154.26.166:8000/marwan/marwan/81237
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC CHAK DE
+http://195.154.26.166:8000/marwan/marwan/81233
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC MUSIC
+http://195.154.26.166:8000/marwan/marwan/81236
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC NEWS
+http://195.154.26.166:8000/marwan/marwan/81232
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC PUNJABI
+http://195.154.26.166:8000/marwan/marwan/81231
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC PUNJABI GOLD
+http://195.154.26.166:8000/marwan/marwan/81230
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| PTC SIMRAN
+http://195.154.26.166:8000/marwan/marwan/81229
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi/New",PUN| T TV
+http://195.154.26.166:8000/marwan/marwan/81235
+
+
 #EXTM3U url-tvg="http://free.cloudepg.com:34444/xmltv/xteve.xml" x-tvg-url="http://free.cloudepg.com:34444/xmltv/xteve.xml"
 #EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="HGTV HD" tvg-id="1000" tvg-logo="https://i.imgur.com/2vQ8yIX.png" group-title="USA/New",HGTV HD
 http://free.cloudepg.com:34444/stream/0ab73cd002c3c8abcf894271d3d77066
