@@ -1,6 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Sony Six
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/193
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Sony ESPN
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/4191
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Willow Cricket
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/198
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Star Sports Select 2
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/200
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Star Sports 2 HD
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/202
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Ten 1
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/4193
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Ten 2
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/4194
+#EXTINF:-1 tvg-id="id N/A" group-title="India/Sports",IN: Ten 3
+http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/4195
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IND/New",HINDI: DESI PLUS
 http://sansat.net:25461/olivier3/olivier4/43834
@@ -1124,6 +1141,8 @@ http://sansat.net:25461/olivier3/olivier4/46546
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Brit Asia
+https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0500/c.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Prime Canada TV
