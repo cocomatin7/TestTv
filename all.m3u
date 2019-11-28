@@ -112,6 +112,12 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",US: National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-
-
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="English",National GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="English",National GEO Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
