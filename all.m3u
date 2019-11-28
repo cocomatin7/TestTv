@@ -20,16 +20,6 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Punjabi Tv
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PunjabiTvCanada
-http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: P Tunes
-https://streamer.multitvsolution.in/PTunes-d/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  SteelBird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Punjabi TadkaMusic
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan MobileOnly
@@ -48,22 +38,13 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Chanenl Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Jus Hindi
-http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTC News
-http://nitro.ltd:25461/Harmon/Harmon/38913
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  SSTV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Kabaddi365 TV
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari Music
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies 2
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
@@ -101,14 +82,8 @@ http://pockettv.xyz/api/zee.m3u8?c=action
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
 
-
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English",US: National Geographic HD 1
-http://213.252.252.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/English",US: National Geographic HD 2
+#EXTINF:-1 tvg-id="id N/A" group-title="English",US: National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 1
