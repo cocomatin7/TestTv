@@ -18,6 +18,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Brit Asia
 https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0500/c.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan Mobile Only
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Fastway Ent
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
@@ -28,8 +30,6 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Punjabi TadkaMusic
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan MobileOnly
-http://pockettv.xyz/api/zee.m3u8?c=9xtashan
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  JattTV (HQ)
@@ -48,6 +48,12 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari Music
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
+http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="IN/Punjabi",IN: MOB Zee Punjabi
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
+
+
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
