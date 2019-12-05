@@ -6,7 +6,7 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",MLB HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",WWE NETWORK HD
 http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1720
 #EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",Willow Cricket HD
@@ -233,6 +233,100 @@ http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1851
 http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1852
 #EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",YES SPORT 5 PLUS
 http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1853
+#EXTM3U
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ABC
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1821
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| USA Network
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1727
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| CNN HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1819
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Fox News HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1774
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| MSNBC FHD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1750
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| CNBC
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1796
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| BLOOMBERG TV
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1811
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| The Weather Channel
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1733
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| FX TV HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1763
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| MoreMax HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1751
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ACTIONMAX HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1815
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| TNT HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1731
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| HBO
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1755
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| HBO COMEDY HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1757
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| HBO FAMILY HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1818
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| HALLMARK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1758
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| beINSPORT US
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1820
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ESPN
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1784
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ESPN 2HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1783
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ESPN Deportes
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1781
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ESPNEWS
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1779
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ESPN U HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1780
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| BTN
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1808
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Tennis Channel HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1734
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| WWE HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1720
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| NBA
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1747
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| NFL NETWORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1726
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| BRAVO
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1809
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| HGTV
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1817
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| FXX
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1762
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| SPIKE TV HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1738
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Syfy HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1735
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| TLC HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1732
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| DIY Network
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1785
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| TBS
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1816
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| ANIMAL PLANET HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1833
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| NAT GEO WILD HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1748
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| NAT GEO
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1749
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| DISCOVERY  HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1791
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| DISCOVERY SC HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1789
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| H2
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1759
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Travel Channel
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1730
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| FOOD NETWORK
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1776
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Disney Channel FHD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1787
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| Nick
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1745
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",|USA| VH1 FHD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1723
+
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Shan Punjabi
