@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="ports",IN: DSports Hindi HD
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports Hindi HD
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
