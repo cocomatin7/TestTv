@@ -3,12 +3,12 @@
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports Hindi HD
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports Test
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports English
 http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports Test 2
-http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/7893.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports Test 3
-https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STAR SPORTS 2 HD
+http://pie.buzz:83/InVisiontV132/Yaushyc235/91940
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STARSPORT 1
+http://163.172.29.246:8081/globe/starsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Shan Punjabi
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
