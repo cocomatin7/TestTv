@@ -3,12 +3,36 @@
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports Hindi HD
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports English
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports English LQ
 http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STAR SPORTS 2 HD
-http://pie.buzz:83/InVisiontV132/Yaushyc235/91940
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STARSPORT 1
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STARSPORT 1 LQ
 http://163.172.29.246:8081/globe/starsports1/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX
+https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN:Sony Ten 2 
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
+https://sony247channels.akamaized.net/hls/live/2008244/SonySIXHD/hdntl=exp=1575744346~acl=%2f*~data=hdntl~hmac=3ca39d37fbce8b2234f50cb8662866c3e294324d26d85c5157e502a1be4a5946/master_2128.m3u8
+EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png", ESPN 
+https://sony247channels.akamaized.net/hls/live/2008244/SonyESPNHD/hdntl=exp=1575744691~acl=%2f*~data=hdntl~hmac=db4c34948d5d59c86548d60137d01c498798a757ad02c1ccba11d066fd86a7cc/master_2128.m3u8
+#EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports 1 HD
+http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 1
+http://109.169.56.170/hls/starsportsselect1.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 2
+http://109.169.56.170/hls/starsportsselect2.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Shan Punjabi
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
