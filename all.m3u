@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",UK: SKY SPORTS CRICKET FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547785.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",UK: PREMIER SPORTS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547756.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",US: Bein Sports
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1820
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports Hindi HD
