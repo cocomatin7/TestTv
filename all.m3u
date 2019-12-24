@@ -38,8 +38,14 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: MH1 Music
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32527.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan Mobile Only
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: BBC toronto
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23422.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PBN
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23793.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Fastway Ent
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
@@ -64,8 +70,12 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Chanenl Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Mh1 News
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23390.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  ABP News
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32533.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari Music
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
@@ -118,6 +128,8 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="English",Fail Army
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18941.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 2
@@ -152,3 +164,254 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",USA: &Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: USA Network
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57890.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: UFC Fight pass
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57761.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MSNBC
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56577.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: FXX
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57894.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ABC HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57891.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: WWE HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55730.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: WEATHERNATION
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55719.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: VIP: BAYERN FC TV FHD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55795.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TSN 4 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55678.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TSN 3*
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55679.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TNT HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55743.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TLC HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55731.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HBO HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/59020.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Tennis Channel HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55757.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TBS HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55683.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Starz Etas
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55759.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Starz Encore
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55758.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: STARZ EDGE HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55660.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Starz Comedy
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55760.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Starz Cinema
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55761.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Sportsnet 360 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55682.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: SPIKE HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55661.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: SHOWTIME HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55763.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Showtime 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55764.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: SEC Network
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55684.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: PAC-12 Washington
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55732.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: PAC-12 Oregon
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55733.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: PAC-12 Los Angeles
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55734.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: PAC-12 Arizona
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55736.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: OWN HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55794.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: OUTDOOR CHANNEL HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55710.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NICKELODEN HD(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55697.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NICKELODEN HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55662.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NHL Network(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55685.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NFL REDZONE SD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55781.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NFL Network HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55737.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NFL Network 1080i
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55780.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax ActionMax East
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58260.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NFL Network 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55698.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NEWSMAX YT LIVE HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55784.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NBC Golf
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55746.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NBC
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55713.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MY9 TV
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55716.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MTV HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55801.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MSNBC HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55686.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MSG HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55728.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Lifetime Movie Network HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55727.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ION Television East HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55726.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HISTORY HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55748.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HBO Signature
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55767.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HBO Comedy
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55770.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HALLMARK
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55665.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: H2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55666.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: GRIT TV Movies
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55791.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: FX HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55667.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fox SPORTS 506 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55688.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fox Sports 2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55739.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Food Network HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55669.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fight HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55772.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN News US HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55724.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55750.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55690.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55741.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DIY Network
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55670.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Disney XD HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55788.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Discovery Science HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55671.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DISCOVERY HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55774.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: COMEDY CENTRAL HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55752.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNN US HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55723.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNN HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55691.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax East HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55702.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax East
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55672.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CINEMAX ACTION HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55692.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax 5 StarMax
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55674.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CBSN HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55776.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CBS Sports Network HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55798.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CBS
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55753.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CARTOON NETWORK
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55777.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CA | TSN 5*
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55677.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CA | TSN 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55680.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: C-Span 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55694.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Bloomberg TV
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55714.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Bloomberg Europe
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55699.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Bein Sports USA HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55675.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ANIMAL PLANET HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55696.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: AMERICAN HEROES CHANNEL
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55789.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: AMC HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55779.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ABC NEWS HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55755.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: A&E HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55742.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US:   NBA TV HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55765.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Yes Network
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55816.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: WWE HD backup
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55834.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: WGN America HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55818.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: USA Network HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55802.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TSN 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55806.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: THE FLORIDA CHANNEL
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55815.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: SYFY HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55822.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: PAC-12 Bay Area
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55819.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: NBCSNHD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55820.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: National Geographic
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55803.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MTV Rocks
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55814.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MLB Network
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55807.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Investigation Discovery
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55823.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HGTV HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55813.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: HBO Zone
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55827.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fox Sports 1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55821.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fox sport 1 backup
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55835.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: FOX NEWS HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55824.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fox HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55830.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Fine Living
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55812.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: FIGHT SPORT
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55805.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN U HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55817.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: E!
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55837.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DISNEY JR HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55832.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Discovery Channel
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55831.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DESTINATION AMERICA
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55836.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CW HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55825.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNN HD *
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55833.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNBC
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55829.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax MoreMax
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55811.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: C-Span 3
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55808.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: C-Span 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55809.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: BRAVO HD(1)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55826.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Boomerang
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55810.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="US/New",USA: DW
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55773.ts
