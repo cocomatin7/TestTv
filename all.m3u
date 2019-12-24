@@ -84,6 +84,10 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=punjabi
 
 
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY Tv UK
+http://209.222.97.118:25461/live/Dave123/dave123/7067.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Gold UK
+http://209.222.97.118:25461/live/Dave123/dave123/7069.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD
