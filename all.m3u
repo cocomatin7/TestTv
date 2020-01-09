@@ -1,57 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",UK: SKY SPORTS CRICKET FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547785.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",UK: PREMIER SPORTS FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547756.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",US: Bein Sports
 http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1820
+#EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports Hindi HD
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: Star Sports English LQ
-http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: STARSPORT 1 LQ
-http://163.172.29.246:8081/globe/starsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN:Sony Ten 2 
-http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports 1 HD
-http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 1
 http://109.169.56.170/hls/starsportsselect1.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 2
 http://109.169.56.170/hls/starsportsselect2.m3u8
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Shan Punjabi
-http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
+
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SSTV 
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Tv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: MH1 Music
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32527.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 9X Tashan Mobile Only
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: BBC toronto
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23422.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PBN
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23793.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Fastway Ent
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
@@ -64,8 +39,6 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  JattTV (HQ)
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Boogle Bollywood
@@ -76,12 +49,8 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Chanenl Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Mh1 News
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23390.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  ABP News
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/32533.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari Music
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
@@ -90,10 +59,6 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=punjabi
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: SONY Tv UK
-http://209.222.97.118:25461/live/Dave123/dave123/7067.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Star Gold UK
-http://209.222.97.118:25461/live/Dave123/dave123/7069.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony HD
@@ -104,20 +69,6 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Hungama Digital Network
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Zee ETC
-http://pockettv.xyz/api/zee.m3u8?c=etc
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob 9XM
-http://pockettv.xyz/api/zee.m3u8?c=9xm
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zing
-http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTvHD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob ZeeTV US
@@ -134,12 +85,23 @@ http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 http://pockettv.xyz/api/zee.m3u8?c=action
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Hungama Digital Network
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob Zee ETC
+http://pockettv.xyz/api/zee.m3u8?c=etc
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Mob 9XM
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Fail Army
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18941.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 2
@@ -177,10 +139,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: USA Network
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57890.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: UFC Fight pass
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57761.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: MSNBC
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56577.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: FXX
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57894.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ABC HD
@@ -191,10 +149,6 @@ http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55730.ts
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55719.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: VIP: BAYERN FC TV FHD
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55795.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TSN 4 HD
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55678.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TSN 3*
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55679.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TNT HD
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55743.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: TLC HD
@@ -399,762 +353,7 @@ http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55812.ts
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55805.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: ESPN U HD
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55817.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: E!
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55837.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DISNEY JR HD
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55832.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Discovery Channel
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55831.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: DESTINATION AMERICA
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55836.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CW HD
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55825.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNN HD *
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55833.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: CNBC
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55829.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Cinemax MoreMax
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55811.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: C-Span 3
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55808.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: C-Span 1
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55809.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: BRAVO HD(1)
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55826.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",US: Boomerang
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55810.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="US/New",USA: DW
-http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55773.ts
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 4MUSIC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6796.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 4SEVEN FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4244.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 4SEVEN | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6797.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 5 USA | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6799.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 5SELECT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: 5SPIKE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6802.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: AAJ TAK | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6803.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: AL ARABIYA | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6804.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ALIBI FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4193.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ALIBI | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6805.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: AMC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6806.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ALIBI 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6808.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ALIBI | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6809.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ANIMAL PLANET 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6810.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ANIMAL PLANET FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4194.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ANIMAL PLANET | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6812.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 1 LONDON | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6815.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 1 NORTH WEST | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6818.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 1 NORTHERN IRELAND | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6819.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 1 SCOTLAND | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6821.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 1 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6824.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC TWO FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4196.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 2 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6828.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC FOUR FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4197.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC 4 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6829.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC NEWS FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4198.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC NEWS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6831.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC ONE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4195.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC PARLIAMENT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6834.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BLOOMBERG FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4199.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC SCOTLAND | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6835.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC TWO ENGLAND | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6836.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BABY TV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6839.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BLAZE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6840.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BOOMERANG +1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6841.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BOOMERANG | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6842.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BOX HITS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6843.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BOX NATION | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6845.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BOX UPFRONT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6846.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBBC FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4202.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBBC | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6848.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBEEBIES FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4201.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBS DRAMA | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6849.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBS JUSTICE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6850.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBS REALITY 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6851.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBS REALITY | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6852.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CITV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6853.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CNN | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6854.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CARTOON NETWORK | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6858.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CARTOONITO | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6859.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBEEBIES | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6860.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CHALLENGE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6861.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CHANNEL 4 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6864.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CHANNEL 5 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4204.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CHANNEL 5 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6867.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CHART SHOW TV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6869.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CLUBLAND TV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6870.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: COMEDY CENTRAL 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6872.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: COMEDY CENTRAL FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4205.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: COMEDY CENTRAL | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6873.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: COMEDYXTRA 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6875.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CRIME & INVESTIGATION FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4206.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CRIME & INVESTIGATION | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6878.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DMAX 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6881.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DMAX | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6882.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DEJA VU | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6883.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DAVE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4207.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DAVE | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6885.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6886.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY HISTORY 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6887.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY HISTORY | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6888.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY SCIENCE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6889.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY SHED | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6890.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY TURBO | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6892.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISCOVERY | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6895.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISNEY JR | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6898.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DISNEY XD | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6899.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DRAMA | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6900.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: E! FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4208.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: E! | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6901.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: E4 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4209.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EDEN FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4210.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EDEN | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6905.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EURO NEWS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6906.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EUROSPORT 1 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7416.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EUROSPORT 2 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7417.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FREESPORTS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6909.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FILM 4 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4211.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FILM 4 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6911.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FOOD NETWORK | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6913.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FOX FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4212.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: FOX | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6915.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: GLOBAL HITS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6918.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: GOLD 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6920.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: GOLD FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4213.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: GOLD | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6922.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: H2 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4214.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: H2 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6924.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HISTORY FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4215.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HISTORY | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6928.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HOME & HEALTH 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6929.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HOME & HEALTH | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6930.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HOME | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6931.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HORROR CHANNEL 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6932.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HORROR CHANNEL | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6933.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ID 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6934.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ID | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6935.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV1 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4216.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV 1 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6936.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV2 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4217.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV3 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4218.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV 3 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6939.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV4 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4219.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV 4 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6942.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITVBe FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4220.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV GRANADA | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6944.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6947.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITVBE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6948.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: KISS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6950.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: KEEP IT COUNTRY | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6952.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: KERRANG | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6953.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: LFC TV | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6954.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: LIFETIME FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4221.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: LIFETIME | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6957.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: LOVE NATURE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4222.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6959.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV BASE | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6960.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV CLASSIC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6961.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV CLUB | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6962.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV HITS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6963.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV LIVE | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6965.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV MUSIC 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6966.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV MUSIC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6967.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV ROCKS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6969.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4224.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MTV | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6971.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MUTV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6972.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MAGIC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6973.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MORE4 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4223.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MORE 4 | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6975.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MOVIES4MEN 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6976.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: MOVIES4MEN | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6977.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NOW 90'S | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6979.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NAT GEO WILD FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4227.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NATIONAL GEOGRAPHIC WILD | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6981.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NAT GEO FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4226.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NATIONAL GEOGRAPHIC | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6983.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICK JR 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6984.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICK JR TOO | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6985.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICK JR | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6986.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICK FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4228.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICK | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/6988.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICKELODEON | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6989.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: NICKTOONS | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6990.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: POP 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6994.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: POP MAX | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6996.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: POP | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6997.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: PARAMOUNT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/6999.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: PARAMOUNT FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4229.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: PICK | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7001.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: QUEST RED | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7005.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: QUEST FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4230.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: QUEST | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7007.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: RTE 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7008.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: RTE JR | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7010.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: RTE NEWS |HD
-http://209.222.97.118:25461/live/Dave123/dave123/7011.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: REAL LIVES | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7013.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: REALLY | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7014.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: STV | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7018.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SYFY | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7021.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7025.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY 2 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7026.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY ARTS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7028.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY ATLANTIC FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4233.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY ATLANTIC | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7030.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA ACTION & ADVENTURE | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7032.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA ACTION | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7033.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA DISNEY | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7037.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA  ROMANCE | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7039.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA DRAMA | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7040.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA FAMILY | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7042.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA GREATS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7044.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA PREMIER | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7048.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA SCI-FI | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7050.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA SCIFI & HORROR | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7051.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA SELECT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7053.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CINEMA THRILLER | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7055.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY CRIME FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4234.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY NEWS
-http://209.222.97.118:25461/live/Dave123/dave123/5555.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY NEWS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7058.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY ONE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4231.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY ONE | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7059.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY WITNESS FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4232.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SKY WITNESS | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7062.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SONY CRIME | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7063.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SONY TV | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7067.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: STAR GOLD | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7069.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: STARZ TV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7071.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: STV FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4236.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: SYFY FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4237.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TCM FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4238.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TCM | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7073.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TLC FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4239.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TLC | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7077.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TALKING PICTURES TV | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7078.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: THE VAULT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7080.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TINY POP | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7082.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TOGETHER | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7083.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TRAVEL CHANNEL | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7084.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TRUE ENTERTAINMENT | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7085.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: TRUE MOVIES 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7086.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: UNIVERSAL 1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7089.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: UNIVERSAL FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4241.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: UNIVERSAL | UHD
-http://209.222.97.118:25461/live/Dave123/dave123/7091.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: UTV FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4240.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: VH1 | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7092.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: W FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4242.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: WATCH | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7093.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: YESTERDAY | HD
-http://209.222.97.118:25461/live/Dave123/dave123/7096.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ZOO MOO FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4243.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BOX NATION HD 50Fps
-http://209.222.97.118:25461/live/Dave123/dave123/4070.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 1 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4063.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 1 FHD 50Fps
-http://209.222.97.118:25461/live/Dave123/dave123/4062.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 2 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4065.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 2 FHD 50Fps
-http://209.222.97.118:25461/live/Dave123/dave123/4064.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 3 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4067.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS 3 FHD 50Fps
-http://209.222.97.118:25461/live/Dave123/dave123/4066.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS ESPN FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4069.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS ESPN FHD 50Fps
-http://209.222.97.118:25461/live/Dave123/dave123/4068.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 1
-http://209.222.97.118:25461/live/Dave123/dave123/4071.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 2
-http://209.222.97.118:25461/live/Dave123/dave123/4072.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 3
-http://209.222.97.118:25461/live/Dave123/dave123/4073.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 4
-http://209.222.97.118:25461/live/Dave123/dave123/4074.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 5
-http://209.222.97.118:25461/live/Dave123/dave123/4075.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 6
-http://209.222.97.118:25461/live/Dave123/dave123/4076.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",BT SPORTS EXTRA 7
-http://209.222.97.118:25461/live/Dave123/dave123/4077.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS ACTION FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4084.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS ARENA FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4085.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS F1 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4083.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS FOOTBALL FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4080.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS GOLF FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4082.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS MAIN EVENT FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4078.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS MIX FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4086.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS PREMIER LEAGUE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4079.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",SKY SPORTS RACING FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4087.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",RUSH SPORTS 01: TBD
-http://209.222.97.118:25461/live/Dave123/dave123/7574.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: alazeera  qatar
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18841.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Arise News TV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/22077.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC CBEEBIES
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25095.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: BBC scotland
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25096.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: bloombergh
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23663.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: CBSN
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18903.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: DW
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/14231.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: EWTN UK
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23654.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Faith World TV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23653.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Flow Sports
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19299.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: GOD
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/16934.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: HD Fashion
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18118.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV 3
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25092.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: ITV 4
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25093.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Keep It Country TV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23660.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Loveworld TV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23205.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: pbs america
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25094.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Peace TV English
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23647.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: pop
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23672.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: Revelation TV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/23658.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: RT UK
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/19338.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: sony action
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/27365.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: STB
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25098.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",UK: UTV
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/25099.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC 1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547694.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC 2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547695.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC 3/CBBC FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547696.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC FHD 4/CBEEBIES
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547697.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ITV FHD 2
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547740.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ITV 2 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547846.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ITV 3 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547848.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ITV 4 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547850.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ITV Be HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547851.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| CHANNEL 4 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547806.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| CHANNEL 5 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547708.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| CHANNEL 5 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547808.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| 4 SEVEN SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547906.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FILM 4 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547728.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FILM 4 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547830.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| CNN FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547712.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FRANCE 24 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547730.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC NEWS SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547915.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC WORLD NEWS SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547922.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC ONE HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547916.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC TWO (SCOTLAND) SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547921.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BBC FOUR HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547914.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| GOOD FOOD HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547837.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FOOD NETWORK HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547832.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| LIVING SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547853.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| NICK JR SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547858.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| NICK FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547754.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| DISNEY CHANNEL FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547713.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS PREMIER LEAGUE FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547790.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS PREMIER LEAGUE HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547895.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS GOLF HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547891.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS FOOTBALL FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547787.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS F1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547786.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS F1 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547889.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS CRICKET FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547785.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS CRICKET SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547888.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS RACING HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547896.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS ARENA FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547784.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY SPORTS ACTION HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547885.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BT SPORT 2 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547928.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| BT SPORT 2 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547929.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| PREMIER SPORTS 2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547757.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FREE SPORTS FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547731.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| EUROSPORTS 1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547721.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| CBS DRAMA SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547932.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ANIMAL PLANET HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547911.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY MOVIES THRILLER HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547882.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY MOVIES SCI-FI & HORROR HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547881.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY MOVIES PREMIER HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547880.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY MOVIES FAMILY HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547879.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY MOVIES ACTION & ADVENTURE SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547875.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY DRAMA HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547872.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY 2 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547869.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| NAT GEO HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547857.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| MOVIES4MEN SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547855.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| MORE 4 SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547854.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| HISTORY CHANNEL SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547840.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FOX HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547833.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| EUROSPORT 2 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547829.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| DISCOVERY SCIENCE SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547817.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| DAVE SD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547814.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| ZOOMOO FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547805.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| UTV FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547800.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| TLC FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547799.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| TG 4 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547798.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| TCM FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547797.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| SKY ONE FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547777.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| QUEST FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547758.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| NAT GEO WILD FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547753.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| MTV FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547750.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| E! ENTERTAINMENT FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547747.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| LFC FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547746.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| H2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547737.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| FOX FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547729.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| DISCOVERY FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547718.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| COLORS FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547711.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",|UK| RTE TWO HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575547867.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",QUEST
-http://46.69.115.7:9981/stream/channelid/1452529506?ticket=C379700B29697BFB3CE59AA742764A9061FCFF8B&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",QVC
-http://46.69.115.7:9981/stream/channelid/868375204?ticket=94290DA4F1430A5604DFB5B6EEC88C508669D81D&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Drama
-http://46.69.115.7:9981/stream/channelid/515924745?ticket=3521EC6ADE22D9C38081AE38B35A5B22ADDF2F89&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",5 USA
-http://46.69.115.7:9981/stream/channelid/2129962516?ticket=89560410F7A0A6BBA30DC75FA9CBA726724D59BA&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",ITVBe
-http://46.69.115.7:9981/stream/channelid/919429402?ticket=FD6305B59FB579422C28B4A26F582F3A50B02EFE&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",ITV2 +1
-http://46.69.115.7:9981/stream/channelid/529413214?ticket=B224341E481EA3DF7E05DE47E374FDD4F88ECC39&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",5STAR
-http://46.69.115.7:9981/stream/channelid/723383649?ticket=ED786F8DBA73817E06A59DFFB45A551CFF5E64EE&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Channel 5+1
-http://46.69.115.7:9981/stream/channelid/585736003?ticket=EC79C62887305EFF5614F8F1991DB0DBD85FB93E&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Paramount Network
-http://46.69.115.7:9981/stream/channelid/1581339606?ticket=9975DB5FC7B1B347D14C76FE2A8C6D4B9F9D1452&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",5SELECT
-http://46.69.115.7:9981/stream/channelid/2065776211?ticket=D305821422EAFF49975D9EA19ACF1163A467A5C3&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Blaze
-http://46.69.115.7:9981/stream/channelid/1981791083?ticket=6FC123F575C747E66561DA9E9B51011AFF6117AB&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",CBS Reality
-http://46.69.115.7:9981/stream/channelid/1659062003?ticket=BCF558839BB6D1F338D10E81492E89E59F286EA4&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Horror Channel
-http://46.69.115.7:9981/stream/channelid/475329569?ticket=19A495374D57E120981ACB552F9A2F17E9CD9FD3&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Hochanda
-http://46.69.115.7:9981/stream/channelid/1900786088?ticket=B7E4B4D1A5D0C3B9DA83FCCD6F0F202DFC57E42E&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",CITV
-http://46.69.115.7:9981/stream/channelid/1585671521?ticket=CACAA00AD54070C3979E193CDED1A1322161BCDE&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Capital
-http://46.69.115.7:9981/stream/channelid/428981675?ticket=28EAC1008D6798C022229DA404AAD56CF6068E34&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Absolute Radio
-http://46.69.115.7:9981/stream/channelid/1069281111?ticket=9336604224BF6AAD63B70514C1469CBCFD63077C&profile=pass
-#EXTINF:-1 tvg-id="id N/A" group-title="UK/New",Heart
-http://46.69.115.7:9981/stream/channelid/1526433184?ticket=B8FA6F640AA6AF484261D0BE2D5D6FC76FB4374E&profile=pass
