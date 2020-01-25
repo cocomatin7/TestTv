@@ -3,8 +3,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: WWE Sony Liv
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",US: Bein Sports
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1820
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
@@ -120,6 +118,10 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony LQ
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony SD
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
+https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Khadak (Movies)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies (Movies)
