@@ -89,4 +89,103 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="English",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| USA Network
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1727
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| CNN HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1819
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Fox News HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1774
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| MSNBC FHD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1750
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| CNBC
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1796
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BLOOMBERG TV
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1811
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN 3
+http://185.23.213.162:8789/live/ania/ania/24103.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| The Weather Channel
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1733
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FX TV HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1763
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| MoreMax HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1751
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ACTIONMAX HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1815
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TNT HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1731
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1755
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO COMEDY HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1757
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO FAMILY HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1818
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO SIGNATURE HD
+http://185.23.213.162:8789/live/ania/ania/24127.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HALLMARK HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1758
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| beINSPORT US
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1820
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1784
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN 2HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1783
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN Deportes
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1781
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPNEWS
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1779
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN U HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1780
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BTN
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1808
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Tennis Channel HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1734
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| WWE HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1720
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NBA 1  MATCH EVENT
+http://185.23.213.162:8789/live/ania/ania/24090.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NFL NETWORK HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1726
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BRAVO
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1809
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HGTV
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1817
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FXX
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1762
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| GSN FHD
+http://185.23.213.162:8789/live/ania/ania/24045.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| SPIKE TV HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1738
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Syfy HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1735
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TLC HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1732
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Viceland
+http://185.23.213.162:8789/live/ania/ania/24041.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| DIY Network
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1785
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FREEFROM
+http://185.23.213.162:8789/live/ania/ania/24039.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TBS
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1816
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| SBTN
+http://185.23.213.162:8789/live/ania/ania/24037.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ANIMAL PLANET HD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1833
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| H2
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1759
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Travel Channel
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1730
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FOOD NETWORK
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1776
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Disney Channel FHD
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1787
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Nick
+http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1745
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NICKTOONS
+http://185.23.213.162:8789/live/ania/ania/24021.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/23452.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 2 FHD
+http://185.23.213.162:8789/live/ania/ania/23451.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 3 FHD
+http://185.23.213.162:8789/live/ania/ania/23450.m3u8
