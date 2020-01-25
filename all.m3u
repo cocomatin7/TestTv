@@ -117,7 +117,7 @@ https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/81.ts
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.com/news-photo/98204-xplore.jpg?format=webp&w=1100" group-title="IN/Hindi",IN: &Xplor HD (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1409.ts
-#EXTINF:-1 tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="IN/Hindi",IN: &Pictures HD (Movies)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/%26pictures.png/revision/latest?cb=20190711112804" group-title="IN/Hindi",IN: &Pictures HD (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/74.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest/scale-to-width-down/340?cb=20190708144149" group-title="IN/Hindi",IN: B4U Khadak (Movies)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
