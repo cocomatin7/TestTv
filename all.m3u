@@ -1,15 +1,21 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: WWE Sony Liv
+https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",US: Bein Sports
 http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1820
 #EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Sony Six 
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports 1 
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 1
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports Select 1
 http://109.169.56.170/hls/starsportsselect1.m3u8
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 2
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports Select 2
 http://109.169.56.170/hls/starsportsselect2.m3u8
 
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="101"  tvg-name="PTC News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png", PTC News
@@ -114,9 +120,11 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony LQ
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Khadak (Movies)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now (Movies)
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English",America's Funniest Videos
