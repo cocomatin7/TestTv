@@ -55,8 +55,18 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Tv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Music
+http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Dil Apna Punjabi
+http://tv.daplive.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Ankhila Punjab
+http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Only Music
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Fastway Ent
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
@@ -65,6 +75,10 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Humdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Zee PHHP
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gaunda Punjab
@@ -79,11 +93,22 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari Music
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SangatTV (Gurbani)
+http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SaintTv Toronto (Gurbani)
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: GurbaniHealing (Gurbani)
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aabGurbani (Gurbani)
+http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Sikh Channel USA (Gurbani)
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: GDNS Ludhiana (Gurbani)
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
