@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN: Star Sports 1
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23931
+#EXTINF:-1 tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN: Star Sports Hindi
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/23930
+#EXTINF:-1 tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN: Star Sports 1 LQ
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="Sports",IN: Sony Six 
@@ -95,6 +101,9 @@ http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="114" tvg-name="5aab Gurbani (Gurbani)" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/KIDS: Sony Yay (KIDS)
+https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/dd/87/69/dd8769ea2968303b5d826e2f2a0d2297.png" group-title="IN/Hindi",IN: Zee Cinema (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/81.ts
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.com/news-photo/98204-xplore.jpg?format=webp&w=1100" group-title="IN/Hindi",IN: &Xplor HD (Movies)
@@ -107,6 +116,16 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pxFrfJ0lLQKjJQwdqfKvN7Raw89PeYhPrWQ=s240-c-k-c0xffffffff-no-rj-mo" group-title="IN/Hindi",IN: Bollywood Now (Movies)
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN: Sony Max HD
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN: Star Gold Select HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN: Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN: Sony Pix HD
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN: Romedy Now HD
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="IN/Hindi",IN: Colors SD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="IN/Hindi",IN: Colors HD
@@ -123,6 +142,20 @@ https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/340?cb=20161126174300" group-title="IN/Hindi",IN: Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: Ajj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: Zee News
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1255.ts
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: India Tv News
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: NDTV India News
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/643.ts
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: News 18 News
+http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/29722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News: CNBC Awaaz News
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+
 
 #EXTINF:-1 tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/rep-adam-schiff-on-articles-of-impeachment-and-whats-next/the-staying-power-of-americas-funniest-home-videos/@@images/rectangular_image/page-header?v=1576125150.26" group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
@@ -257,3 +290,7 @@ http://185.23.213.162:8789/live/ania/ania/23452.m3u8
 http://185.23.213.162:8789/live/ania/ania/23451.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="US/VIP",|UK| BT SPORT 3 FHD
 http://185.23.213.162:8789/live/ania/ania/23450.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="IN/Movies",IN/Movies: BALA (ON Demand)
+https://www.dropbox.com/s/230ui5tfxu65x0t/Bala-Hindi-1080P.mkv?dl=1
