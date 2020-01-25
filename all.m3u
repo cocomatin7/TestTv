@@ -1,9 +1,5 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: WWE Sony Liv
-https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="Sports",IN: DSports HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
@@ -61,226 +57,226 @@ http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="119" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News India
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SSTV 
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: SSTV 
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Tv
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: 5aab Tv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aab Music
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: 5aab Music
 http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Pitaara
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Dil Apna Punjabi
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Dil Apna Punjabi
 http://tv.daplive.com:1935/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: PBN Music
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Ankhila Punjab
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Ankhila Punjab
 http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Only Music
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Fastway Ent
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Fastway Ent
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  PTV Pardesi
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Prime Canada TV
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: TV 16 Toronto
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Humdard TV
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Humdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Zee PHHP
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Zee PHHP
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gabrru TV 1
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Gabrru TV 1
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Gaunda Punjab
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Boogle Bollywood
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  CineVoice
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  CineVoice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Desi Channel
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Desi Channel
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Chanenl Y
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Chanenl Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  News18 Pun/Har/Him
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN:  Sardari TV
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN:  Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
+#EXTINF:-1 tvg-logo=" " tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="IN/Punjabi", DD Punjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SangatTV (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: SangatTV (Gurbani)
 http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: SaintTv Toronto (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: SaintTv Toronto (Gurbani)
 http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: GurbaniHealing (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: GurbaniHealing (Gurbani)
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: 5aabGurbani (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: 5aabGurbani (Gurbani)
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: Sikh Channel USA (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: Sikh Channel USA (Gurbani)
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: GDNS Ludhiana (Gurbani)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Punjabi",IN: GDNS Ludhiana (Gurbani)
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors SD
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Colors SD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Colors HD
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1357.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony LQ
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Sony LQ
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony SD
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Tv SD
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Zee Tv SD
 https://streamer-1.toffeelive.com/live/Zee_TV_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Tv HD
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Zee Tv HD
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Mix
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony SAB
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Zee Cinema (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/81.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &Xplor HD (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: &Xplor HD (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1409.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &Pictures HD (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: &Pictures HD (Movies)
 http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/74.ts
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Khadak (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: B4U Khadak (Movies)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: B4U Movies (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Bollywood Now (Movies)
+#EXTINF:-1 tvg-logo=" " group-title="IN/Hindi",IN: Bollywood Now (Movies)
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English",America's Funniest Videos
+#EXTINF:-1 tvg-logo=" " group-title="English",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 1
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 2
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 3
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 4
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 4
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 5
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 5
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 6
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 7
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 7
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",Hollywood Movies 8
+#EXTINF:-1 tvg-logo=" " group-title="English",Hollywood Movies 8
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",USA: Weather Channel
+#EXTINF:-1 tvg-logo=" " group-title="English",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English",USA: Weather Nation
+#EXTINF:-1 tvg-logo=" " group-title="English",USA: Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="English",National GEO
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National_Geographic_logo.png" group-title="English",National GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="English",National GEO Wild
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-Wild.jpg" group-title="English",National GEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="English",H2
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="English",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| USA Network
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: USA Network
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1727
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| CNN HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: CNN HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1819
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Fox News HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Fox News HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1774
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| MSNBC FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: MSNBC FHD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1750
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| CNBC
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: CNBC
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1796
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BLOOMBERG TV
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: BLOOMBERG TV
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1811
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN 3
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPN 3
 http://185.23.213.162:8789/live/ania/ania/24103.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| The Weather Channel
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: The Weather Channel
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1733
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FX TV HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: FX TV HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1763
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| MoreMax HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: MoreMax HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1751
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ACTIONMAX HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ACTIONMAX HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1815
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TNT HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: TNT HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1731
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HBO
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1755
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO COMEDY HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HBO COMEDY HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1757
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO FAMILY HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HBO FAMILY HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1818
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HBO SIGNATURE HD
 http://185.23.213.162:8789/live/ania/ania/24127.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HALLMARK HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HALLMARK HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1758
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| beINSPORT US
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: beINSPORT US
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1820
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPN
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1784
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN 2HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPN 2HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1783
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN Deportes
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPN Deportes
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1781
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPNEWS
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPNEWS
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1779
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ESPN U HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ESPN U HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1780
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BTN
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: BTN
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1808
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Tennis Channel HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Tennis Channel HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1734
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| WWE HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: WWE HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1720
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NBA 1  MATCH EVENT
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: NBA 1  MATCH EVENT
 http://185.23.213.162:8789/live/ania/ania/24090.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NFL NETWORK HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: NFL NETWORK HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1726
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| BRAVO
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: BRAVO
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1809
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| HGTV
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: HGTV
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1817
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FXX
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: FXX
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1762
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| GSN FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: GSN FHD
 http://185.23.213.162:8789/live/ania/ania/24045.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| SPIKE TV HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: SPIKE TV HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1738
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Syfy HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Syfy HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1735
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TLC HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: TLC HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1732
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Viceland
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Viceland
 http://185.23.213.162:8789/live/ania/ania/24041.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| DIY Network
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: DIY Network
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1785
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FREEFROM
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: FREEFROM
 http://185.23.213.162:8789/live/ania/ania/24039.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| TBS
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: TBS
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1816
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| SBTN
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: SBTN
 http://185.23.213.162:8789/live/ania/ania/24037.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: ANIMAL PLANET HD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1833
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| H2
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: H2
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1759
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Travel Channel
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Travel Channel
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1730
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| FOOD NETWORK
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: FOOD NETWORK
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1776
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Disney Channel FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Disney Channel FHD
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1787
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| Nick
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: Nick
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1745
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|USA| NICKTOONS
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",US: NICKTOONS
 http://185.23.213.162:8789/live/ania/ania/24021.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 1 FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",|UK| BT SPORT 1 FHD
 http://185.23.213.162:8789/live/ania/ania/23452.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 2 FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",|UK| BT SPORT 2 FHD
 http://185.23.213.162:8789/live/ania/ania/23451.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="US/VIP",|UK| BT SPORT 3 FHD
+#EXTINF:-1 tvg-logo=" " group-title="US/VIP",|UK| BT SPORT 3 FHD
 http://185.23.213.162:8789/live/ania/ania/23450.m3u8
