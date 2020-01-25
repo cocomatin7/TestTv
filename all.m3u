@@ -9,8 +9,14 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Sony Six 
 http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Sony TEN 2
+http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports 1 
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports 2
+http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports Cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports Select 1
 http://109.169.56.170/hls/starsportsselect1.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",IN: Star Sports Select 2
@@ -122,6 +128,16 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Mix
+https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony SAB
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Cinema (Movies)
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/81.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &Xplor HD (Movies)
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1409.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: &Pictures HD (Movies)
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/74.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Khadak (Movies)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: B4U Movies (Movies)
