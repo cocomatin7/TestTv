@@ -120,14 +120,20 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Punjabi",IN: GDNS Ludhiana (Gurbani)
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors SD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Colors HD
+http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1357.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony LQ
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony SD
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Tv SD
+https://streamer-1.toffeelive.com/live/Zee_TV_720/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Zee Tv HD
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="IN/Hindi",IN: Sony SAB
