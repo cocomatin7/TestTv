@@ -57,6 +57,8 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Golf Channel
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",IN: Ary Digital
+http://158.69.228.195:1935/digitalnew/myStream/chunklist_w313437140.m3u8?
 
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="101"  tvg-name="PTC News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png", PTC News
 https://streaming.ptcplay.com/newsIn/smil:Live.smil/playlist.m3u8
@@ -432,23 +434,8 @@ https://www.dropbox.com/s/qda97my1ci8nzkv/%5Bwww.benytv.xyz%5D-SSye-Raa-Narasimh
 #EXTINF:-1  tvg-logo="https://imgshare.info/images/2019/11/20/857667b3fa6f8b401b30aa20b5bcb559.jpg" group-title="VOD/MIX", Dream Girl
 https://www.googleapis.com/drive/v3/files/1qqaC8mPvUI78HC2E76lVsjXNbBoEXpHu?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
 
-#EXTINF:-1  tvg-logo="https://images3.static-bluray.com/movies/covers/248861_front.jpg" group-title="VOD/MIX", Dora and the Lost City of Gold (Hindi)
-https://firebasestorage.googleapis.com/v0/b/allmoviesdata-e0667.appspot.com/o/New%2FDora%20and%20the%20Lost%20City%20of%20Gold%20(2019).mkv?alt=media&token=f9c18a5c-2e21-48b3-a20d-aae09df18a8a
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/D3jx7Ti.jpg" group-title="VOD/MIX", Drive
 https://www.googleapis.com/drive/v3/files/1CCvns6ihTvICFXloYCwGAY0qKkN4fcPj?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/pYmoYbY.jpg" group-title="VOD/MIX", Chhichhore
-https://firebasestorage.googleapis.com/v0/b/alldata-41e1b.appspot.com/o/new%2FChhichhore%20(2019).mp4?alt=media&token=6217f01c-5714-4083-b3f6-0b301c64534f
-
-#EXTINF:-1  tvg-logo="https://extraimage.net/images/2019/08/16/8894a5fce95f0f7fb57dbb84ffb44322.jpg" group-title="VOD/MIX", Mision Mangal
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMission%20Mangal%20(2019).mp4?alt=media&token=0b8991e9-4fee-4fd9-a038-926a4c4c0074
-
-#EXTINF:-1  tvg-logo="https://extraimage.net/images/2019/10/09/394bfeb410989a4e2b51222033b36d0b.md.jpg" group-title="VOD/MIX", Batla House
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FBatla%20House%20(2019)%20HD.mkv?alt=media&token=71c56692-f326-415a-8969-61e009403de8
-
-#EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-Yz4PMBCjXwI/XaA0UmHAikI/AAAAAAAAvXU/x_TArrfNtD8Au0f0ho0SIM0tQous9xnJwCLcBGAsYHQ/s600/The%2BLion%2BKing%2B%25282019%2529.jpeg" group-title="VOD/MIX", The Lion King Hindi
-https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FThe%20Lion%20King%20(2019).mkv?alt=media&token=65340761-2ff6-4cde-b7d1-89293c40d4d7
 
 #EXTINF:-1  tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD/MIX", Spider Man Far From Home Hindi
 https://www.googleapis.com/drive/v3/files/1RXdAl0ilLOPiIlR6Gmb9N2g5RcnPrl2w?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
@@ -458,9 +445,6 @@ https://www.googleapis.com/drive/v3/files/1SMbBJjb4v-ayOPZ0sC17qkXdZcvaraDm?alt=
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MgdfGXA.jpg" group-title="VOD/MIX", Fast And Furious Hobs and Shaw
 https://www.googleapis.com/drive/v3/files/1P4-c1qQvarWzTDOpdcsc2_KRqofY3M5W?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/e1/05/5e/e1055e06e20f99d680ff5d5fd1734061.jpg" group-title="VOD/MIX", Captain Marvel (Hindi_2019)
-https://firebasestorage.googleapis.com/v0/b/allmovienamefirst.appspot.com/o/Captain%20Marvel%20(2019)%20HD.mkv?alt=media&token=968f9351-456c-4317-b9e8-cda11d600cfa
 
 
 #EXTINF:-1  tvg-logo="" group-title="VOD/Punjabi", Surkhi Bindi (Punjabi 2019)
