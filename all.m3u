@@ -43,8 +43,6 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_6
 http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Sky Sports FHD
 http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",IN: Sky Sports 1 Main Event LQ
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Sky Sports 2 Action
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Sky Sports 3 Premier League
@@ -55,6 +53,8 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: BT Sports 1
 http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",US: ESPN HD
+http://sync1c.iptv.bingo/live/40583?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Golf Channel
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",IN: Ary Digital
@@ -240,11 +240,18 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",US: TLC HD
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English",US: TBS HD
+http://sync1c.iptv.bingo/live/40343?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-logo="" group-title="English",US: EPIC HITS
+http://sync1c.iptv.bingo/live/40599?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-logo="" group-title="English",US: Comedy Central
+http://sync1c.iptv.bingo/live/40641?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1 tvg-logo="" group-title="English",US: BEIN Movies HD 1
 http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",US: BEIN Movies HD 2
 http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="English",US: MSNBC HD
+http://sync1c.iptv.bingo/live/40465?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="English",USA: Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.weathernationtv.com/app/uploads/2018/07/Badge_Lower-Text_Full-Color.jpg" group-title="English",USA: Weather Nation
