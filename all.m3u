@@ -80,12 +80,22 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png", AAHOO TV
+https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Zee_Punjabi_2019_Logo.jpg/revision/latest/scale-to-width-down/340?cb=20191213065721" group-title="IN/Punjabi",IN Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="", Sada Tv
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="http://www.t21prime.tv/wp-content/uploads/2019/07/01.png", Prime HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="113" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV Australia
 http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="", Trucking Tv
+http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="", Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="119" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News India
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6Db0ve6uOKsMhmxifTicdjCTSmwVCfkxdVYRwP-BOyLunGoD&s" group-title="IN/Punjabi",IN SSTV 
@@ -178,17 +188,16 @@ http://fr-c.movply.stream/hls/Star_Gold.m3u8
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Sony Max HD 2
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Star Gold Select HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="IN/Hindi", Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Sony Pix HD
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Romedy Now HD
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN VH1 HD
-http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://753619.smushcdn.com/1323606/wp-content/uploads/2019/04/logo_site-768x345.png?lossy=1&strip=1&webp=1" group-title="IN/Hindi",The Q
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="IN/Hindi",IN Colors SD
@@ -211,8 +220,20 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/340?cb=20161126174300" group-title="IN/Hindi",IN Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News Star Plus HD
-http://52.66.207.99/h.php?c=starplushd&e=.m3u8%7Cuser-agent=%22Mozilla/5.0%20(CrKey%20armv7l%201.4.15250)%20AppleWebKit/JioTV/537.36%20(KAIOS,%20like%20Gecko)%20Chrome/74.0.3729.77%20Safari/537.36%22
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="IN/Hindi",IN/News Star Plus HD
+http://fr-c.movply.stream/hls/Star_Plus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN Romedy Now HD
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN VH1 HD
+http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="IN/Hindi",TLC
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="IN/Hindi",Animal Planet Hindi
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png"group-title="IN/Hindi",Discovery Hindi
+https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="IN/Hindi",Discovery Science Hindi
+https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News Ajj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IN/Hindi",IN/News Zee News
