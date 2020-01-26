@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS Disney JR (KIDS)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney JR (KIDS)
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS Cartoon Network (KIDS)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Cartoon Network (KIDS)
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS Nickelodeon (KIDS)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Nickelodeon (KIDS)
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS Nick JR (KIDS)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Nick JR (KIDS)
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 1
@@ -74,12 +74,18 @@ https://streaming.ptcplay.com/chakdeIn/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/dholtvIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_30EKwQoCtLhNWmi-5gVLUAl88UAJfM0GwEA=s900-c-k-c0xffffffff-no-rj-mo", Hulchul Tv
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1 News
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Zee_Punjabi_2019_Logo.jpg/revision/latest/scale-to-width-down/340?cb=20191213065721" group-title="IN/Punjabi",IN Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="113" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV Australia
+http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="119" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News India
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6Db0ve6uOKsMhmxifTicdjCTSmwVCfkxdVYRwP-BOyLunGoD&s" group-title="IN/Punjabi",IN SSTV 
