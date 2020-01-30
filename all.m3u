@@ -53,6 +53,8 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sony ESPN LQ
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN BT Sports 1
 http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",US ESPN HD
