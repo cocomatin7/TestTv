@@ -14,6 +14,15 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Star Sports 1 (BACKUP)
+http://185.63.254.79:4747/sports2020/starsports1/chunks.m3u8?nimblesessionid=32406359&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNzowNSBQTSZoYXNoX3ZhbHVlPVdCZWR1L0YxV2xDcHhvMzhVS0JlSFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Star Sports 1 Hindi (BACKUP)
+http://185.63.254.79:4747/sports2020/starsports1hindi/chunks.m3u8?nimblesessionid=32405661&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNjowOCBQTSZoYXNoX3ZhbHVlPVZpU01JdEFzZ3NTRHZWRkorYUNjaFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Willow (BACKUP)
+http://185.63.254.79:4747/sports2020/willowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNDo0NCBQTSZoYXNoX3ZhbHVlPVZLa2N2dmtMSVFicURZMGIwMGtJeXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",NFL Network (BACKUP)
+http://185.63.254.79:4747/sports2020/nflnetwork/chunks.m3u8?nimblesessionid=32406949&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNzo1MyBQTSZoYXNoX3ZhbHVlPW42alVGSUZXcnV5SU1pZ1NMUG53Ymc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="Sports",IN Sony Six 
