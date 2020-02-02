@@ -64,29 +64,20 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Ary Digital
 http://158.69.228.195:1935/digitalnew/myStream/chunklist_w313437140.m3u8?
 
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="101"  tvg-name="PTC News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png", PTC News
-https://streaming.ptcplay.com/newsIn/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="102" tvg-name="PTC GOLD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", PTC GOLD
-https://streaming.ptcplay.com/goldIn/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="PTC Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi
-https://streaming.ptcplay.com/PUNJABIIN/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="105" tvg-name="PTC Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png", PTC Music
-https://streaming.ptcplay.com/musicIn/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="106" tvg-name="PTC Chak De" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png", PTC Chak De
-https://streaming.ptcplay.com/chakdeIn/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="107" tvg-name="PTC Dhol TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png", PTC Dhol TV HD
-https://streaming.ptcplay.com/dholtvIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi Backup
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi (BACKUP)
 http://185.149.90.23:7071/pun2019/ptcpunjabi/chunks.m3u8?nimblesessionid=1251245&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", 9x Tashan
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", 9x Tashan (BACKUP)
 http://185.149.90.23:7071/pun2019/9xtashan/playlist.m3u8?nimblesessionid=1251511&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", MH1
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", MH1 (BACKUP)
 http://185.149.90.23:7071/pun2019/mh1/chunks.m3u8?nimblesessionid=1250675&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Zee_Punjabi_2019_Logo.jpg/revision/latest/scale-to-width-down/340?cb=20191213065721" group-title="IN/Punjabi",IN Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", Jus Punjabi (BACKUP)
+http://185.149.90.23:7071/pun2019/justpunjabi/chunks.m3u8?nimblesessionid=1253292&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgODozMjo1MSBQTSZoYXNoX3ZhbHVlPUNZV2oraVdUZExrMTRvUjQvWm9lS1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", Shan Punjabi (BACKUP)
+http://185.149.90.23:7071/pun2019/shanpunjab/chunks.m3u8?nimblesessionid=1253383&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgODozNToxOSBQTSZoYXNoX3ZhbHVlPWsxZlNTUTNDMXFmTEJLSHlzNkViNXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png", AAHOO TV
