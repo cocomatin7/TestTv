@@ -62,20 +62,6 @@ http://sync1c.iptv.bingo/live/40583?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Golf Channel
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi (BACKUP)
-http://185.149.90.23:7071/pun2019/ptcpunjabi/chunks.m3u8?nimblesessionid=1251245&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", 9x Tashan (BACKUP)
-http://185.149.90.23:7071/pun2019/9xtashan/playlist.m3u8?nimblesessionid=1251511&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", MH1 (BACKUP)
-http://185.149.90.23:7071/pun2019/mh1/chunks.m3u8?nimblesessionid=1250675&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNzozNDoyOSBQTSZoYXNoX3ZhbHVlPVkzTVU1UmN5NnE1aU9qNnVHTDRxVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", Jus Hindi (BACKUP)
-http://185.149.90.23:7071/pun2019/jus24x7/chunks.m3u8?nimblesessionid=1254324&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTowMDo0OSBQTSZoYXNoX3ZhbHVlPW9aQkV3alNGb0ZBeUNsanNCeXoyTmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", Jus Punjabi (BACKUP)
-http://185.149.90.23:7071/pun2019/justpunjabi/chunks.m3u8?nimblesessionid=1253292&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgODozMjo1MSBQTSZoYXNoX3ZhbHVlPUNZV2oraVdUZExrMTRvUjQvWm9lS1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="104" tvg-name="N/A" tvg-logo="", Shan Punjabi (BACKUP)
-http://185.149.90.23:7071/pun2019/shanpunjab/chunks.m3u8?nimblesessionid=1253383&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgODozNToxOSBQTSZoYXNoX3ZhbHVlPWsxZlNTUTNDMXFmTEJLSHlzNkViNXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara (BACKUP)
-http://185.149.90.23:7071/pun2019/pitaaratv/chunks.m3u8?nimblesessionid=1254241&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgODo1ODo0OSBQTSZoYXNoX3ZhbHVlPWFxQ1JRbGpWR0E1TDBOa0EyaWRLWUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Zee_Punjabi_2019_Logo.jpg/revision/latest/scale-to-width-down/340?cb=20191213065721" group-title="IN/Punjabi",IN Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
@@ -84,6 +70,8 @@ http://livepitaara.planetcast.in/pitaaraTV.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png", AAHOO TV
 https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://fxtantra.com/wp-content/uploads/2018/10/gabruu-tv-logo.jpg" group-title="IN/Punjabi",IN  Gabrru TV
+http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="113" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="IN/Punjabi",IN 5aab Music
@@ -98,8 +86,6 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/index.m3u8
 http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/42f41596-46fb-429b-947d-1f2177494932.jpg" group-title="IN/Punjabi",IN Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://fxtantra.com/wp-content/uploads/2018/10/gabruu-tv-logo.jpg" group-title="IN/Punjabi",IN  Gabrru TV
-http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_30EKwQoCtLhNWmi-5gVLUAl88UAJfM0GwEA=s900-c-k-c0xffffffff-no-rj-mo", Hulchul Tv
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1 News
