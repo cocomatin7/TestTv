@@ -4,10 +4,6 @@
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney JR (KIDS)
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Cartoon Network (KIDS)
-http://fr-c.movply.stream/hls/Carton_Network.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Nickelodeon (KIDS)
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Nick JR (KIDS)
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",IN/KIDS Sony Yay (KIDS)
@@ -15,32 +11,15 @@ https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Star Sports 1 (BACKUP)
-http://185.63.254.79:4747/sports2020/starsports1/chunks.m3u8?nimblesessionid=32406359&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNzowNSBQTSZoYXNoX3ZhbHVlPVdCZWR1L0YxV2xDcHhvMzhVS0JlSFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Star Sports 1 Hindi (BACKUP)
-http://185.63.254.79:4747/sports2020/starsports1hindi/chunks.m3u8?nimblesessionid=32405661&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNjowOCBQTSZoYXNoX3ZhbHVlPVZpU01JdEFzZ3NTRHZWRkorYUNjaFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Willow (BACKUP)
-http://185.63.254.79:4747/sports2020/willowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNDo0NCBQTSZoYXNoX3ZhbHVlPVZLa2N2dmtMSVFicURZMGIwMGtJeXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",NFL Network (BACKUP)
-http://185.63.254.79:4747/sports2020/nflnetwork/chunks.m3u8?nimblesessionid=32406949&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgOTozNzo1MyBQTSZoYXNoX3ZhbHVlPW42alVGSUZXcnV5SU1pZ1NMUG53Ymc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="Sports",IN Sony Six 
-http://fr-c.movply.stream/hls/sony-six-hd.m3u8
-#EXTINF:-1 tvg-id="n/a" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAcEkudVuZC8aFA4p6zn9wWpP8gQPedtCdPD2ULSg-NnR0l02og&s",Sony Ten 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAcEkudVuZC8aFA4p6zn9wWpP8gQPedtCdPD2ULSg-NnR0l02og&s" group-title="Sports",IN Sony TEN 2
-http://103.68.116.50/live/feed1004/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 1 LQ
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 2
 http://103.68.116.50/live/feed1006/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://pbs.twimg.com/profile_images/1427215733/Star-Cricket-HD.png" group-title="Sports",IN Star Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/SSS_2017.jpg/revision/latest/scale-to-width-down/340?cb=20170728102022" group-title="Sports",IN Star Sports Select 1
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN World Football
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
+
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sky Sports HD
 http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sky Sports FHD
@@ -51,6 +30,7 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sky Sports 4 Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sony ESPN LQ
