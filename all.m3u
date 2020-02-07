@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: Fox 4
+http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
