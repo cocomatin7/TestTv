@@ -2,6 +2,24 @@
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC 8 (Dallas) HD
+http://ip4.iptv.bingo/live/14801?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: CBS 11 (Dallas) | HD
+http://sync1c.iptv.bingo/live/40663?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: NBC Dallas HD
+http://ip4.iptv.bingo/live/8487?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: FOX DALLAS TX KDFW
+http://ip4.iptv.bingo/live/35052?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: FOX Dallas
+http://ip4.iptv.bingo/live/8523?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: CBS DALLAS TX KTVT
+http://ip4.iptv.bingo/live/35032?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC DALLAS TX WFAA
+http://ip4.iptv.bingo/live/35006?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC Dallas
+http://ip4.iptv.bingo/live/8443?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+
+
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
@@ -12,15 +30,8 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",IN/KIDS Sony Yay (KIDS)
 https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD
-http://ip4.iptv.bingo/live/2372?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1tZ3RlY2h2aW5lLmxpdmVzb255c2l4dHZfc2NyZWVuXzBfMTUyOTQyNDE0Nl8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Sports",Sony Six Sports HD
-http://ip4.iptv.bingo/live/33556?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://image.winudf.com/v2/image/dHYuc29ueWxpdmFwcF9zY3JlZW5fMF8xNTI2ODQzOTc3XzA0Mg/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Sports",Sony ESPN HD
-http://ip4.iptv.bingo/live/33558?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-
-
-
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket Matches
+http://51.158.145.42:8090/CR/5/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 2
