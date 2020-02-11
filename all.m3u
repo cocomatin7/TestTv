@@ -1,23 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: Fox 4
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC 8 (Dallas) HD
-http://ip4.iptv.bingo/live/14801?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: CBS 11 (Dallas) | HD
-http://sync1c.iptv.bingo/live/40663?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: NBC Dallas HD
-http://ip4.iptv.bingo/live/8487?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: FOX DALLAS TX KDFW
-http://ip4.iptv.bingo/live/35052?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: FOX Dallas
-http://ip4.iptv.bingo/live/8523?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: CBS DALLAS TX KTVT
-http://ip4.iptv.bingo/live/35032?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC DALLAS TX WFAA
-http://ip4.iptv.bingo/live/35006?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",DAL: ABC Dallas
-http://ip4.iptv.bingo/live/8443?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Local",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.weathernationtv.com/app/uploads/2018/07/Badge_Lower-Text_Full-Color.jpg" group-title="Local",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
 
@@ -310,10 +298,6 @@ http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US MSNBC HD
 http://sync1c.iptv.bingo/live/40465?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="English",USA: Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.weathernationtv.com/app/uploads/2018/07/Badge_Lower-Text_Full-Color.jpg" group-title="English",USA: Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
