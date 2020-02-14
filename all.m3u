@@ -1,7 +1,9 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="Local",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Local",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.weathernationtv.com/app/uploads/2018/07/Badge_Lower-Text_Full-Color.jpg" group-title="Local",Weather Nation
