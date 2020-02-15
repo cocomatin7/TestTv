@@ -22,8 +22,6 @@ https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket Matches
 http://51.158.145.42:8090/CR/5/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",Start Sports 1
-http://167.86.89.238:8080/StarSportsHindi_HDD/index.m3u8?token=31c23127790d2d3a2febf534bec3c914df8758fc-99357afcbb4be301002376913d2d0636-1581723398-1581712598
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 2
@@ -32,7 +30,7 @@ http://103.68.116.50/live/feed1006/index.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/SSS_2017.jpg/revision/latest/scale-to-width-down/340?cb=20170728102022" group-title="Sports",IN Star Sports Select 1
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/BCPPFKvRIhprqWDsIGUdQosJbaQR8DOUhxonC8-eyeDC4KmTDiWUZ-tEyvSHZiYykOcz" group-title="Sports",PTV Sports HD
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.googleusercontent.com/BCPPFKvRIhprqWDsIGUdQosJbaQR8DOUhxonC8-eyeDC4KmTDiWUZ-tEyvSHZiYykOcz" group-title="Sports",Willow HD
 http://51.158.144.124:8090/CR/7/index.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",IN Sky Sports HD
@@ -61,6 +59,9 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Zee_Punjabi_2019_Logo.jpg/revision/latest/scale-to-width-down/340?cb=20191213065721" group-title="IN/Punjabi",IN Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517213253938166_Tashan_9x_logo_460.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="IN/Punjabi",9X Tashan 
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49730
+
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
@@ -152,26 +153,8 @@ http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBS9tdHXzPupdqTozpYvpIYU6BSP2X4plyPSuvK69YLv7nmBQY" group-title="IN/Hindi",IN &TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="n/a"  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
-http://167.86.89.238:8080/SonyTV_HD/index.m3u8?token=c024211df58cd5d707908109508bdba0ae560ea2-cf8d512865ba3d47379c82965dd8a7b1-1581723577-1581712777
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="IN/Hindi",IN Zee Tv HD
-http://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1581711459~exp=1581714459~acl=/*~hmac=9cc65e4dfb904f812db9d87d047766607957204126865329096b6eda66386519
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="IN/Hindi",IN Colors HD
-http://167.86.89.238:8080/ColorsTV_HD2/index.m3u8?token=eed09d60c1b5822523b49ba177b363a334d34cfb-997b5320d37b390772e7b706df9e12ad-1581723280-1581712480
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="IN/Hindi",IN Star Plus HD
-http://167.86.89.238:8080/StarPlus_HD/index.m3u8?token=c84c2428f018a1dc5389ab2f28c2dd1a0d238bc3-e1f93eebef4dd6c7fbcd016b5f504cc6-1581723663-1581712863
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/%26pictures.png/revision/latest?cb=20190711112804" group-title="IN/Hindi",IN &Pictures HD 2(Movies)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.pinimg.com/originals/dd/87/69/dd8769ea2968303b5d826e2f2a0d2297.png" group-title="IN/Hindi",IN Zee Cinema (Movies)
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.pinclipart.com/picdir/middle/148-1489919_star-world-logopedia-download-star-gold-channel-logo.png" group-title="IN/Hindi",IN Star Gold
-http://167.86.89.238:8080/Star_GoldHD/index.m3u8?token=5af59fcfc4091eb55bff1b1c650dd68c1b759fb3-9f9486111fd397ac588c283b0e0e929d-1581723823-1581713023
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",Sony Max HD
-http://167.86.89.238:8080/Sony_Max_HD/index.m3u8?token=3bfc933980f1708f28749e63120fecd73b98f31c-e080a80351be3d45b52fdf0a5e1c605c-1581723859-1581713059
-
-
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49930
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBS9tdHXzPupdqTozpYvpIYU6BSP2X4plyPSuvK69YLv7nmBQY" group-title="IN/Hindi",IN &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
