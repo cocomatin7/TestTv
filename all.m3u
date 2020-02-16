@@ -110,6 +110,8 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="http://cdn-radiotime-logos.tunein.com/s149060g.png", Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="http://cdn-radiotime-logos.tunein.com/s149060g.png", Punjabi Zindabad Backup
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49903
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/TVOne_Canada.png", Canada One 
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6Db0ve6uOKsMhmxifTicdjCTSmwVCfkxdVYRwP-BOyLunGoD&s" group-title="IN/Punjabi",IN SSTV 
@@ -155,7 +157,26 @@ http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="n/a"  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49930
-
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="IN/Hindi", Sony HD Backup
+http://skdn.redi-vo.com/iptv/ch1701?code=103131497823984&key=17324
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Zee Tv
+http://skdn.redi-vo.com/iptv/ch1709?code=103131497823984&key=45906
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Zee Tv Backup
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/50025
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Colors HD
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Star Plus
+http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Star Plus Backup
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49942
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Star Gold
+http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Star Gold Backup
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49940
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Zee Cinema
+http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="IN/Hindi", Zee Cinema Backup
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/50003
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBS9tdHXzPupdqTozpYvpIYU6BSP2X4plyPSuvK69YLv7nmBQY" group-title="IN/Hindi",IN &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/340?cb=20161126174300" group-title="IN/Hindi",IN Sony SAB
