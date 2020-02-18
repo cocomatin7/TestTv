@@ -4,11 +4,14 @@
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="Local",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/fox-news-logo.jpg?w=737" group-title="Local",Fox News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Local",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.weathernationtv.com/app/uploads/2018/07/Badge_Lower-Text_Full-Color.jpg" group-title="Local",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",Fx
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
@@ -20,6 +23,9 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",IN/KIDS Sony Yay (KIDS)
 https://streamer-1.toffeelive.com/live/sony_yay_320/index.m3u8
 
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Sports",NBA HD
+http://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD
 http://51.158.144.124:8090/CR/7/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
@@ -59,7 +65,6 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517213253938166_Tashan_9x_logo_460.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="IN/Punjabi",9X Tashan 
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49730
-
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
