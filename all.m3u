@@ -371,3 +371,27 @@ http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7/English",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",B4U Movies
+http://skdn.redi-vo.com/iptv/ch1733?code=138137164006399&key=39882
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",B4U Music
+http://skdn.redi-vo.com/iptv/ch1732?code=138137164006399&key=36241
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Sony Ent. TV Asia
+http://skdn.redi-vo.com/iptv/ch1701?code=138137164006399&key=21892
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Star Gold
+http://skdn.redi-vo.com/iptv/ch1704?code=138137164006399&key=24441
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Star Hbarat
+http://skdn.redi-vo.com/iptv/ch1948?code=138137164006399&key=16755
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Star Plus
+http://skdn.redi-vo.com/iptv/ch1706?code=138137164006399&key=46747
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Zee Classic
+http://skdn.redi-vo.com/iptv/ch1753?code=138137164006399&key=59933
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Zee Action
+http://skdn.redi-vo.com/iptv/ch1705?code=138137164006399&key=30740
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Zee Cinema
+http://skdn.redi-vo.com/iptv/ch1708?code=138137164006399&key=61304
+#EXTINF:-1 tvg-id="n/a" group-title="Hindi/Asia",Zee TV
+http://skdn.redi-vo.com/iptv/ch1709?code=138137164006399&key=16912
