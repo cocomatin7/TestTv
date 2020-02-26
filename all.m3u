@@ -12,6 +12,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",Fx
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Local",NASA
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="KIDS",KIDS Disney Channel (KIDS)
