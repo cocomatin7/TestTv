@@ -264,38 +264,12 @@ https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US FX HD
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Fox Movies HD
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Fox Family Movies HD
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Fox Action Movies HD
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Warner Tv HD
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US HBO Family HD
-https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US HBO Hits HD
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Only Motors
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TLC HD
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TBS HD
-http://sync1c.iptv.bingo/live/40343?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US EPIC HITS
-http://sync1c.iptv.bingo/live/40599?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US Comedy Central
-http://sync1c.iptv.bingo/live/40641?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US BEIN Movies HD 1
 http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US BEIN Movies HD 2
 http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US MSNBC HD
-http://sync1c.iptv.bingo/live/40465?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
