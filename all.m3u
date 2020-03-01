@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="Local",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/fox-news-logo.jpg?w=737" group-title="Local",Fox News
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://tbivision.com/files/2014/10/Australia-channel.jpg" group-title="Local",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/fox-news-logo.jpg?w=737" group-title="Local",Fox News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Local",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -49,7 +49,9 @@ http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia Backup
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/EdH8s1I.jpg",UK BritAsia Backup 1
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia Backup 2
 http://skdn.redi-vo.com/iptv/ch1743?code=138137164006399&key=14829
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png", AAHOO TV
 https://v.viralshit.in/live/aahomusic.m3u8
