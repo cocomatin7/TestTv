@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2x5m5g4ylqjvyGKP298maV5UpV0nfW8FAgA9JgZXhFegaSZbu" group-title="Local",CNA World
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Local",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tbivision.com/files/2014/10/Australia-channel.jpg" group-title="Local",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://pmcvariety.files.wordpress.com/2018/03/fox-news-logo.jpg?w=737" group-title="Local",Fox News Australia
@@ -43,8 +47,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://cdn-radiotime-logos.tunein.com/s129115g.png" group-title="IN/Punjabi",IN Dil Apna Punjabi
 http://tv.daplive.com:1935/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="IN/Punjabi",IN Ankhila Punjab
-http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="http://www.truckingtodaytv.net/wp-content/uploads/2019/03/gtt-retina-logo.png", Trucking Tv
 http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg", Brit Asia
@@ -65,6 +67,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV Australia
 http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="IN/Punjabi",IN Ankhila Punjab
+http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://yt3.ggpht.com/a/AGF-l78jxbYn3pLP7ZGNe-XD-LZZTzyYe8vaDynNdQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="IN/Punjabi",IN PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/42f41596-46fb-429b-947d-1f2177494932.jpg" group-title="IN/Punjabi",IN Only Music
