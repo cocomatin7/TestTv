@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="Local",US CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2x5m5g4ylqjvyGKP298maV5UpV0nfW8FAgA9JgZXhFegaSZbu" group-title="Local",CNA World
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="Local",Al Jazeera
@@ -18,8 +20,16 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD
-http://51.158.144.124:8090/CR/7/index.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
+http://51.158.144.124:8090/CR/3/index.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD
+http://npse.brots.world/espn2.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/0/0c/WSVN_7_logo.png/revision/latest?cb=20190228020920" group-title="Sports",FOX(WSNV)
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://logodix.com/logo/18135.png" group-title="Sports",Redbull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sHxk8FiFYo-s3A15hbsb_qaqLvwIBloz1HtAFV33KaaWZ3XN&s" group-title="Sports",IN DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.asiahockey.org/wp-content/uploads/2017/10/Star-Sports-original.gif" group-title="Sports",IN Star Sports 2
