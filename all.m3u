@@ -23,6 +23,12 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://51.15.8.16:8081/ind1live/starsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
 http://51.158.144.124:8090/CR/3/index.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Olympic Channel UHD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN News HD
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN U HD
+https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD 2
@@ -88,8 +94,6 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_30EKwQoCtLhNWmi-5gVLUAl88UAJfM0GwEA=s900-c-k-c0xffffffff-no-rj-mo", Hulchul Tv
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 group-title="IN/Punjabi" tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1 News
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="N/A" tvg-name="N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/77/e0/9e/77e09e1a-22de-19a4-1228-a1b1b781dfc8/source/512x512bb.jpg", Sada Tv
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Asia_Television.png/220px-Prime_Asia_Television.png" group-title="IN/Punjabi",Prime Asia
@@ -122,6 +126,8 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://yt3.ggpht.com/a/AGF-l78Fw6RKc-AT5E7H456zzGSS3naQbeBC7DNK1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="IN/Punjabi",IN  Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="IN/Punjabi" tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 group-title="IN/Punjabi" tvg-id="119" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png", ABP News India
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvXiiE7HN9jBE-0Y6NnYgLXMvSwXWDSrQxNpyLBxNXUdhGR9N&s" group-title="IN/Punjabi",IN Zee PHHP
@@ -279,6 +285,11 @@ https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TNT (Opt-1)
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TNT (Opt-2)
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TLC HD
